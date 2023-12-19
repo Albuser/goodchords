@@ -1,0 +1,22 @@
+C Major, Cycle 4, spread Voicing
+C  G  D# 
+C  A  F  
+D  B  F  
+D# B  G  
+D# C  A  
+F  D  A  
+G  D  B  
+G  D# C  
+A  F  C  
+B  F  D  
+B  G  D# 
+C  A  D# 
+D  A  F  
+D  B  G  
+D# C  G  
+F  C  A  
+F  D  B  
+G  D# B  
+A  D# C  
+A  F  D  
+B  G  D  

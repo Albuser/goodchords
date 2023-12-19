@@ -1,0 +1,22 @@
+C Major, Cycle 4, close Voicing
+C  D# G  
+C  F  A  
+D  F  B  
+D# G  B  
+D# A  C  
+F  A  D  
+G  B  D  
+G  C  D# 
+A  C  F  
+B  D  F  
+B  D# G  
+C  D# A  
+D  F  A  
+D  G  B  
+D# G  C  
+F  A  C  
+F  B  D  
+G  B  D# 
+A  C  D# 
+A  D  F  
+B  D  G  

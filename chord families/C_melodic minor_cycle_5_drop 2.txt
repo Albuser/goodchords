@@ -1,0 +1,15 @@
+C Major, Cycle 5, drop 2 Voicing
+C  G  B  D# 
+D  G  B  F  
+D  A  C  F  
+D# A  C  G  
+D# B  D  G  
+F  B  D  A  
+F  C  D# A  
+G  C  D# B  
+G  D  F  B  
+A  D  F  C  
+A  D# G  C  
+B  D# G  D  
+B  F  A  D  
+C  F  A  D# 

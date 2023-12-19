@@ -1,0 +1,22 @@
+C Major, Cycle 3, spread Voicing
+C  G  D# 
+B  G  D# 
+B  G  D  
+B  F  D  
+A  F  D  
+A  F  C  
+A  D# C  
+G  D# C  
+G  D# B  
+G  D  B  
+F  D  B  
+F  D  A  
+F  C  A  
+D# C  A  
+D# C  G  
+D# B  G  
+D  B  G  
+D  B  F  
+D  A  F  
+C  A  F  
+C  A  D# 

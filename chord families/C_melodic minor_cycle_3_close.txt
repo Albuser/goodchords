@@ -1,0 +1,22 @@
+C Major, Cycle 3, close Voicing
+C  D# G  
+B  D# G  
+B  D  G  
+B  D  F  
+A  D  F  
+A  C  F  
+A  C  D# 
+G  C  D# 
+G  B  D# 
+G  B  D  
+F  B  D  
+F  A  D  
+F  A  C  
+D# A  C  
+D# G  C  
+D# G  B  
+D  G  B  
+D  F  B  
+D  F  A  
+C  F  A  
+C  D# A  

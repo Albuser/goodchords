@@ -1,0 +1,22 @@
+C Major, Cycle 6, close Voicing
+C  D# G  
+C  D# G# 
+C  F  G# 
+D  F  G# 
+D  F  B  
+D  G  B  
+D# G  B  
+D# G  C  
+D# G# C  
+F  G# C  
+F  G# D  
+F  B  D  
+G  B  D  
+G  B  D# 
+G  C  D# 
+G# C  D# 
+G# C  F  
+G# D  F  
+B  D  F  
+B  D  G  
+B  D# G  

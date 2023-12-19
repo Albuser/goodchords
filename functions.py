@@ -1,26 +1,32 @@
 from classes import *
 
 
-def generateChordFamily(voiceLeading, startingChord):
-    chord = Chord(startingChord.root, startingChord.chordTones)
+def generateChordFamily(cycle, root, scaleType, chord, fname):
+    scale = Scale(root, scaleType)
+    chordTones = [ChordTone(scale.notes[x]) for x in chord]
+    startingChord = Chord(scale, 0, chordTones)
+    chord = startingChord.copy()
+    permutation = chord.getBestInversion(cycle - 1)
     while True:
-        print(chord)
-        chord = chord.transpose(voiceLeading)
+        with open(fname, "a") as f:
+            f.write(chord.__repr__() + "\n")
+        chord.transpose(cycle - 1)
+        chord.permute(permutation)
         if chord.pitchClasses() == startingChord.pitchClasses():
             break
 
 
-def getSevenToneTriad(scale, voicing="close"):
-    notes = [(x[0], (scale.notes[x[1]])) for x in sevenToneTriad]
-    if voicing == "spread":
-        notes = [notes[0], notes[2], notes[1]]
-    return [ChordTone(*note) for note in notes]
-
-
-def getCycle(root, scaleType, cycleNum, voicing="close"):
-    scale = Scale(root, scaleType)
-    intMap = cycleMaps[cycleNum]["intMap"]
-    funMap = cycleMaps[cycleNum]["funMap"]
-    voiceLeading = VoiceLeading(scale, intMap, funMap)
-    startingChord = Chord(root, getSevenToneTriad(scale, voicing))
-    return voiceLeading, startingChord
+def write_files(root, scaleType, chordVoicings):
+    scaleName = scaleType["name"]
+    scaleNotes = scaleType["notes"]
+    rootName = pitch_classes[root]
+    for chordName, chord in chordVoicings.items():
+        for cycle in range(2, 8):
+            fname = f"{rootName}_{scaleName}_cycle_{cycle}_{chordName}.txt"
+            with open(fname, "w") as f:
+                f.write(
+                    f"{rootName.capitalize()} Major, Cycle {cycle}, {chordName} Voicing\n"
+                )
+            generateChordFamily(
+                cycle, root=root, scaleType=scaleNotes, chord=chord, fname=fname
+            )

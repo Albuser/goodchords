@@ -1,0 +1,22 @@
+C Major, Cycle 5, close Voicing
+C  D# G  
+B  D  G  
+G# D  F  
+G# C  D# 
+G  B  D# 
+F  B  D  
+F  G# C  
+D# G  C  
+D  G  B  
+D  F  G# 
+C  D# G# 
+B  D# G  
+B  D  F  
+G# C  F  
+G  C  D# 
+G  B  D  
+F  G# D  
+D# G# C  
+D# G  B  
+D  F  B  
+C  F  G# 

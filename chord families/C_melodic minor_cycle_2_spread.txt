@@ -1,0 +1,22 @@
+C Major, Cycle 2, spread Voicing
+C  G  D# 
+A  F  D  
+G  D# B  
+F  C  A  
+D  B  G  
+C  A  D# 
+B  F  D  
+G  D# C  
+F  D  A  
+D# B  G  
+C  A  F  
+B  G  D  
+A  D# C  
+F  D  B  
+D# C  G  
+D  A  F  
+B  G  D# 
+A  F  C  
+G  D  B  
+D# C  A  
+D  B  F  

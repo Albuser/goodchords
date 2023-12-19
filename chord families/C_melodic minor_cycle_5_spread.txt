@@ -1,0 +1,22 @@
+C Major, Cycle 5, spread Voicing
+C  G  D# 
+B  G  D  
+A  F  D  
+A  D# C  
+G  D# B  
+F  D  B  
+F  C  A  
+D# C  G  
+D  B  G  
+D  A  F  
+C  A  D# 
+B  G  D# 
+B  F  D  
+A  F  C  
+G  D# C  
+G  D  B  
+F  D  A  
+D# C  A  
+D# B  G  
+D  B  F  
+C  A  F  

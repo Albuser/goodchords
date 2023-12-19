@@ -1,0 +1,22 @@
+C Major, Cycle 7, spread Voicing
+C  G  D# 
+D  B  F  
+D# C  A  
+G  D  B  
+A  F  C  
+B  G  D# 
+D  A  F  
+D# C  G  
+F  D  B  
+A  D# C  
+B  G  D  
+C  A  F  
+D# B  G  
+F  D  A  
+G  D# C  
+B  F  D  
+C  A  D# 
+D  B  G  
+F  C  A  
+G  D# B  
+A  F  D  

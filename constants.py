@@ -1,6 +1,6 @@
-major = [0, 2, 4, 5, 7, 9, 11]
-melod = [0, 2, 3, 5, 7, 9, 11]
-harmo = [0, 2, 3, 5, 7, 8, 11]
+major = {"name": "major", "notes": [0, 2, 4, 5, 7, 9, 11]}
+melod = {"name": "melodic minor", "notes": [0, 2, 3, 5, 7, 9, 11]}
+harmo = {"name": "harmonic minor", "notes": [0, 2, 3, 5, 7, 8, 11]}
 
 pitch_classes = {
     0: "C",
@@ -29,4 +29,15 @@ cycleMaps = {
     7: {"intMap": {"5": 2, "3": 1, "1": 1}, "funMap": {"5": "1", "3": "5", "1": "3"}},
     5: {"intMap": {"5": 0, "3": -1, "1": -1}, "funMap": {"5": "1", "3": "5", "1": "3"}},
     3: {"intMap": {"5": 0, "3": 0, "1": -2}, "funMap": {"5": "3", "3": "1", "1": "5"}},
+}
+
+triadVoicings = {"close": [0, 2, 4], "spread": [0, 4, 2]}
+
+seventhVoicings = {
+    "4-way close": [0, 2, 4, 6],
+    "drop 2": [0, 4, 6, 2],
+    "drop 3": [0, 6, 2, 4],
+    "drop 2 and 3": [0, 2, 6, 4],
+    "drop 2 and 4": [0, 4, 2, 6],
+    "double drop 2 drop 3": [0, 6, 4, 2],
 }
