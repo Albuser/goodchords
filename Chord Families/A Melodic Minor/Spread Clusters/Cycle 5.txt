@@ -1,0 +1,188 @@
+A Melodic Minor, Cycle 5
+-------------------------
+4-way close: (1 2 3 7) --> (2 1 7 3)
+A  B  C  G♯
+F♯ E  D  G♯
+B  C  D  A 
+G♯ F♯ E  A 
+C  D  E  B 
+A  G♯ F♯ B 
+D  E  F♯ C 
+B  A  G♯ C 
+E  F♯ G♯ D 
+C  B  A  D 
+F♯ G♯ A  E 
+D  C  B  E 
+G♯ A  B  F♯
+E  D  C  F♯
+Alternate Voicing:
+B  C  G♯ A 
+G♯ F♯ E  D 
+C  D  A  B 
+A  G♯ F♯ E 
+D  E  B  C 
+B  A  G♯ F♯
+E  F♯ C  D 
+C  B  A  G♯
+F♯ G♯ D  E 
+D  C  B  A 
+G♯ A  E  F♯
+E  D  C  B 
+A  B  F♯ G♯
+F♯ E  D  C 
+-------------------------
+Drop 2: (1 3 7 2) --> (3 1 2 7)
+A  C  G♯ B 
+G♯ E  F♯ D 
+B  D  A  C 
+A  F♯ G♯ E 
+C  E  B  D 
+B  G♯ A  F♯
+D  F♯ C  E 
+C  A  B  G♯
+E  G♯ D  F♯
+D  B  C  A 
+F♯ A  E  G♯
+E  C  D  B 
+G♯ B  F♯ A 
+F♯ D  E  C 
+Alternate Voicing:
+C  G♯ B  A 
+D  G♯ E  F♯
+D  A  C  B 
+E  A  F♯ G♯
+E  B  D  C 
+F♯ B  G♯ A 
+F♯ C  E  D 
+G♯ C  A  B 
+G♯ D  F♯ E 
+A  D  B  C 
+A  E  G♯ F♯
+B  E  C  D 
+B  F♯ A  G♯
+C  F♯ D  E 
+-------------------------
+Drop 3: (1 7 2 3) --> (2 3 1 7)
+A  G♯ B  C 
+F♯ G♯ E  D 
+B  A  C  D 
+G♯ A  F♯ E 
+C  B  D  E 
+A  B  G♯ F♯
+D  C  E  F♯
+B  C  A  G♯
+E  D  F♯ G♯
+C  D  B  A 
+F♯ E  G♯ A 
+D  E  C  B 
+G♯ F♯ A  B 
+E  F♯ D  C 
+Alternate Voicing:
+G♯ B  C  A 
+G♯ E  D  F♯
+A  C  D  B 
+A  F♯ E  G♯
+B  D  E  C 
+B  G♯ F♯ A 
+C  E  F♯ D 
+C  A  G♯ B 
+D  F♯ G♯ E 
+D  B  A  C 
+E  G♯ A  F♯
+E  C  B  D 
+F♯ A  B  G♯
+F♯ D  C  E 
+-------------------------
+Drop 2 and 3: (1 2 7 3) --> (2 1 3 7)
+A  B  G♯ C 
+F♯ E  G♯ D 
+B  C  A  D 
+G♯ F♯ A  E 
+C  D  B  E 
+A  G♯ B  F♯
+D  E  C  F♯
+B  A  C  G♯
+E  F♯ D  G♯
+C  B  D  A 
+F♯ G♯ E  A 
+D  C  E  B 
+G♯ A  F♯ B 
+E  D  F♯ C 
+Alternate Voicing:
+B  G♯ C  A 
+D  F♯ E  G♯
+C  A  D  B 
+E  G♯ F♯ A 
+D  B  E  C 
+F♯ A  G♯ B 
+E  C  F♯ D 
+G♯ B  A  C 
+F♯ D  G♯ E 
+A  C  B  D 
+G♯ E  A  F♯
+B  D  C  E 
+A  F♯ B  G♯
+C  E  D  F♯
+-------------------------
+Drop 2 and 4: (1 3 2 7) --> (3 1 7 2)
+A  C  B  G♯
+G♯ E  D  F♯
+B  D  C  A 
+A  F♯ E  G♯
+C  E  D  B 
+B  G♯ F♯ A 
+D  F♯ E  C 
+C  A  G♯ B 
+E  G♯ F♯ D 
+D  B  A  C 
+F♯ A  G♯ E 
+E  C  B  D 
+G♯ B  A  F♯
+F♯ D  C  E 
+Alternate Voicing:
+C  B  G♯ A 
+F♯ G♯ E  D 
+D  C  A  B 
+G♯ A  F♯ E 
+E  D  B  C 
+A  B  G♯ F♯
+F♯ E  C  D 
+B  C  A  G♯
+G♯ F♯ D  E 
+C  D  B  A 
+A  G♯ E  F♯
+D  E  C  B 
+B  A  F♯ G♯
+E  F♯ D  C 
+-------------------------
+Double drop 2 drop 3: (1 7 3 2) --> (3 2 1 7)
+A  G♯ C  B 
+G♯ F♯ E  D 
+B  A  D  C 
+A  G♯ F♯ E 
+C  B  E  D 
+B  A  G♯ F♯
+D  C  F♯ E 
+C  B  A  G♯
+E  D  G♯ F♯
+D  C  B  A 
+F♯ E  A  G♯
+E  D  C  B 
+G♯ F♯ B  A 
+F♯ E  D  C 
+Alternate Voicing:
+G♯ C  B  A 
+F♯ E  D  G♯
+A  D  C  B 
+G♯ F♯ E  A 
+B  E  D  C 
+A  G♯ F♯ B 
+C  F♯ E  D 
+B  A  G♯ C 
+D  G♯ F♯ E 
+C  B  A  D 
+E  A  G♯ F♯
+D  C  B  E 
+F♯ B  A  G♯
+E  D  C  F♯
+-------------------------

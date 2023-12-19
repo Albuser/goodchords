@@ -51,9 +51,7 @@ def write_files(root, scaleType, chordVoicings):
     chordVoicings = chordVoicings["voicings"]
     path = os.path.join(parent_dir, "Chord Families")
     safeMakeFolder(path)
-    path = path + f"/{rootName}/"
-    safeMakeFolder(path)
-    path = path + f"/{scaleName}/"
+    path = path + f"/{rootName} {scaleName}/"
     safeMakeFolder(path)
     path = path + f"/{chordType}/"
     safeMakeFolder(path)

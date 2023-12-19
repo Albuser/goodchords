@@ -1,0 +1,64 @@
+F Harmonic Minor, Cycle 7
+-------------------------
+Close: (2 5 1) --> (1 5 2)
+G  C  F 
+E  B♭ F 
+E  A♭ D♭
+C  G  D♭
+C  F  B♭
+A♭ E  B♭
+A♭ D♭ G 
+F  C  G 
+F  B♭ E 
+D♭ A♭ E 
+D♭ G  C 
+B♭ F  C 
+B♭ E  A♭
+G  D♭ A♭
+Alternate Voicing:
+C  F  G 
+F  E  B♭
+A♭ D♭ E 
+D♭ C  G 
+F  B♭ C 
+B♭ A♭ E 
+D♭ G  A♭
+G  F  C 
+B♭ E  F 
+E  D♭ A♭
+G  C  D♭
+C  B♭ F 
+E  A♭ B♭
+A♭ G  D♭
+-------------------------
+Spread: (1 5 2) --> (2 5 1)
+F  C  G 
+F  B♭ E 
+D♭ A♭ E 
+D♭ G  C 
+B♭ F  C 
+B♭ E  A♭
+G  D♭ A♭
+G  C  F 
+E  B♭ F 
+E  A♭ D♭
+C  G  D♭
+C  F  B♭
+A♭ E  B♭
+A♭ D♭ G 
+Alternate Voicing:
+C  G  F 
+E  F  B♭
+A♭ E  D♭
+C  D♭ G 
+F  C  B♭
+A♭ B♭ E 
+D♭ A♭ G 
+F  G  C 
+B♭ F  E 
+D♭ E  A♭
+G  D♭ C 
+B♭ C  F 
+E  B♭ A♭
+G  A♭ D♭
+-------------------------
