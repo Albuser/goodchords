@@ -1,0 +1,15 @@
+D♯ Major, Cycle 4, 4-way close Voicing
+D♯ E♯ A♯ C𝄪 
+D♯ F𝄪 G♯ A♯ 
+C𝄪 D♯ G♯ B♯ 
+C𝄪 E♯ F𝄪 G♯ 
+B♯ C𝄪 F𝄪 A♯ 
+B♯ D♯ E♯ F𝄪 
+A♯ B♯ E♯ G♯ 
+A♯ C𝄪 D♯ E♯ 
+G♯ A♯ D♯ F𝄪 
+G♯ B♯ C𝄪 D♯ 
+F𝄪 G♯ C𝄪 E♯ 
+F𝄪 A♯ B♯ C𝄪 
+E♯ F𝄪 B♯ D♯ 
+E♯ G♯ A♯ B♯ 

@@ -1,0 +1,22 @@
+G♯ Major, Cycle 4, spread Voicing
+G♯ D♯ B♯ 
+G♯ E♯ C♯ 
+A♯ F𝄪 C♯ 
+B♯ F𝄪 D♯ 
+B♯ G♯ E♯ 
+C♯ A♯ E♯ 
+D♯ A♯ F𝄪 
+D♯ B♯ G♯ 
+E♯ C♯ G♯ 
+F𝄪 C♯ A♯ 
+F𝄪 D♯ B♯ 
+G♯ E♯ B♯ 
+A♯ E♯ C♯ 
+A♯ F𝄪 D♯ 
+B♯ G♯ D♯ 
+C♯ G♯ E♯ 
+C♯ A♯ F𝄪 
+D♯ B♯ F𝄪 
+E♯ B♯ G♯ 
+E♯ C♯ A♯ 
+F𝄪 D♯ A♯ 

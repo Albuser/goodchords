@@ -1,0 +1,15 @@
+C♯ Harmonic Minor, Cycle 2, drop 2 Voicing
+C♯ G♯ B♯ E  
+C♯ A  D♯ F♯ 
+E  B♯ D♯ G♯ 
+E  C♯ F♯ A  
+G♯ D♯ F♯ B♯ 
+G♯ E  A  C♯ 
+B♯ F♯ A  D♯ 
+B♯ G♯ C♯ E  
+D♯ A  C♯ F♯ 
+D♯ B♯ E  G♯ 
+F♯ C♯ E  A  
+F♯ D♯ G♯ B♯ 
+A  E  G♯ C♯ 
+A  F♯ B♯ D♯ 

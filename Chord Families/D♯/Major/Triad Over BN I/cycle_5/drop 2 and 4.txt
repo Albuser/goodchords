@@ -1,0 +1,15 @@
+D♯ Major, Cycle 5, drop 2 and 4 Voicing
+D♯ A♯ E♯ C𝄪 
+E♯ A♯ G♯ B♯ 
+E♯ B♯ F𝄪 D♯ 
+F𝄪 B♯ A♯ C𝄪 
+F𝄪 C𝄪 G♯ E♯ 
+G♯ C𝄪 B♯ D♯ 
+G♯ D♯ A♯ F𝄪 
+A♯ D♯ C𝄪 E♯ 
+A♯ E♯ B♯ G♯ 
+B♯ E♯ D♯ F𝄪 
+B♯ F𝄪 C𝄪 A♯ 
+C𝄪 F𝄪 E♯ G♯ 
+C𝄪 G♯ D♯ B♯ 
+D♯ G♯ F𝄪 A♯ 

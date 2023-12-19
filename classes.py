@@ -3,11 +3,14 @@ import math
 import itertools
 
 
-def tonalDistance(a, b):
+def tonalDistance(a, b, intervals=True):
     if a == b:
         return 0
     low, hi = (min(a, b), max(a, b))
-    return math.ceil(min(hi - low, low + 12 - hi) / 2)
+    result = min(hi - low, low + 12 - hi)
+    if intervals:
+        return math.ceil(result / 2)
+    return result
 
 
 class ChordTone:
@@ -68,7 +71,8 @@ class Chord:
     def __repr__(self):
         str = ""
         for tone in self.chordTones:
-            str += (tone.__repr__()).ljust(3, " ")
+            indx = self.scale.notes.index(tone.pitchClass)
+            str += self.scale.noteNames[indx].ljust(3, " ")
         return str
 
 
@@ -77,6 +81,7 @@ class Scale:
         self.root = root
         self.notes = [(note + root) % 12 for note in notes]
         self.length = len(notes)
+        self.noteNames = self.addNoteNames()
 
     def __repr__(self):
         return str([pitch_classes[x % 12] for x in self.notes])
@@ -86,3 +91,27 @@ class Scale:
             if self.notes[i] % 12 == pitchClass:
                 return i
         raise (Exception("Note not found"))
+
+    def addNoteNames(self):
+        rootName = pitch_classes[self.root][0]
+        baseNoteIndx = noteNames.index(rootName)
+        baseNotes = noteNames[baseNoteIndx:] + noteNames[:baseNoteIndx]
+        for i in range(len(baseNotes)):
+            natural = pitch_classes_rev[baseNotes[i]]
+            actual = self.notes[i]
+            if actual == 0 and natural == 11:
+                baseNotes[i] = "B♯"
+            elif actual > natural:
+                if tonalDistance(actual, natural, False) == 1:
+                    baseNotes[i] += "♯"
+                else:
+                    baseNotes[i] += "𝄪"
+            elif actual < natural:
+                if natural in [5, 0]:
+                    baseNotes[i] = pitch_classes[(natural - 1) % 12]
+                else:
+                    baseNotes[i] += "♭"
+            if pitch_classes_rev[baseNotes[i]] != self.notes[i]:
+                print(i, actual, natural, baseNotes, self.notes)
+                raise Exception("Parsing Error")
+        return baseNotes

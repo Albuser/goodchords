@@ -11,7 +11,7 @@ def generateChordFamily(cycle, root, scaleType, chord, fname):
     chord = startingChord.copy()
     permutation = chord.getBestInversion(cycle - 1)
     while True:
-        with open(fname, "a") as f:
+        with open(fname, "a", encoding="UTF-8") as f:
             f.write(chord.__repr__() + "\n")
         chord.transpose(cycle - 1)
         chord.permute(permutation)
@@ -44,7 +44,7 @@ def write_files(root, scaleType, chordVoicings):
         for cycle in range(2, 8):
             safeMakeFolder(path + f"cycle_{cycle}/")
             fname = path + f"cycle_{cycle}/{chordName}.txt"
-            with open(fname, "w") as f:
+            with open(fname, "w", encoding="UTF-8") as f:
                 f.write(
                     f"{rootName.capitalize()} {scaleName}, Cycle {cycle}, {chordName} Voicing\n"
                 )

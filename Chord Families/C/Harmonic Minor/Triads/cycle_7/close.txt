@@ -1,15 +1,15 @@
 C Harmonic Minor, Cycle 7, close Voicing
-C  D# G  
+C  E♭ G  
 D  B  F  
-G# C  D# 
+A♭ C  E♭ 
 B  G  D  
-F  G# C  
-G  D# B  
-D  F  G# 
-D# C  G  
+F  A♭ C  
+G  E♭ B  
+D  F  A♭ 
+E♭ C  G  
 B  D  F  
-C  G# D# 
+C  A♭ E♭ 
 G  B  D  
-G# F  C  
-D# G  B  
-F  D  G# 
+A♭ F  C  
+E♭ G  B  
+F  D  A♭ 
