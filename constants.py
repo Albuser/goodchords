@@ -1,6 +1,6 @@
-major = {"name": "major", "notes": [0, 2, 4, 5, 7, 9, 11]}
-melod = {"name": "melodic minor", "notes": [0, 2, 3, 5, 7, 9, 11]}
-harmo = {"name": "harmonic minor", "notes": [0, 2, 3, 5, 7, 8, 11]}
+major = {"name": "Major", "notes": [0, 2, 4, 5, 7, 9, 11]}
+melod = {"name": "Melodic Minor", "notes": [0, 2, 3, 5, 7, 9, 11]}
+harmo = {"name": "Harmonic Minor", "notes": [0, 2, 3, 5, 7, 8, 11]}
 
 pitch_classes = {
     0: "C",

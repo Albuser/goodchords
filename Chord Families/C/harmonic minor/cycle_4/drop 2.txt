@@ -1,4 +1,4 @@
-C Major, Cycle 4, drop 2 Voicing
+C Harmonic Minor, Cycle 4, drop 2 Voicing
 C  G  B  D# 
 C  F  G# D# 
 B  F  G# D  

@@ -1,4 +1,4 @@
-C Major, Cycle 7, 4-way close Voicing
+C Harmonic Minor, Cycle 7, 4-way close Voicing
 C  D# G  B  
 D  F  G# B  
 D# G  G# C  

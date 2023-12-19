@@ -1,4 +1,4 @@
-C Major, Cycle 2, 4-way close Voicing
+C Harmonic Minor, Cycle 2, 4-way close Voicing
 C  D# G  B  
 C  D  F  G# 
 B  D  D# G  

@@ -1,4 +1,4 @@
-C Major, Cycle 4, drop 2 and 4 Voicing
+C Melodic Minor, Cycle 4, drop 2 and 4 Voicing
 C  G  D# B  
 C  F  D# A  
 B  F  D  A  

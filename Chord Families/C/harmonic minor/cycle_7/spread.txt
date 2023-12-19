@@ -1,4 +1,4 @@
-C Major, Cycle 7, spread Voicing
+C Harmonic Minor, Cycle 7, spread Voicing
 C  G  D# 
 D  B  F  
 D# C  G# 

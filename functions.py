@@ -42,7 +42,7 @@ def write_files(root, scaleType, chordVoicings):
             fname = path + f"cycle_{cycle}/{chordName}.txt"
             with open(fname, "w") as f:
                 f.write(
-                    f"{rootName.capitalize()} Major, Cycle {cycle}, {chordName} Voicing\n"
+                    f"{rootName.capitalize()} {scaleName}, Cycle {cycle}, {chordName} Voicing\n"
                 )
             generateChordFamily(
                 cycle, root=root, scaleType=scaleNotes, chord=chord, fname=fname

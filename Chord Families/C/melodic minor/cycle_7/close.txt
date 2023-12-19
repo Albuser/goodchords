@@ -1,4 +1,4 @@
-C Major, Cycle 7, close Voicing
+C Melodic Minor, Cycle 7, close Voicing
 C  D# G  
 D  B  F  
 A  C  D# 

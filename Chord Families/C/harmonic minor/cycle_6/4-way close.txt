@@ -1,4 +1,4 @@
-C Major, Cycle 6, 4-way close Voicing
+C Harmonic Minor, Cycle 6, 4-way close Voicing
 C  D# G  B  
 C  D# G  G# 
 C  D# F  G# 

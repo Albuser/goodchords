@@ -1,4 +1,4 @@
-C Major, Cycle 6, 4-way close Voicing
+C Melodic Minor, Cycle 6, 4-way close Voicing
 C  D# G  B  
 C  D# G  A  
 C  D# F  A  

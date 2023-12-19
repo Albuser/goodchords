@@ -1,4 +1,4 @@
-C Major, Cycle 7, drop 2 and 4 Voicing
+C Melodic Minor, Cycle 7, drop 2 and 4 Voicing
 C  G  D# B  
 D  A  F  B  
 D# A  G  C  

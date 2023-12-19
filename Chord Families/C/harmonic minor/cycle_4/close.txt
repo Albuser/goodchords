@@ -1,4 +1,4 @@
-C Major, Cycle 4, close Voicing
+C Harmonic Minor, Cycle 4, close Voicing
 C  D# G  
 C  F  G# 
 D  F  B  

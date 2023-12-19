@@ -1,4 +1,4 @@
-C Major, Cycle 7, drop 2 Voicing
+C Harmonic Minor, Cycle 7, drop 2 Voicing
 C  G  B  D# 
 D  G# B  F  
 D# G# C  G  

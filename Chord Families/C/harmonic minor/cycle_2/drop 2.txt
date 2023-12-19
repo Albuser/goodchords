@@ -1,4 +1,4 @@
-C Major, Cycle 2, drop 2 Voicing
+C Harmonic Minor, Cycle 2, drop 2 Voicing
 C  G  B  D# 
 C  G# D  F  
 D# B  D  G  
