@@ -70,10 +70,11 @@ class Chord:
 
     def __repr__(self):
         str = ""
+        notes = []
         for tone in self.chordTones:
             indx = self.scale.notes.index(tone.pitchClass)
-            str += self.scale.noteNames[indx].ljust(3, " ")
-        return str
+            notes.append(self.scale.noteNames[indx].ljust(2, " "))
+        return " ".join(notes)
 
 
 class Scale:
