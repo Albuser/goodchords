@@ -1,0 +1,15 @@
+C♯ Melodic Minor, Cycle 4, drop 2 and 4 Voicing
+C♯ F♯ E  B♯ 
+B♯ F♯ E  A♯ 
+B♯ E  D♯ A♯ 
+A♯ E  D♯ G♯ 
+A♯ D♯ C♯ G♯ 
+G♯ D♯ C♯ F♯ 
+G♯ C♯ B♯ F♯ 
+F♯ C♯ B♯ E  
+F♯ B♯ A♯ E  
+E  B♯ A♯ D♯ 
+E  A♯ G♯ D♯ 
+D♯ A♯ G♯ C♯ 
+D♯ G♯ F♯ C♯ 
+C♯ G♯ F♯ B♯ 

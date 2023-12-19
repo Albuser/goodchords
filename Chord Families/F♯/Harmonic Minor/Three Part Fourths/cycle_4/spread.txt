@@ -1,0 +1,22 @@
+F♯ Harmonic Minor, Cycle 4, spread Voicing
+F♯ C♯ G♯ 
+F♯ C♯ B  
+F♯ E♯ B  
+A  E♯ B  
+A  E♯ D  
+A  G♯ D  
+C♯ G♯ D  
+C♯ G♯ F♯ 
+C♯ B  F♯ 
+E♯ B  F♯ 
+E♯ B  A  
+E♯ D  A  
+G♯ D  A  
+G♯ D  C♯ 
+G♯ F♯ C♯ 
+B  F♯ C♯ 
+B  F♯ E♯ 
+B  A  E♯ 
+D  A  E♯ 
+D  A  G♯ 
+D  C♯ G♯ 

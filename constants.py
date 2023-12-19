@@ -2,6 +2,8 @@ major = {"name": "Major", "notes": [0, 2, 4, 5, 7, 9, 11]}
 melod = {"name": "Melodic Minor", "notes": [0, 2, 3, 5, 7, 9, 11]}
 harmo = {"name": "Harmonic Minor", "notes": [0, 2, 3, 5, 7, 8, 11]}
 
+allScales = [major, melod, harmo]
+
 noteNames = ["C", "D", "E", "F", "G", "A", "B"]
 
 pitch_classes = {
@@ -84,3 +86,44 @@ triadBNIIVoicings = {
         "double drop 2 drop 3": [0, 6, 3, 1],
     },
 }
+
+fourPartFourths = {
+    "name": "Four Part Fourths",
+    "voicings": {
+        "4-way close": [0, 2, 3, 6],
+        "drop 2": [0, 3, 6, 2],
+        "drop 3": [0, 6, 2, 3],
+        "drop 2 and 3": [0, 2, 6, 3],
+        "drop 2 and 4": [0, 3, 2, 6],
+        "double drop 2 drop 3": [0, 6, 3, 2],
+    },
+}
+
+spreadClusters = {
+    "name": "Spread Clusters",
+    "voicings": {
+        "4-way close": [0, 1, 2, 6],
+        "drop 2": [0, 2, 6, 1],
+        "drop 3": [0, 6, 1, 2],
+        "drop 2 and 3": [0, 1, 6, 2],
+        "drop 2 and 4": [0, 2, 1, 6],
+        "double drop 2 drop 3": [0, 6, 2, 1],
+    },
+}
+
+
+threePartFourths = {
+    "name": "Three Part Fourths",
+    "voicings": {"close": [1, 4, 0], "spread": [0, 4, 1]},
+}
+
+
+allChordFamilies = [
+    triadVoicings,
+    threePartFourths,
+    seventhVoicings,
+    triadBNIVoicings,
+    triadBNIIVoicings,
+    fourPartFourths,
+    spreadClusters,
+]

@@ -1,0 +1,22 @@
+B Melodic Minor, Cycle 3, close Voicing
+C♯ F♯ B  
+D  E  A♯ 
+C♯ F♯ G♯ 
+B  E  A♯ 
+C♯ D  G♯ 
+B  E  F♯ 
+A♯ D  G♯ 
+B  C♯ F♯ 
+A♯ D  E  
+G♯ C♯ F♯ 
+A♯ B  E  
+G♯ C♯ D  
+F♯ B  E  
+G♯ A♯ D  
+F♯ B  C♯ 
+E  A♯ D  
+F♯ G♯ C♯ 
+E  A♯ B  
+D  G♯ C♯ 
+E  F♯ B  
+D  G♯ A♯ 

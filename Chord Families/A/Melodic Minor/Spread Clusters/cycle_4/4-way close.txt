@@ -1,0 +1,15 @@
+A Melodic Minor, Cycle 4, 4-way close Voicing
+A  B  C  G♯ 
+E  D  C  F♯ 
+G♯ A  B  F♯ 
+D  C  B  E  
+F♯ G♯ A  E  
+C  B  A  D  
+E  F♯ G♯ D  
+B  A  G♯ C  
+D  E  F♯ C  
+A  G♯ F♯ B  
+C  D  E  B  
+G♯ F♯ E  A  
+B  C  D  A  
+F♯ E  D  G♯ 

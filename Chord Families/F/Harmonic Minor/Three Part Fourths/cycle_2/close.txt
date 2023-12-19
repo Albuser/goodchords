@@ -1,0 +1,15 @@
+F Harmonic Minor, Cycle 2, close Voicing
+G  C  F  
+G  D♭ A♭ 
+B♭ E  A♭ 
+B♭ F  C  
+D♭ G  C  
+D♭ A♭ E  
+F  B♭ E  
+F  C  G  
+A♭ D♭ G  
+A♭ E  B♭ 
+C  F  B♭ 
+C  G  D♭ 
+E  A♭ D♭ 
+E  B♭ F  
