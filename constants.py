@@ -17,27 +17,43 @@ pitch_classes = {
     11: "B",
 }
 
-sevenToneTriad = (("1", 0), ("3", 2), ("5", 4))
-
-cycleMaps = {
-    2: {
-        "intMap": {"5": -1, "3": -1, "1": -2},
-        "funMap": {"5": "3", "3": "1", "1": "5"},
-    },
-    4: {"intMap": {"5": 1, "3": 1, "1": 0}, "funMap": {"5": "3", "3": "1", "1": "5"}},
-    6: {"intMap": {"5": 1, "3": 0, "1": 0}, "funMap": {"5": "1", "3": "5", "1": "3"}},
-    7: {"intMap": {"5": 2, "3": 1, "1": 1}, "funMap": {"5": "1", "3": "5", "1": "3"}},
-    5: {"intMap": {"5": 0, "3": -1, "1": -1}, "funMap": {"5": "1", "3": "5", "1": "3"}},
-    3: {"intMap": {"5": 0, "3": 0, "1": -2}, "funMap": {"5": "3", "3": "1", "1": "5"}},
+triadVoicings = {
+    "name": "Triads",
+    "voicings": {"close": [0, 2, 4], "spread": [0, 4, 2]},
 }
 
-triadVoicings = {"close": [0, 2, 4], "spread": [0, 4, 2]}
-
 seventhVoicings = {
-    "4-way close": [0, 2, 4, 6],
-    "drop 2": [0, 4, 6, 2],
-    "drop 3": [0, 6, 2, 4],
-    "drop 2 and 3": [0, 2, 6, 4],
-    "drop 2 and 4": [0, 4, 2, 6],
-    "double drop 2 drop 3": [0, 6, 4, 2],
+    "name": "Sevenths",
+    "voicings": {
+        "4-way close": [0, 2, 4, 6],
+        "drop 2": [0, 4, 6, 2],
+        "drop 3": [0, 6, 2, 4],
+        "drop 2 and 3": [0, 2, 6, 4],
+        "drop 2 and 4": [0, 4, 2, 6],
+        "double drop 2 drop 3": [0, 6, 4, 2],
+    },
+}
+
+triadBNIVoicings = {
+    "name": "Triad Over BN I",
+    "voicings": {
+        "4-way close": [0, 1, 4, 6],
+        "drop 2": [0, 4, 6, 1],
+        "drop 3": [0, 6, 1, 4],
+        "drop 2 and 3": [0, 1, 6, 4],
+        "drop 2 and 4": [0, 4, 1, 6],
+        "double drop 2 drop 3": [0, 6, 4, 1],
+    },
+}
+
+triadBNIIVoicings = {
+    "name": "Triad Over BN II",
+    "voicings": {
+        "4-way close": [0, 1, 3, 6],
+        "drop 2": [0, 3, 6, 1],
+        "drop 3": [0, 6, 1, 3],
+        "drop 2 and 3": [0, 1, 6, 3],
+        "drop 2 and 4": [0, 3, 1, 6],
+        "double drop 2 drop 3": [0, 6, 3, 1],
+    },
 }

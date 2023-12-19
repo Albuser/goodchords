@@ -30,11 +30,15 @@ def write_files(root, scaleType, chordVoicings):
     scaleName = scaleType["name"]
     scaleNotes = scaleType["notes"]
     rootName = pitch_classes[root]
+    chordType = chordVoicings["name"]
+    chordVoicings = chordVoicings["voicings"]
     path = os.path.join(parent_dir, "Chord Families")
     safeMakeFolder(path)
     path = path + f"/{rootName}/"
     safeMakeFolder(path)
     path = path + f"/{scaleName}/"
+    safeMakeFolder(path)
+    path = path + f"/{chordType}/"
     safeMakeFolder(path)
     for chordName, chord in chordVoicings.items():
         for cycle in range(2, 8):

@@ -1,0 +1,15 @@
+C Melodic Minor, Cycle 5, 4-way close Voicing
+C  D  G  B  
+D  F  G  A  
+D  D# A  C  
+D# G  A  B  
+D# F  B  D  
+F  A  B  C  
+F  G  C  D# 
+G  B  C  D  
+G  A  D  F  
+A  C  D  D# 
+A  B  D# G  
+B  D  D# F  
+B  C  F  A  
+C  D# F  G  
