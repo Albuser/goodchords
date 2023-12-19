@@ -1,0 +1,15 @@
+A# Major, Cycle 5, 4-way close Voicing
+A# C  F  A  
+C  D# F  G  
+C  D  G  A# 
+D  F  G  A  
+D  D# A  C  
+D# G  A  A# 
+D# F  A# D  
+F  A  A# C  
+F  G  C  D# 
+G  A# C  D  
+G  A  D  F  
+A  C  D  D# 
+A  A# D# G  
+A# D  D# F  

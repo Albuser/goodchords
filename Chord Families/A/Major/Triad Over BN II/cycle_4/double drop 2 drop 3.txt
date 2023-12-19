@@ -1,0 +1,15 @@
+A Major, Cycle 4, double drop 2 drop 3 Voicing
+A  G# D  B  
+G# E  D  C# 
+G# F# C# A  
+F# D  C# B  
+F# E  B  G# 
+E  C# B  A  
+E  D  A  F# 
+D  B  A  G# 
+D  C# G# E  
+C# A  G# F# 
+C# B  F# D  
+B  G# F# E  
+B  A  E  C# 
+A  F# E  D  

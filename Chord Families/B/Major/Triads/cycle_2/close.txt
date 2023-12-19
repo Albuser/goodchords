@@ -1,0 +1,22 @@
+B Major, Cycle 2, close Voicing
+B  D# F# 
+G# C# E  
+F# A# D# 
+E  G# B  
+C# F# A# 
+B  D# G# 
+A# C# E  
+F# B  D# 
+E  G# C# 
+D# F# A# 
+B  E  G# 
+A# C# F# 
+G# B  D# 
+E  A# C# 
+D# F# B  
+C# E  G# 
+A# D# F# 
+G# B  E  
+F# A# C# 
+D# G# B  
+C# E  A# 

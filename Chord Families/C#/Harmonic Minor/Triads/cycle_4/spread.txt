@@ -1,0 +1,22 @@
+C# Harmonic Minor, Cycle 4, spread Voicing
+C# G# E  
+C# A  F# 
+D# C  F# 
+E  C  G# 
+E  C# A  
+F# D# A  
+G# D# C  
+G# E  C# 
+A  F# C# 
+C  F# D# 
+C  G# E  
+C# A  E  
+D# A  F# 
+D# C  G# 
+E  C# G# 
+F# C# A  
+F# D# C  
+G# E  C  
+A  E  C# 
+A  F# D# 
+C  G# D# 

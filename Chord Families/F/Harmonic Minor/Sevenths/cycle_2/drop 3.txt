@@ -1,0 +1,15 @@
+F Harmonic Minor, Cycle 2, drop 3 Voicing
+F  E  G# C  
+F  G  A# C# 
+G# G  C  E  
+G# A# C# F  
+C  A# E  G  
+C  C# F  G# 
+E  C# G  A# 
+E  F  G# C  
+G  F  A# C# 
+G  G# C  E  
+A# G# C# F  
+A# C  E  G  
+C# C  F  G# 
+C# E  G  A# 

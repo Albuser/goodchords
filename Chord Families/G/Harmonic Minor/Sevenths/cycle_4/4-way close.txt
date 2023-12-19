@@ -1,0 +1,15 @@
+G Harmonic Minor, Cycle 4, 4-way close Voicing
+G  A# D  F# 
+G  A# C  D# 
+F# A  C  D# 
+F# A  A# D  
+D# G  A# D  
+D# G  A  C  
+D  F# A  C  
+D  F# G  A# 
+C  D# G  A# 
+C  D# F# A  
+A# D  F# A  
+A# D  D# G  
+A  C  D# G  
+A  C  D  F# 

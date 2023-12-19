@@ -1,0 +1,22 @@
+D# Harmonic Minor, Cycle 6, spread Voicing
+D# A# F# 
+D# B  F# 
+D# B  G# 
+F  B  G# 
+F  D  G# 
+F  D  A# 
+F# D  A# 
+F# D# A# 
+F# D# B  
+G# D# B  
+G# F  B  
+G# F  D  
+A# F  D  
+A# F# D  
+A# F# D# 
+B  F# D# 
+B  G# D# 
+B  G# F  
+D  G# F  
+D  A# F  
+D  A# F# 

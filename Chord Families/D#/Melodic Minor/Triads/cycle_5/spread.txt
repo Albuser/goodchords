@@ -1,0 +1,22 @@
+D# Melodic Minor, Cycle 5, spread Voicing
+D# A# F# 
+D  A# F  
+C  G# F  
+C  F# D# 
+A# F# D  
+G# F  D  
+G# D# C  
+F# D# A# 
+F  D  A# 
+F  C  G# 
+D# C  F# 
+D  A# F# 
+D  G# F  
+C  G# D# 
+A# F# D# 
+A# F  D  
+G# F  C  
+F# D# C  
+F# D  A# 
+F  D  G# 
+D# C  G# 

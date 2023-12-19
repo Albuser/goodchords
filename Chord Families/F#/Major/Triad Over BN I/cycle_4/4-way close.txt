@@ -1,0 +1,15 @@
+F# Major, Cycle 4, 4-way close Voicing
+F# G# C# F  
+F# A# B  C# 
+F  F# B  D# 
+F  G# A# B  
+D# F  A# C# 
+D# F# G# A# 
+C# D# G# B  
+C# F  F# G# 
+B  C# F# A# 
+B  D# F  F# 
+A# B  F  G# 
+A# C# D# F  
+G# A# D# F# 
+G# B  C# D# 

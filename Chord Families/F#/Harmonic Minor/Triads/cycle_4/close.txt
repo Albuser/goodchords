@@ -1,0 +1,22 @@
+F# Harmonic Minor, Cycle 4, close Voicing
+F# A  C# 
+F# B  D  
+G# B  F  
+A  C# F  
+A  D  F# 
+B  D  G# 
+C# F  G# 
+C# F# A  
+D  F# B  
+F  G# B  
+F  A  C# 
+F# A  D  
+G# B  D  
+G# C# F  
+A  C# F# 
+B  D  F# 
+B  F  G# 
+C# F  A  
+D  F# A  
+D  G# B  
+F  G# C# 

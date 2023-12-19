@@ -1,0 +1,15 @@
+A# Harmonic Minor, Cycle 5, 4-way close Voicing
+A# C# F  A  
+C  D# F  A  
+C  D# F# A# 
+C# F  F# A# 
+C# F  A  C  
+D# F# A  C  
+D# F# A# C# 
+F  A  A# C# 
+F  A  C  D# 
+F# A# C  D# 
+F# A# C# F  
+A  C  C# F  
+A  C  D# F# 
+A# C# D# F# 

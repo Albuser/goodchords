@@ -1,0 +1,15 @@
+A# Harmonic Minor, Cycle 7, close Voicing
+A# C# F  
+C  A  D# 
+F# A# C# 
+A  F  C  
+D# F# A# 
+F  C# A  
+C  D# F# 
+C# A# F  
+A  C  D# 
+A# F# C# 
+F  A  C  
+F# D# A# 
+C# F  A  
+D# C  F# 

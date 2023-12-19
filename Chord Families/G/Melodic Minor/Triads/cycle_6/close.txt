@@ -1,0 +1,22 @@
+G Melodic Minor, Cycle 6, close Voicing
+G  A# D  
+G  A# E  
+G  C  E  
+A  C  E  
+A  C  F# 
+A  D  F# 
+A# D  F# 
+A# D  G  
+A# E  G  
+C  E  G  
+C  E  A  
+C  F# A  
+D  F# A  
+D  F# A# 
+D  G  A# 
+E  G  A# 
+E  G  C  
+E  A  C  
+F# A  C  
+F# A  D  
+F# A# D  

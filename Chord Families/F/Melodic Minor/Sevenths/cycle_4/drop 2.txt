@@ -1,0 +1,15 @@
+F Melodic Minor, Cycle 4, drop 2 Voicing
+F  C  E  G# 
+F  A# D  G# 
+E  A# D  G  
+E  G# C  G  
+D  G# C  F  
+D  G  A# F  
+C  G  A# E  
+C  F  G# E  
+A# F  G# D  
+A# E  G  D  
+G# E  G  C  
+G# D  F  C  
+G  D  F  A# 
+G  C  E  A# 

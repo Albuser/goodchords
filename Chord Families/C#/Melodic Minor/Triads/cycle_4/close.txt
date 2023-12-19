@@ -1,0 +1,22 @@
+C# Melodic Minor, Cycle 4, close Voicing
+C# E  G# 
+C# F# A# 
+D# F# C  
+E  G# C  
+E  A# C# 
+F# A# D# 
+G# C  D# 
+G# C# E  
+A# C# F# 
+C  D# F# 
+C  E  G# 
+C# E  A# 
+D# F# A# 
+D# G# C  
+E  G# C# 
+F# A# C# 
+F# C  D# 
+G# C  E  
+A# C# E  
+A# D# F# 
+C  D# G# 

@@ -1,0 +1,15 @@
+G# Major, Cycle 4, drop 2 and 3 Voicing
+G# C  G  D# 
+G# C  F  C# 
+G  A# F  C# 
+G  A# D# C  
+F  G# D# C  
+F  G# C# A# 
+D# G  C# A# 
+D# G  C  G# 
+C# F  C  G# 
+C# F  A# G  
+C  D# A# G  
+C  D# G# F  
+A# C# G# F  
+A# C# G  D# 

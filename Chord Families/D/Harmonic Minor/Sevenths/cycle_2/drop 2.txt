@@ -1,0 +1,15 @@
+D Harmonic Minor, Cycle 2, drop 2 Voicing
+D  A  C# F  
+D  A# E  G  
+F  C# E  A  
+F  D  G  A# 
+A  E  G  C# 
+A  F  A# D  
+C# G  A# E  
+C# A  D  F  
+E  A# D  G  
+E  C# F  A  
+G  D  F  A# 
+G  E  A  C# 
+A# F  A  D  
+A# G  C# E  

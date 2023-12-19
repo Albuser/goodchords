@@ -1,0 +1,22 @@
+F Melodic Minor, Cycle 3, close Voicing
+F  G# C  
+E  G# C  
+E  G  C  
+E  G  A# 
+D  G  A# 
+D  F  A# 
+D  F  G# 
+C  F  G# 
+C  E  G# 
+C  E  G  
+A# E  G  
+A# D  G  
+A# D  F  
+G# D  F  
+G# C  F  
+G# C  E  
+G  C  E  
+G  A# E  
+G  A# D  
+F  A# D  
+F  G# D  

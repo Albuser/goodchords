@@ -1,0 +1,22 @@
+A# Harmonic Minor, Cycle 5, spread Voicing
+A# F  C# 
+A  F  C  
+F# D# C  
+F# C# A# 
+F  C# A  
+D# C  A  
+D# A# F# 
+C# A# F  
+C  A  F  
+C  F# D# 
+A# F# C# 
+A  F  C# 
+A  D# C  
+F# D# A# 
+F  C# A# 
+F  C  A  
+D# C  F# 
+C# A# F# 
+C# A  F  
+C  A  D# 
+A# F# D# 

@@ -1,0 +1,22 @@
+A# Harmonic Minor, Cycle 6, close Voicing
+A# C# F  
+A# C# F# 
+A# D# F# 
+C  D# F# 
+C  D# A  
+C  F  A  
+C# F  A  
+C# F  A# 
+C# F# A# 
+D# F# A# 
+D# F# C  
+D# A  C  
+F  A  C  
+F  A  C# 
+F  A# C# 
+F# A# C# 
+F# A# D# 
+F# C  D# 
+A  C  D# 
+A  C  F  
+A  C# F  

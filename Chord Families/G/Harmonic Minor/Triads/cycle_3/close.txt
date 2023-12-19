@@ -1,0 +1,22 @@
+G Harmonic Minor, Cycle 3, close Voicing
+G  A# D  
+F# A# D  
+F# A  D  
+F# A  C  
+D# A  C  
+D# G  C  
+D# G  A# 
+D  G  A# 
+D  F# A# 
+D  F# A  
+C  F# A  
+C  D# A  
+C  D# G  
+A# D# G  
+A# D  G  
+A# D  F# 
+A  D  F# 
+A  C  F# 
+A  C  D# 
+G  C  D# 
+G  A# D# 

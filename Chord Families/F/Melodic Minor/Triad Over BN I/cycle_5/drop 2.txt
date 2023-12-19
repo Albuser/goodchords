@@ -1,0 +1,15 @@
+F Melodic Minor, Cycle 5, drop 2 Voicing
+F  C  E  G  
+G  C  D  A# 
+G  D  F  G# 
+G# D  E  C  
+G# E  G  A# 
+A# E  F  D  
+A# F  G# C  
+C  F  G  E  
+C  G  A# D  
+D  G  G# F  
+D  G# C  E  
+E  G# A# G  
+E  A# D  F  
+F  A# C  G# 

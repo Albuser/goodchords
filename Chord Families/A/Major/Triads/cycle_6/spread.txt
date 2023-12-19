@@ -1,0 +1,22 @@
+A Major, Cycle 6, spread Voicing
+A  E  C# 
+A  F# C# 
+A  F# D  
+B  F# D  
+B  G# D  
+B  G# E  
+C# G# E  
+C# A  E  
+C# A  F# 
+D  A  F# 
+D  B  F# 
+D  B  G# 
+E  B  G# 
+E  C# G# 
+E  C# A  
+F# C# A  
+F# D  A  
+F# D  B  
+G# D  B  
+G# E  B  
+G# E  C# 

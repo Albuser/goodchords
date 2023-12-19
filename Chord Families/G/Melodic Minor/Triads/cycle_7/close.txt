@@ -1,0 +1,15 @@
+G Melodic Minor, Cycle 7, close Voicing
+G  A# D  
+A  F# C  
+E  G  A# 
+F# D  A  
+C  E  G  
+D  A# F# 
+A  C  E  
+A# G  D  
+F# A  C  
+G  E  A# 
+D  F# A  
+E  C  G  
+A# D  F# 
+C  A  E  

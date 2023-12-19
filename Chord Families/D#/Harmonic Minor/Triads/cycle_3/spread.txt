@@ -1,0 +1,22 @@
+D# Harmonic Minor, Cycle 3, spread Voicing
+D# A# F# 
+D  A# F# 
+D  A# F  
+D  G# F  
+B  G# F  
+B  G# D# 
+B  F# D# 
+A# F# D# 
+A# F# D  
+A# F  D  
+G# F  D  
+G# F  B  
+G# D# B  
+F# D# B  
+F# D# A# 
+F# D  A# 
+F  D  A# 
+F  D  G# 
+F  B  G# 
+D# B  G# 
+D# B  F# 

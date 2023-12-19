@@ -1,0 +1,22 @@
+D# Melodic Minor, Cycle 3, close Voicing
+D# F# A# 
+D  F# A# 
+D  F  A# 
+D  F  G# 
+C  F  G# 
+C  D# G# 
+C  D# F# 
+A# D# F# 
+A# D  F# 
+A# D  F  
+G# D  F  
+G# C  F  
+G# C  D# 
+F# C  D# 
+F# A# D# 
+F# A# D  
+F  A# D  
+F  G# D  
+F  G# C  
+D# G# C  
+D# F# C  

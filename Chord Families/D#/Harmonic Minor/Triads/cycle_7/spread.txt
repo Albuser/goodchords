@@ -1,0 +1,22 @@
+D# Harmonic Minor, Cycle 7, spread Voicing
+D# A# F# 
+F  D  G# 
+F# D# B  
+A# F  D  
+B  G# D# 
+D  A# F# 
+F  B  G# 
+F# D# A# 
+G# F  D  
+B  F# D# 
+D  A# F  
+D# B  G# 
+F# D  A# 
+G# F  B  
+A# F# D# 
+D  G# F  
+D# B  F# 
+F  D  A# 
+G# D# B  
+A# F# D  
+B  G# F  

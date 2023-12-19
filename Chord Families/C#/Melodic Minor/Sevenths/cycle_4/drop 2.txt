@@ -1,0 +1,15 @@
+C# Melodic Minor, Cycle 4, drop 2 Voicing
+C# G# C  E  
+C# F# A# E  
+C  F# A# D# 
+C  E  G# D# 
+A# E  G# C# 
+A# D# F# C# 
+G# D# F# C  
+G# C# E  C  
+F# C# E  A# 
+F# C  D# A# 
+E  C  D# G# 
+E  A# C# G# 
+D# A# C# F# 
+D# G# C  F# 

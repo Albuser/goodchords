@@ -1,0 +1,22 @@
+D# Melodic Minor, Cycle 3, spread Voicing
+D# A# F# 
+D  A# F# 
+D  A# F  
+D  G# F  
+C  G# F  
+C  G# D# 
+C  F# D# 
+A# F# D# 
+A# F# D  
+A# F  D  
+G# F  D  
+G# F  C  
+G# D# C  
+F# D# C  
+F# D# A# 
+F# D  A# 
+F  D  A# 
+F  D  G# 
+F  C  G# 
+D# C  G# 
+D# C  F# 

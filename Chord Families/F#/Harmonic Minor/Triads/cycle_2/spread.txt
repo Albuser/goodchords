@@ -1,0 +1,22 @@
+F# Harmonic Minor, Cycle 2, spread Voicing
+F# C# A  
+D  B  G# 
+C# A  F  
+B  F# D  
+G# F  C# 
+F# D  A  
+F  B  G# 
+C# A  F# 
+B  G# D  
+A  F  C# 
+F# D  B  
+F  C# G# 
+D  A  F# 
+B  G# F  
+A  F# C# 
+G# D  B  
+F  C# A  
+D  B  F# 
+C# G# F  
+A  F# D  
+G# F  B  

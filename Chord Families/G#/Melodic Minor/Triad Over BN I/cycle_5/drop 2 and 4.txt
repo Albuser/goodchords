@@ -1,0 +1,15 @@
+G# Melodic Minor, Cycle 5, drop 2 and 4 Voicing
+G# D# A# G  
+A# D# C# F  
+A# F  B  G# 
+B  F  D# G  
+B  G  C# A# 
+C# G  F  G# 
+C# G# D# B  
+D# G# G  A# 
+D# A# F  C# 
+F  A# G# B  
+F  B  G  D# 
+G  B  A# C# 
+G  C# G# F  
+G# C# B  D# 

@@ -1,0 +1,22 @@
+F Melodic Minor, Cycle 6, spread Voicing
+F  C  G# 
+F  D  G# 
+F  D  A# 
+G  D  A# 
+G  E  A# 
+G  E  C  
+G# E  C  
+G# F  C  
+G# F  D  
+A# F  D  
+A# G  D  
+A# G  E  
+C  G  E  
+C  G# E  
+C  G# F  
+D  G# F  
+D  A# F  
+D  A# G  
+E  A# G  
+E  C  G  
+E  C  G# 

@@ -1,0 +1,22 @@
+C# Major, Cycle 4, close Voicing
+C# F  G# 
+C# F# A# 
+D# F# C  
+F  G# C  
+F  A# C# 
+F# A# D# 
+G# C  D# 
+G# C# F  
+A# C# F# 
+C  D# F# 
+C  F  G# 
+C# F  A# 
+D# F# A# 
+D# G# C  
+F  G# C# 
+F# A# C# 
+F# C  D# 
+G# C  F  
+A# C# F  
+A# D# F# 
+C  D# G# 

@@ -1,0 +1,15 @@
+F Harmonic Minor, Cycle 4, drop 2 and 4 Voicing
+F  C  G# E  
+F  A# G# C# 
+E  A# G  C# 
+E  G# G  C  
+C# G# F  C  
+C# G  F  A# 
+C  G  E  A# 
+C  F  E  G# 
+A# F  C# G# 
+A# E  C# G  
+G# E  C  G  
+G# C# C  F  
+G  C# A# F  
+G  C  A# E  

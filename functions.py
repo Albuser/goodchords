@@ -7,7 +7,7 @@ parent_dir = r"C:/Users/alexa/Documents/Programming/Music/goodchord/"
 def generateChordFamily(cycle, root, scaleType, chord, fname):
     scale = Scale(root, scaleType)
     chordTones = [ChordTone(scale.notes[x]) for x in chord]
-    startingChord = Chord(scale, 0, chordTones)
+    startingChord = Chord(scale, chordTones[0].pitchClass, chordTones)
     chord = startingChord.copy()
     permutation = chord.getBestInversion(cycle - 1)
     while True:

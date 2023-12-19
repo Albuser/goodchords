@@ -1,0 +1,22 @@
+F# Major, Cycle 7, close Voicing
+F# A# C# 
+G# B  F  
+A# D# F# 
+C# F  G# 
+D# F# B  
+F  A# C# 
+G# B  D# 
+A# C# F# 
+B  F  G# 
+D# F# A# 
+F  G# C# 
+F# B  D# 
+A# C# F  
+B  D# G# 
+C# F# A# 
+F  G# B  
+F# A# D# 
+G# C# F  
+B  D# F# 
+C# F  A# 
+D# G# B  

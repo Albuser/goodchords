@@ -1,0 +1,22 @@
+G# Melodic Minor, Cycle 7, spread Voicing
+G# D# B  
+A# G  C# 
+B  G# F  
+D# A# G  
+F  C# G# 
+G  D# B  
+A# F  C# 
+B  G# D# 
+C# A# G  
+F  B  G# 
+G  D# A# 
+G# F  C# 
+B  G  D# 
+C# A# F  
+D# B  G# 
+G  C# A# 
+G# F  B  
+A# G  D# 
+C# G# F  
+D# B  G  
+F  C# A# 

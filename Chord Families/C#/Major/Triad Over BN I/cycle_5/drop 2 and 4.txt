@@ -1,0 +1,15 @@
+C# Major, Cycle 5, drop 2 and 4 Voicing
+C# G# D# C  
+D# G# F# A# 
+D# A# F  C# 
+F  A# G# C  
+F  C  F# D# 
+F# C  A# C# 
+F# C# G# F  
+G# C# C  D# 
+G# D# A# F# 
+A# D# C# F  
+A# F  C  G# 
+C  F  D# F# 
+C  F# C# A# 
+C# F# F  G# 
