@@ -1,0 +1,64 @@
+D Melodic Minor, Cycle 2
+-------------------------
+Close: (2 5 1) --> (1 5 2)
+E  A  D  
+E  B  F  
+G  C♯ F  
+G  D  A  
+B  E  A  
+B  F  C♯ 
+D  G  C♯ 
+D  A  E  
+F  B  E  
+F  C♯ G  
+A  D  G  
+A  E  B  
+C♯ F  B  
+C♯ G  D  
+Alternate Voicing:
+A  D  E  
+F  E  B  
+C♯ F  G  
+A  G  D  
+E  A  B  
+C♯ B  F  
+G  C♯ D  
+E  D  A  
+B  E  F  
+G  F  C♯ 
+D  G  A  
+B  A  E  
+F  B  C♯ 
+D  C♯ G  
+-------------------------
+Spread: (1 5 2) --> (2 5 1)
+D  A  E  
+F  B  E  
+F  C♯ G  
+A  D  G  
+A  E  B  
+C♯ F  B  
+C♯ G  D  
+E  A  D  
+E  B  F  
+G  C♯ F  
+G  D  A  
+B  E  A  
+B  F  C♯ 
+D  G  C♯ 
+Alternate Voicing:
+A  E  D  
+E  F  B  
+C♯ G  F  
+G  A  D  
+E  B  A  
+B  C♯ F  
+G  D  C♯ 
+D  E  A  
+B  F  E  
+F  G  C♯ 
+D  A  G  
+A  B  E  
+F  C♯ B  
+C♯ D  G  
+-------------------------
