@@ -1,4 +1,7 @@
 from classes import *
+import os
+
+parent_dir = r"C:/Users/alexa/Documents/Programming/Music/goodchord/"
 
 
 def generateChordFamily(cycle, root, scaleType, chord, fname):
@@ -16,13 +19,27 @@ def generateChordFamily(cycle, root, scaleType, chord, fname):
             break
 
 
+def safeMakeFolder(path):
+    try:
+        os.mkdir(path)
+    except OSError as error:
+        return
+
+
 def write_files(root, scaleType, chordVoicings):
     scaleName = scaleType["name"]
     scaleNotes = scaleType["notes"]
     rootName = pitch_classes[root]
+    path = os.path.join(parent_dir, "Chord Families")
+    safeMakeFolder(path)
+    path = path + f"/{rootName}/"
+    safeMakeFolder(path)
+    path = path + f"/{scaleName}/"
+    safeMakeFolder(path)
     for chordName, chord in chordVoicings.items():
         for cycle in range(2, 8):
-            fname = f"{rootName}_{scaleName}_cycle_{cycle}_{chordName}.txt"
+            safeMakeFolder(path + f"cycle_{cycle}/")
+            fname = path + f"cycle_{cycle}/{chordName}.txt"
             with open(fname, "w") as f:
                 f.write(
                     f"{rootName.capitalize()} Major, Cycle {cycle}, {chordName} Voicing\n"
