@@ -62,65 +62,67 @@ G  E  A♭ B♭
 B♭ D  F  E 
 A♭ F  B♭ C 
 -------------------------
-Drop 3: (1 7 2 5) --> (7 2 5 1)
+Drop 3: (1 7 2 5) --> (5 2 7 1)
 F  E  G  C 
-B♭ D  G  C 
-A♭ D  G  F 
-A♭ D  C  E 
-A♭ G  B♭ E 
-D  F  B♭ E 
-C  F  B♭ A♭
-C  F  E  G 
-C  B♭ D  G 
-F  A♭ D  G 
-E  A♭ D  C 
-E  A♭ G  B♭
-E  D  F  B♭
-A♭ C  F  B♭
-G  C  F  E 
-G  C  B♭ D 
+G  D  B♭ C 
 G  F  A♭ D 
-C  E  A♭ D 
-B♭ E  A♭ G 
-B♭ E  D  F 
+A♭ E  C  D 
+A♭ G  B♭ E 
+B♭ F  D  E 
 B♭ A♭ C  F 
-E  G  C  F 
-D  G  C  B♭
-D  G  F  A♭
+C  G  E  F 
+C  B♭ D  G 
+D  A♭ F  G 
 D  C  E  A♭
+E  B♭ G  A♭
+E  D  F  B♭
+F  C  A♭ B♭
+Alternate Voicing:
+E  G  C  F 
+C  G  D  B♭
+F  A♭ D  G 
+D  A♭ E  C 
 G  B♭ E  A♭
-F  B♭ E  D 
-F  B♭ A♭ C 
+E  B♭ F  D 
+A♭ C  F  B♭
+F  C  G  E 
+B♭ D  G  C 
+G  D  A♭ F 
+C  E  A♭ D 
+A♭ E  B♭ G 
+D  F  B♭ E 
+B♭ F  C  A♭
 -------------------------
-Drop 2 and 3: (1 2 7 5) --> (7 5 2 1)
+Drop 2 and 3: (1 2 7 5) --> (5 7 2 1)
 F  G  E  C 
-B♭ G  D  C 
-A♭ G  D  F 
-A♭ C  D  E 
-A♭ B♭ G  E 
-D  B♭ F  E 
-C  B♭ F  A♭
-C  E  F  G 
-C  D  B♭ G 
-F  D  A♭ G 
-E  D  A♭ C 
-E  G  A♭ B♭
-E  F  D  B♭
-A♭ F  C  B♭
-G  F  C  E 
-G  B♭ C  D 
+G  B♭ D  C 
 G  A♭ F  D 
-C  A♭ E  D 
-B♭ A♭ E  G 
-B♭ D  E  F 
+A♭ C  E  D 
+A♭ B♭ G  E 
+B♭ D  F  E 
 B♭ C  A♭ F 
-E  C  G  F 
-D  C  G  B♭
-D  F  G  A♭
+C  E  G  F 
+C  D  B♭ G 
+D  F  A♭ G 
 D  E  C  A♭
-G  E  B♭ A♭
-F  E  B♭ D 
-F  A♭ B♭ C 
+E  G  B♭ A♭
+E  F  D  B♭
+F  A♭ C  B♭
+Alternate Voicing:
+G  E  C  F 
+C  G  B♭ D 
+A♭ F  D  G 
+D  A♭ C  E 
+B♭ G  E  A♭
+E  B♭ D  F 
+C  A♭ F  B♭
+F  C  E  G 
+D  B♭ G  C 
+G  D  F  A♭
+E  C  A♭ D 
+A♭ E  G  B♭
+F  D  B♭ E 
+B♭ F  A♭ C 
 -------------------------
 Drop 2 and 4: (1 5 2 7) --> (5 1 7 2)
 F  C  G  E 
@@ -153,33 +155,34 @@ B♭ E  A♭ G
 B♭ F  D  E 
 C  F  B♭ A♭
 -------------------------
-Double drop 2 drop 3: (1 7 5 2) --> (7 2 1 5)
+Double drop 2 drop 3: (1 7 5 2) --> (5 2 1 7)
 F  E  C  G 
-B♭ D  C  G 
-A♭ D  F  G 
-A♭ D  E  C 
-A♭ G  E  B♭
-D  F  E  B♭
-C  F  A♭ B♭
-C  F  G  E 
-C  B♭ G  D 
-F  A♭ G  D 
-E  A♭ C  D 
-E  A♭ B♭ G 
-E  D  B♭ F 
-A♭ C  B♭ F 
-G  C  E  F 
-G  C  D  B♭
+G  D  C  B♭
 G  F  D  A♭
-C  E  D  A♭
-B♭ E  G  A♭
-B♭ E  F  D 
+A♭ E  D  C 
+A♭ G  E  B♭
+B♭ F  E  D 
 B♭ A♭ F  C 
-E  G  F  C 
-D  G  B♭ C 
-D  G  A♭ F 
+C  G  F  E 
+C  B♭ G  D 
+D  A♭ G  F 
 D  C  A♭ E 
-G  B♭ A♭ E 
-F  B♭ D  E 
-F  B♭ C  A♭
+E  B♭ A♭ G 
+E  D  B♭ F 
+F  C  B♭ A♭
+Alternate Voicing:
+E  C  G  F 
+D  C  B♭ G 
+F  D  A♭ G 
+E  D  C  A♭
+G  E  B♭ A♭
+F  E  D  B♭
+A♭ F  C  B♭
+G  F  E  C 
+B♭ G  D  C 
+A♭ G  F  D 
+C  A♭ E  D 
+B♭ A♭ G  E 
+D  B♭ F  E 
+C  B♭ A♭ F 
 -------------------------

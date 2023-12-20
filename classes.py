@@ -40,7 +40,7 @@ class Chord:
                 newPitches[i] = self.scale.notes[(toneIndx + num) % self.scale.length]
             distance = 0
             for j in range(len(newPitches)):
-                distance += tonalDistance(newPitches[j], self.pitchClasses()[j])
+                distance += tonalDistance(newPitches[j], self.pitchClasses()[j]) ** 2
             if distance < minDistance:
                 minDistance = distance
                 bestPerm = indices
