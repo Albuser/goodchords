@@ -1,48 +1,48 @@
 C Harmonic Minor, Cycle 3
 -------------------------
 Close: (2 5 1) --> (1 2 5)
-D  G  C 
-E♭ F  B 
-D  G  A♭
-C  F  B 
-D  E♭ A♭
-C  F  G 
-B  E♭ A♭
-C  D  G 
-B  E♭ F 
-A♭ D  G 
-B  C  F 
-A♭ D  E♭
-G  C  F 
-A♭ B  E♭
-G  C  D 
-F  B  E♭
-G  A♭ D 
-F  B  C 
-E♭ A♭ D 
-F  G  C 
-E♭ A♭ B 
+D  G  C      Csus2
+E♭ F  B      E♭
+D  G  A♭     Gsus(m2)
+C  F  B      Bdim(sus(m2))
+D  E♭ A♭     Ddim(sus(m2))
+C  F  G      Fsus2
+B  E♭ A♭     A♭m
+C  D  G      Csus2
+B  E♭ F      E♭
+A♭ D  G      Gsus(m2)
+B  C  F      Bdim(sus(m2))
+A♭ D  E♭     Ddim(sus(m2))
+G  C  F      Fsus2
+A♭ B  E♭     A♭m
+G  C  D      Csus2
+F  B  E♭     E♭
+G  A♭ D      Gsus(m2)
+F  B  C      Bdim(sus(m2))
+E♭ A♭ D      Ddim(sus(m2))
+F  G  C      Fsus2
+E♭ A♭ B      A♭m
 -------------------------
 Spread: (1 5 2) --> (5 2 1)
-C  G  D 
-B  F  E♭
-A♭ G  D 
-B  F  C 
-A♭ E♭ D 
-G  F  C 
-A♭ E♭ B 
-G  D  C 
-F  E♭ B 
-G  D  A♭
-F  C  B 
-E♭ D  A♭
-F  C  G 
-E♭ B  A♭
-D  C  G 
-E♭ B  F 
-D  A♭ G 
-C  B  F 
-D  A♭ E♭
-C  G  F 
-B  A♭ E♭
+C  G  D      Csus2
+B  F  E♭     E♭
+A♭ G  D      Gsus(m2)
+B  F  C      Bdim(sus(m2))
+A♭ E♭ D      Ddim(sus(m2))
+G  F  C      Fsus2
+A♭ E♭ B      A♭m
+G  D  C      Csus2
+F  E♭ B      E♭
+G  D  A♭     Gsus(m2)
+F  C  B      Bdim(sus(m2))
+E♭ D  A♭     Ddim(sus(m2))
+F  C  G      Fsus2
+E♭ B  A♭     A♭m
+D  C  G      Csus2
+E♭ B  F      E♭
+D  A♭ G      Gsus(m2)
+C  B  F      Bdim(sus(m2))
+D  A♭ E♭     Ddim(sus(m2))
+C  G  F      Fsus2
+B  A♭ E♭     A♭m
 -------------------------

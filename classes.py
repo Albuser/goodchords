@@ -69,12 +69,19 @@ class Chord:
         return Chord(self.scale, self.root, self.chordTones)
 
     def __repr__(self):
-        str = ""
         notes = []
         for tone in self.chordTones:
             indx = self.scale.notes.index(tone.pitchClass)
             notes.append(self.scale.noteNames[indx].ljust(2, " "))
-        return " ".join(notes)
+        rootIndx = self.scale.notes.index(self.root)
+        sortedNotes = tuple(
+            sorted([(x.pitchClass - self.root) % 12 for x in self.chordTones])
+        )
+        if sortedNotes in chordNames:
+            chordName = self.scale.noteNames[rootIndx] + chordNames[sortedNotes]
+        else:
+            chordName = self.scale.noteNames[rootIndx]
+        return " ".join(notes) + " " * 5 + chordName
 
 
 class Scale:

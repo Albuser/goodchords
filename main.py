@@ -6,12 +6,12 @@ import itertools
 if __name__ == "__main__":
     for root, myScale in itertools.product(range(12), [major, harmo, melod]):
         scale = Scale(root, myScale["notes"])
-        print(
-            (pitch_classes[root] + " " + myScale["name"] + ": ").ljust(20, " "),
-            ", ".join(scale.noteNames),
-        )
+        # print(
+        #     (pitch_classes[root] + " " + myScale["name"] + ": ").ljust(20, " "),
+        #     ", ".join(scale.noteNames),
+        # )
     for root, scale, voicing in itertools.product(
-        range(12), allScales, allChordFamilies
+        range(1), allScales, allChordFamilies
     ):
         print(root, scale["name"], voicing["name"])
         write_files(root, scale, voicing)

@@ -1,48 +1,48 @@
 C Melodic Minor, Cycle 4
 -------------------------
 Close: (1 3 5) --> (5 1 3)
-C  E♭ G 
-C  F  A 
-D  F  B 
-E♭ G  B 
-E♭ A  C 
-F  A  D 
-G  B  D 
-G  C  E♭
-A  C  F 
-B  D  F 
-B  E♭ G 
-C  E♭ A 
-D  F  A 
-D  G  B 
-E♭ G  C 
-F  A  C 
-F  B  D 
-G  B  E♭
-A  C  E♭
-A  D  F 
-B  D  G 
+C  E♭ G      Cm
+C  F  A      FM
+D  F  B      Bdim
+E♭ G  B      E♭+
+E♭ A  C      Adim
+F  A  D      Dm
+G  B  D      GM
+G  C  E♭     Cm
+A  C  F      FM
+B  D  F      Bdim
+B  E♭ G      E♭+
+C  E♭ A      Adim
+D  F  A      Dm
+D  G  B      GM
+E♭ G  C      Cm
+F  A  C      FM
+F  B  D      Bdim
+G  B  E♭     E♭+
+A  C  E♭     Adim
+A  D  F      Dm
+B  D  G      GM
 -------------------------
 Spread: (1 5 3) --> (5 3 1)
-C  G  E♭
-C  A  F 
-D  B  F 
-E♭ B  G 
-E♭ C  A 
-F  D  A 
-G  D  B 
-G  E♭ C 
-A  F  C 
-B  F  D 
-B  G  E♭
-C  A  E♭
-D  A  F 
-D  B  G 
-E♭ C  G 
-F  C  A 
-F  D  B 
-G  E♭ B 
-A  E♭ C 
-A  F  D 
-B  G  D 
+C  G  E♭     Cm
+C  A  F      FM
+D  B  F      Bdim
+E♭ B  G      E♭+
+E♭ C  A      Adim
+F  D  A      Dm
+G  D  B      GM
+G  E♭ C      Cm
+A  F  C      FM
+B  F  D      Bdim
+B  G  E♭     E♭+
+C  A  E♭     Adim
+D  A  F      Dm
+D  B  G      GM
+E♭ C  G      Cm
+F  C  A      FM
+F  D  B      Bdim
+G  E♭ B      E♭+
+A  E♭ C      Adim
+A  F  D      Dm
+B  G  D      GM
 -------------------------

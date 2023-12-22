@@ -1,64 +1,64 @@
 C Harmonic Minor, Cycle 7
 -------------------------
 Close: (2 5 1) --> (1 5 2)
-D  G  C 
-B  F  C 
-B  E♭ A♭
-G  D  A♭
-G  C  F 
-E♭ B  F 
-E♭ A♭ D 
-C  G  D 
-C  F  B 
-A♭ E♭ B 
-A♭ D  G 
-F  C  G 
-F  B  E♭
-D  A♭ E♭
+D  G  C      Csus2
+B  F  C      Bdim(sus(m2))
+B  E♭ A♭     A♭m
+G  D  A♭     Gsus(m2)
+G  C  F      Fsus2
+E♭ B  F      E♭
+E♭ A♭ D      Ddim(sus(m2))
+C  G  D      Csus2
+C  F  B      Bdim(sus(m2))
+A♭ E♭ B      A♭m
+A♭ D  G      Gsus(m2)
+F  C  G      Fsus2
+F  B  E♭     E♭
+D  A♭ E♭     Ddim(sus(m2))
 Alternate Voicing:
-G  C  D 
-C  B  F 
-E♭ A♭ B 
-A♭ G  D 
-C  F  G 
-F  E♭ B 
-A♭ D  E♭
-D  C  G 
-F  B  C 
-B  A♭ E♭
-D  G  A♭
-G  F  C 
-B  E♭ F 
-E♭ D  A♭
+G  C  D      Csus2
+C  B  F      Bdim(sus(m2))
+E♭ A♭ B      A♭m
+A♭ G  D      Gsus(m2)
+C  F  G      Fsus2
+F  E♭ B      E♭
+A♭ D  E♭     Ddim(sus(m2))
+D  C  G      Csus2
+F  B  C      Bdim(sus(m2))
+B  A♭ E♭     A♭m
+D  G  A♭     Gsus(m2)
+G  F  C      Fsus2
+B  E♭ F      E♭
+E♭ D  A♭     Ddim(sus(m2))
 -------------------------
 Spread: (1 5 2) --> (2 5 1)
-C  G  D 
-C  F  B 
-A♭ E♭ B 
-A♭ D  G 
-F  C  G 
-F  B  E♭
-D  A♭ E♭
-D  G  C 
-B  F  C 
-B  E♭ A♭
-G  D  A♭
-G  C  F 
-E♭ B  F 
-E♭ A♭ D 
+C  G  D      Csus2
+C  F  B      Bdim(sus(m2))
+A♭ E♭ B      A♭m
+A♭ D  G      Gsus(m2)
+F  C  G      Fsus2
+F  B  E♭     E♭
+D  A♭ E♭     Ddim(sus(m2))
+D  G  C      Csus2
+B  F  C      Bdim(sus(m2))
+B  E♭ A♭     A♭m
+G  D  A♭     Gsus(m2)
+G  C  F      Fsus2
+E♭ B  F      E♭
+E♭ A♭ D      Ddim(sus(m2))
 Alternate Voicing:
-G  D  C 
-B  C  F 
-E♭ B  A♭
-G  A♭ D 
-C  G  F 
-E♭ F  B 
-A♭ E♭ D 
-C  D  G 
-F  C  B 
-A♭ B  E♭
-D  A♭ G 
-F  G  C 
-B  F  E♭
-D  E♭ A♭
+G  D  C      Csus2
+B  C  F      Bdim(sus(m2))
+E♭ B  A♭     A♭m
+G  A♭ D      Gsus(m2)
+C  G  F      Fsus2
+E♭ F  B      E♭
+A♭ E♭ D      Ddim(sus(m2))
+C  D  G      Csus2
+F  C  B      Bdim(sus(m2))
+A♭ B  E♭     A♭m
+D  A♭ G      Gsus(m2)
+F  G  C      Fsus2
+B  F  E♭     E♭
+D  E♭ A♭     Ddim(sus(m2))
 -------------------------
