@@ -1,56 +1,56 @@
 A Harmonic Minor, Cycle 7
 -------------------------
 Close: (1 3 5) --> (3 1 5)
-A  C  E 
-B  G♯ D 
-F  A  C 
-G♯ E  B 
-D  F  A 
-E  C  G♯
-B  D  F 
-C  A  E 
-G♯ B  D 
-A  F  C 
-E  G♯ B 
-F  D  A 
-C  E  G♯
-D  B  F 
+A  C  E      Am
+B  G♯ D      G♯dim
+F  A  C      FM
+G♯ E  B      EM
+D  F  A      Dm
+E  C  G♯     C+
+B  D  F      Bdim
+C  A  E      Am
+G♯ B  D      G♯dim
+A  F  C      FM
+E  G♯ B      EM
+F  D  A      Dm
+C  E  G♯     C+
+D  B  F      Bdim
 Alternate Voicing:
-C  E  A 
-D  B  G♯
-A  C  F 
-B  G♯ E 
-F  A  D 
-G♯ E  C 
-D  F  B 
-E  C  A 
-B  D  G♯
-C  A  F 
-G♯ B  E 
-A  F  D 
-E  G♯ C 
-F  D  B 
+C  E  A      Am
+D  B  G♯     G♯dim
+A  C  F      FM
+B  G♯ E      EM
+F  A  D      Dm
+G♯ E  C      C+
+D  F  B      Bdim
+E  C  A      Am
+B  D  G♯     G♯dim
+C  A  F      FM
+G♯ B  E      EM
+A  F  D      Dm
+E  G♯ C      C+
+F  D  B      Bdim
 -------------------------
 Spread: (1 5 3) --> (3 1 5)
-A  E  C 
-B  G♯ D 
-C  A  F 
-E  B  G♯
-F  D  A 
-G♯ E  C 
-B  F  D 
-C  A  E 
-D  B  G♯
-F  C  A 
-G♯ E  B 
-A  F  D 
-C  G♯ E 
-D  B  F 
-E  C  A 
-G♯ D  B 
-A  F  C 
-B  G♯ E 
-D  A  F 
-E  C  G♯
-F  D  B 
+A  E  C      Am
+B  G♯ D      G♯dim
+C  A  F      FM
+E  B  G♯     EM
+F  D  A      Dm
+G♯ E  C      C+
+B  F  D      Bdim
+C  A  E      Am
+D  B  G♯     G♯dim
+F  C  A      FM
+G♯ E  B      EM
+A  F  D      Dm
+C  G♯ E      C+
+D  B  F      Bdim
+E  C  A      Am
+G♯ D  B      G♯dim
+A  F  C      FM
+B  G♯ E      EM
+D  A  F      Dm
+E  C  G♯     C+
+F  D  B      Bdim
 -------------------------

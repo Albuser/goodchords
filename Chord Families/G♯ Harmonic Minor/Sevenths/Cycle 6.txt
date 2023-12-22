@@ -1,182 +1,182 @@
 G♯ Harmonic Minor, Cycle 6
 -------------------------
 4-way close: (1 3 5 7) --> (3 5 7 1)
-G♯ B  D♯ F𝄪
-G♯ B  D♯ E 
-G♯ B  C♯ E 
-G♯ A♯ C♯ E 
-F𝄪 A♯ C♯ E 
-F𝄪 A♯ C♯ D♯
-F𝄪 A♯ B  D♯
-F𝄪 G♯ B  D♯
-E  G♯ B  D♯
-E  G♯ B  C♯
-E  G♯ A♯ C♯
-E  F𝄪 A♯ C♯
-D♯ F𝄪 A♯ C♯
-D♯ F𝄪 A♯ B 
-D♯ F𝄪 G♯ B 
-D♯ E  G♯ B 
-C♯ E  G♯ B 
-C♯ E  G♯ A♯
-C♯ E  F𝄪 A♯
-C♯ D♯ F𝄪 A♯
-B  D♯ F𝄪 A♯
-B  D♯ F𝄪 G♯
-B  D♯ E  G♯
-B  C♯ E  G♯
-A♯ C♯ E  G♯
-A♯ C♯ E  F𝄪
-A♯ C♯ D♯ F𝄪
-A♯ B  D♯ F𝄪
+G♯ B  D♯ F𝄪     G♯m(maj7)
+G♯ B  D♯ E      EM7
+G♯ B  C♯ E      C♯m7
+G♯ A♯ C♯ E      A♯ø
+F𝄪 A♯ C♯ E      F𝄪°
+F𝄪 A♯ C♯ D♯     D♯7
+F𝄪 A♯ B  D♯     Baug(maj7)
+F𝄪 G♯ B  D♯     G♯m(maj7)
+E  G♯ B  D♯     EM7
+E  G♯ B  C♯     C♯m7
+E  G♯ A♯ C♯     A♯ø
+E  F𝄪 A♯ C♯     F𝄪°
+D♯ F𝄪 A♯ C♯     D♯7
+D♯ F𝄪 A♯ B      Baug(maj7)
+D♯ F𝄪 G♯ B      G♯m(maj7)
+D♯ E  G♯ B      EM7
+C♯ E  G♯ B      C♯m7
+C♯ E  G♯ A♯     A♯ø
+C♯ E  F𝄪 A♯     F𝄪°
+C♯ D♯ F𝄪 A♯     D♯7
+B  D♯ F𝄪 A♯     Baug(maj7)
+B  D♯ F𝄪 G♯     G♯m(maj7)
+B  D♯ E  G♯     EM7
+B  C♯ E  G♯     C♯m7
+A♯ C♯ E  G♯     A♯ø
+A♯ C♯ E  F𝄪     F𝄪°
+A♯ C♯ D♯ F𝄪     D♯7
+A♯ B  D♯ F𝄪     Baug(maj7)
 -------------------------
 Drop 2: (1 5 7 3) --> (3 7 1 5)
-G♯ D♯ F𝄪 B 
-G♯ D♯ E  B 
-G♯ C♯ E  B 
-G♯ C♯ E  A♯
-F𝄪 C♯ E  A♯
-F𝄪 C♯ D♯ A♯
-F𝄪 B  D♯ A♯
-F𝄪 B  D♯ G♯
-E  B  D♯ G♯
-E  B  C♯ G♯
-E  A♯ C♯ G♯
-E  A♯ C♯ F𝄪
-D♯ A♯ C♯ F𝄪
-D♯ A♯ B  F𝄪
-D♯ G♯ B  F𝄪
-D♯ G♯ B  E 
-C♯ G♯ B  E 
-C♯ G♯ A♯ E 
-C♯ F𝄪 A♯ E 
-C♯ F𝄪 A♯ D♯
-B  F𝄪 A♯ D♯
-B  F𝄪 G♯ D♯
-B  E  G♯ D♯
-B  E  G♯ C♯
-A♯ E  G♯ C♯
-A♯ E  F𝄪 C♯
-A♯ D♯ F𝄪 C♯
-A♯ D♯ F𝄪 B 
+G♯ D♯ F𝄪 B      G♯m(maj7)
+G♯ D♯ E  B      EM7
+G♯ C♯ E  B      C♯m7
+G♯ C♯ E  A♯     A♯ø
+F𝄪 C♯ E  A♯     F𝄪°
+F𝄪 C♯ D♯ A♯     D♯7
+F𝄪 B  D♯ A♯     Baug(maj7)
+F𝄪 B  D♯ G♯     G♯m(maj7)
+E  B  D♯ G♯     EM7
+E  B  C♯ G♯     C♯m7
+E  A♯ C♯ G♯     A♯ø
+E  A♯ C♯ F𝄪     F𝄪°
+D♯ A♯ C♯ F𝄪     D♯7
+D♯ A♯ B  F𝄪     Baug(maj7)
+D♯ G♯ B  F𝄪     G♯m(maj7)
+D♯ G♯ B  E      EM7
+C♯ G♯ B  E      C♯m7
+C♯ G♯ A♯ E      A♯ø
+C♯ F𝄪 A♯ E      F𝄪°
+C♯ F𝄪 A♯ D♯     D♯7
+B  F𝄪 A♯ D♯     Baug(maj7)
+B  F𝄪 G♯ D♯     G♯m(maj7)
+B  E  G♯ D♯     EM7
+B  E  G♯ C♯     C♯m7
+A♯ E  G♯ C♯     A♯ø
+A♯ E  F𝄪 C♯     F𝄪°
+A♯ D♯ F𝄪 C♯     D♯7
+A♯ D♯ F𝄪 B      Baug(maj7)
 -------------------------
 Drop 3: (1 7 3 5) --> (3 1 5 7)
-G♯ F𝄪 B  D♯
-G♯ E  B  D♯
-G♯ E  B  C♯
-G♯ E  A♯ C♯
-F𝄪 E  A♯ C♯
-F𝄪 D♯ A♯ C♯
-F𝄪 D♯ A♯ B 
-F𝄪 D♯ G♯ B 
-E  D♯ G♯ B 
-E  C♯ G♯ B 
-E  C♯ G♯ A♯
-E  C♯ F𝄪 A♯
-D♯ C♯ F𝄪 A♯
-D♯ B  F𝄪 A♯
-D♯ B  F𝄪 G♯
-D♯ B  E  G♯
-C♯ B  E  G♯
-C♯ A♯ E  G♯
-C♯ A♯ E  F𝄪
-C♯ A♯ D♯ F𝄪
-B  A♯ D♯ F𝄪
-B  G♯ D♯ F𝄪
-B  G♯ D♯ E 
-B  G♯ C♯ E 
-A♯ G♯ C♯ E 
-A♯ F𝄪 C♯ E 
-A♯ F𝄪 C♯ D♯
-A♯ F𝄪 B  D♯
+G♯ F𝄪 B  D♯     G♯m(maj7)
+G♯ E  B  D♯     EM7
+G♯ E  B  C♯     C♯m7
+G♯ E  A♯ C♯     A♯ø
+F𝄪 E  A♯ C♯     F𝄪°
+F𝄪 D♯ A♯ C♯     D♯7
+F𝄪 D♯ A♯ B      Baug(maj7)
+F𝄪 D♯ G♯ B      G♯m(maj7)
+E  D♯ G♯ B      EM7
+E  C♯ G♯ B      C♯m7
+E  C♯ G♯ A♯     A♯ø
+E  C♯ F𝄪 A♯     F𝄪°
+D♯ C♯ F𝄪 A♯     D♯7
+D♯ B  F𝄪 A♯     Baug(maj7)
+D♯ B  F𝄪 G♯     G♯m(maj7)
+D♯ B  E  G♯     EM7
+C♯ B  E  G♯     C♯m7
+C♯ A♯ E  G♯     A♯ø
+C♯ A♯ E  F𝄪     F𝄪°
+C♯ A♯ D♯ F𝄪     D♯7
+B  A♯ D♯ F𝄪     Baug(maj7)
+B  G♯ D♯ F𝄪     G♯m(maj7)
+B  G♯ D♯ E      EM7
+B  G♯ C♯ E      C♯m7
+A♯ G♯ C♯ E      A♯ø
+A♯ F𝄪 C♯ E      F𝄪°
+A♯ F𝄪 C♯ D♯     D♯7
+A♯ F𝄪 B  D♯     Baug(maj7)
 -------------------------
 Drop 2 and 3: (1 3 7 5) --> (3 5 1 7)
-G♯ B  F𝄪 D♯
-G♯ B  E  D♯
-G♯ B  E  C♯
-G♯ A♯ E  C♯
-F𝄪 A♯ E  C♯
-F𝄪 A♯ D♯ C♯
-F𝄪 A♯ D♯ B 
-F𝄪 G♯ D♯ B 
-E  G♯ D♯ B 
-E  G♯ C♯ B 
-E  G♯ C♯ A♯
-E  F𝄪 C♯ A♯
-D♯ F𝄪 C♯ A♯
-D♯ F𝄪 B  A♯
-D♯ F𝄪 B  G♯
-D♯ E  B  G♯
-C♯ E  B  G♯
-C♯ E  A♯ G♯
-C♯ E  A♯ F𝄪
-C♯ D♯ A♯ F𝄪
-B  D♯ A♯ F𝄪
-B  D♯ G♯ F𝄪
-B  D♯ G♯ E 
-B  C♯ G♯ E 
-A♯ C♯ G♯ E 
-A♯ C♯ F𝄪 E 
-A♯ C♯ F𝄪 D♯
-A♯ B  F𝄪 D♯
+G♯ B  F𝄪 D♯     G♯m(maj7)
+G♯ B  E  D♯     EM7
+G♯ B  E  C♯     C♯m7
+G♯ A♯ E  C♯     A♯ø
+F𝄪 A♯ E  C♯     F𝄪°
+F𝄪 A♯ D♯ C♯     D♯7
+F𝄪 A♯ D♯ B      Baug(maj7)
+F𝄪 G♯ D♯ B      G♯m(maj7)
+E  G♯ D♯ B      EM7
+E  G♯ C♯ B      C♯m7
+E  G♯ C♯ A♯     A♯ø
+E  F𝄪 C♯ A♯     F𝄪°
+D♯ F𝄪 C♯ A♯     D♯7
+D♯ F𝄪 B  A♯     Baug(maj7)
+D♯ F𝄪 B  G♯     G♯m(maj7)
+D♯ E  B  G♯     EM7
+C♯ E  B  G♯     C♯m7
+C♯ E  A♯ G♯     A♯ø
+C♯ E  A♯ F𝄪     F𝄪°
+C♯ D♯ A♯ F𝄪     D♯7
+B  D♯ A♯ F𝄪     Baug(maj7)
+B  D♯ G♯ F𝄪     G♯m(maj7)
+B  D♯ G♯ E      EM7
+B  C♯ G♯ E      C♯m7
+A♯ C♯ G♯ E      A♯ø
+A♯ C♯ F𝄪 E      F𝄪°
+A♯ C♯ F𝄪 D♯     D♯7
+A♯ B  F𝄪 D♯     Baug(maj7)
 -------------------------
 Drop 2 and 4: (1 5 3 7) --> (3 7 5 1)
-G♯ D♯ B  F𝄪
-G♯ D♯ B  E 
-G♯ C♯ B  E 
-G♯ C♯ A♯ E 
-F𝄪 C♯ A♯ E 
-F𝄪 C♯ A♯ D♯
-F𝄪 B  A♯ D♯
-F𝄪 B  G♯ D♯
-E  B  G♯ D♯
-E  B  G♯ C♯
-E  A♯ G♯ C♯
-E  A♯ F𝄪 C♯
-D♯ A♯ F𝄪 C♯
-D♯ A♯ F𝄪 B 
-D♯ G♯ F𝄪 B 
-D♯ G♯ E  B 
-C♯ G♯ E  B 
-C♯ G♯ E  A♯
-C♯ F𝄪 E  A♯
-C♯ F𝄪 D♯ A♯
-B  F𝄪 D♯ A♯
-B  F𝄪 D♯ G♯
-B  E  D♯ G♯
-B  E  C♯ G♯
-A♯ E  C♯ G♯
-A♯ E  C♯ F𝄪
-A♯ D♯ C♯ F𝄪
-A♯ D♯ B  F𝄪
+G♯ D♯ B  F𝄪     G♯m(maj7)
+G♯ D♯ B  E      EM7
+G♯ C♯ B  E      C♯m7
+G♯ C♯ A♯ E      A♯ø
+F𝄪 C♯ A♯ E      F𝄪°
+F𝄪 C♯ A♯ D♯     D♯7
+F𝄪 B  A♯ D♯     Baug(maj7)
+F𝄪 B  G♯ D♯     G♯m(maj7)
+E  B  G♯ D♯     EM7
+E  B  G♯ C♯     C♯m7
+E  A♯ G♯ C♯     A♯ø
+E  A♯ F𝄪 C♯     F𝄪°
+D♯ A♯ F𝄪 C♯     D♯7
+D♯ A♯ F𝄪 B      Baug(maj7)
+D♯ G♯ F𝄪 B      G♯m(maj7)
+D♯ G♯ E  B      EM7
+C♯ G♯ E  B      C♯m7
+C♯ G♯ E  A♯     A♯ø
+C♯ F𝄪 E  A♯     F𝄪°
+C♯ F𝄪 D♯ A♯     D♯7
+B  F𝄪 D♯ A♯     Baug(maj7)
+B  F𝄪 D♯ G♯     G♯m(maj7)
+B  E  D♯ G♯     EM7
+B  E  C♯ G♯     C♯m7
+A♯ E  C♯ G♯     A♯ø
+A♯ E  C♯ F𝄪     F𝄪°
+A♯ D♯ C♯ F𝄪     D♯7
+A♯ D♯ B  F𝄪     Baug(maj7)
 -------------------------
 Double drop 2 drop 3: (1 7 5 3) --> (3 1 7 5)
-G♯ F𝄪 D♯ B 
-G♯ E  D♯ B 
-G♯ E  C♯ B 
-G♯ E  C♯ A♯
-F𝄪 E  C♯ A♯
-F𝄪 D♯ C♯ A♯
-F𝄪 D♯ B  A♯
-F𝄪 D♯ B  G♯
-E  D♯ B  G♯
-E  C♯ B  G♯
-E  C♯ A♯ G♯
-E  C♯ A♯ F𝄪
-D♯ C♯ A♯ F𝄪
-D♯ B  A♯ F𝄪
-D♯ B  G♯ F𝄪
-D♯ B  G♯ E 
-C♯ B  G♯ E 
-C♯ A♯ G♯ E 
-C♯ A♯ F𝄪 E 
-C♯ A♯ F𝄪 D♯
-B  A♯ F𝄪 D♯
-B  G♯ F𝄪 D♯
-B  G♯ E  D♯
-B  G♯ E  C♯
-A♯ G♯ E  C♯
-A♯ F𝄪 E  C♯
-A♯ F𝄪 D♯ C♯
-A♯ F𝄪 D♯ B 
+G♯ F𝄪 D♯ B      G♯m(maj7)
+G♯ E  D♯ B      EM7
+G♯ E  C♯ B      C♯m7
+G♯ E  C♯ A♯     A♯ø
+F𝄪 E  C♯ A♯     F𝄪°
+F𝄪 D♯ C♯ A♯     D♯7
+F𝄪 D♯ B  A♯     Baug(maj7)
+F𝄪 D♯ B  G♯     G♯m(maj7)
+E  D♯ B  G♯     EM7
+E  C♯ B  G♯     C♯m7
+E  C♯ A♯ G♯     A♯ø
+E  C♯ A♯ F𝄪     F𝄪°
+D♯ C♯ A♯ F𝄪     D♯7
+D♯ B  A♯ F𝄪     Baug(maj7)
+D♯ B  G♯ F𝄪     G♯m(maj7)
+D♯ B  G♯ E      EM7
+C♯ B  G♯ E      C♯m7
+C♯ A♯ G♯ E      A♯ø
+C♯ A♯ F𝄪 E      F𝄪°
+C♯ A♯ F𝄪 D♯     D♯7
+B  A♯ F𝄪 D♯     Baug(maj7)
+B  G♯ F𝄪 D♯     G♯m(maj7)
+B  G♯ E  D♯     EM7
+B  G♯ E  C♯     C♯m7
+A♯ G♯ E  C♯     A♯ø
+A♯ F𝄪 E  C♯     F𝄪°
+A♯ F𝄪 D♯ C♯     D♯7
+A♯ F𝄪 D♯ B      Baug(maj7)
 -------------------------

@@ -1,48 +1,48 @@
 E Harmonic Minor, Cycle 5
 -------------------------
 Close: (2 5 1) --> (5 1 2)
-F♯ B  E 
-F♯ B  C 
-F♯ G  C 
-D♯ G  C 
-D♯ G  A 
-D♯ E  A 
-B  E  A 
-B  E  F♯
-B  C  F♯
-G  C  F♯
-G  C  D♯
-G  A  D♯
-E  A  D♯
-E  A  B 
-E  F♯ B 
-C  F♯ B 
-C  F♯ G 
-C  D♯ G 
-A  D♯ G 
-A  D♯ E 
-A  B  E 
+F♯ B  E      Esus2
+F♯ B  C      Bsus(m2)
+F♯ G  C      F♯dim(sus(m2))
+D♯ G  C      Cm
+D♯ G  A      G
+D♯ E  A      D♯dim(sus(m2))
+B  E  A      Asus2
+B  E  F♯     Esus2
+B  C  F♯     Bsus(m2)
+G  C  F♯     F♯dim(sus(m2))
+G  C  D♯     Cm
+G  A  D♯     G
+E  A  D♯     D♯dim(sus(m2))
+E  A  B      Asus2
+E  F♯ B      Esus2
+C  F♯ B      Bsus(m2)
+C  F♯ G      F♯dim(sus(m2))
+C  D♯ G      Cm
+A  D♯ G      G
+A  D♯ E      D♯dim(sus(m2))
+A  B  E      Asus2
 -------------------------
 Spread: (1 5 2) --> (2 1 5)
-E  B  F♯
-C  B  F♯
-C  G  F♯
-C  G  D♯
-A  G  D♯
-A  E  D♯
-A  E  B 
-F♯ E  B 
-F♯ C  B 
-F♯ C  G 
-D♯ C  G 
-D♯ A  G 
-D♯ A  E 
-B  A  E 
-B  F♯ E 
-B  F♯ C 
-G  F♯ C 
-G  D♯ C 
-G  D♯ A 
-E  D♯ A 
-E  B  A 
+E  B  F♯     Esus2
+C  B  F♯     Bsus(m2)
+C  G  F♯     F♯dim(sus(m2))
+C  G  D♯     Cm
+A  G  D♯     G
+A  E  D♯     D♯dim(sus(m2))
+A  E  B      Asus2
+F♯ E  B      Esus2
+F♯ C  B      Bsus(m2)
+F♯ C  G      F♯dim(sus(m2))
+D♯ C  G      Cm
+D♯ A  G      G
+D♯ A  E      D♯dim(sus(m2))
+B  A  E      Asus2
+B  F♯ E      Esus2
+B  F♯ C      Bsus(m2)
+G  F♯ C      F♯dim(sus(m2))
+G  D♯ C      Cm
+G  D♯ A      G
+E  D♯ A      D♯dim(sus(m2))
+E  B  A      Asus2
 -------------------------

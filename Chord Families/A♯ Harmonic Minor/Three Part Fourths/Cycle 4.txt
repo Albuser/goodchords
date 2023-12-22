@@ -1,48 +1,48 @@
 A♯ Harmonic Minor, Cycle 4
 -------------------------
 Close: (2 5 1) --> (1 2 5)
-B♯ E♯ A♯
-D♯ E♯ A♯
-D♯ G𝄪 A♯
-D♯ G𝄪 C♯
-F♯ G𝄪 C♯
-F♯ B♯ C♯
-F♯ B♯ E♯
-A♯ B♯ E♯
-A♯ D♯ E♯
-A♯ D♯ G𝄪
-C♯ D♯ G𝄪
-C♯ F♯ G𝄪
-C♯ F♯ B♯
-E♯ F♯ B♯
-E♯ A♯ B♯
-E♯ A♯ D♯
-G𝄪 A♯ D♯
-G𝄪 C♯ D♯
-G𝄪 C♯ F♯
-B♯ C♯ F♯
-B♯ E♯ F♯
+B♯ E♯ A♯     A♯sus2
+D♯ E♯ A♯     D♯sus2
+D♯ G𝄪 A♯     G𝄪dim(sus(m2))
+D♯ G𝄪 C♯     C♯
+F♯ G𝄪 C♯     F♯m
+F♯ B♯ C♯     B♯dim(sus(m2))
+F♯ B♯ E♯     E♯sus(m2)
+A♯ B♯ E♯     A♯sus2
+A♯ D♯ E♯     D♯sus2
+A♯ D♯ G𝄪     G𝄪dim(sus(m2))
+C♯ D♯ G𝄪     C♯
+C♯ F♯ G𝄪     F♯m
+C♯ F♯ B♯     B♯dim(sus(m2))
+E♯ F♯ B♯     E♯sus(m2)
+E♯ A♯ B♯     A♯sus2
+E♯ A♯ D♯     D♯sus2
+G𝄪 A♯ D♯     G𝄪dim(sus(m2))
+G𝄪 C♯ D♯     C♯
+G𝄪 C♯ F♯     F♯m
+B♯ C♯ F♯     B♯dim(sus(m2))
+B♯ E♯ F♯     E♯sus(m2)
 -------------------------
 Spread: (1 5 2) --> (5 2 1)
-A♯ E♯ B♯
-A♯ E♯ D♯
-A♯ G𝄪 D♯
-C♯ G𝄪 D♯
-C♯ G𝄪 F♯
-C♯ B♯ F♯
-E♯ B♯ F♯
-E♯ B♯ A♯
-E♯ D♯ A♯
-G𝄪 D♯ A♯
-G𝄪 D♯ C♯
-G𝄪 F♯ C♯
-B♯ F♯ C♯
-B♯ F♯ E♯
-B♯ A♯ E♯
-D♯ A♯ E♯
-D♯ A♯ G𝄪
-D♯ C♯ G𝄪
-F♯ C♯ G𝄪
-F♯ C♯ B♯
-F♯ E♯ B♯
+A♯ E♯ B♯     A♯sus2
+A♯ E♯ D♯     D♯sus2
+A♯ G𝄪 D♯     G𝄪dim(sus(m2))
+C♯ G𝄪 D♯     C♯
+C♯ G𝄪 F♯     F♯m
+C♯ B♯ F♯     B♯dim(sus(m2))
+E♯ B♯ F♯     E♯sus(m2)
+E♯ B♯ A♯     A♯sus2
+E♯ D♯ A♯     D♯sus2
+G𝄪 D♯ A♯     G𝄪dim(sus(m2))
+G𝄪 D♯ C♯     C♯
+G𝄪 F♯ C♯     F♯m
+B♯ F♯ C♯     B♯dim(sus(m2))
+B♯ F♯ E♯     E♯sus(m2)
+B♯ A♯ E♯     A♯sus2
+D♯ A♯ E♯     D♯sus2
+D♯ A♯ G𝄪     G𝄪dim(sus(m2))
+D♯ C♯ G𝄪     C♯
+F♯ C♯ G𝄪     F♯m
+F♯ C♯ B♯     B♯dim(sus(m2))
+F♯ E♯ B♯     E♯sus(m2)
 -------------------------

@@ -1,48 +1,48 @@
 G Harmonic Minor, Cycle 5
 -------------------------
 Close: (1 3 5) --> (3 5 1)
-G  B♭ D 
-F♯ A  D 
-E♭ A  C 
-E♭ G  B♭
-D  F♯ B♭
-C  F♯ A 
-C  E♭ G 
-B♭ D  G 
-A  D  F♯
-A  C  E♭
-G  B♭ E♭
-F♯ B♭ D 
-F♯ A  C 
-E♭ G  C 
-D  G  B♭
-D  F♯ A 
-C  E♭ A 
-B♭ E♭ G 
-B♭ D  F♯
-A  C  F♯
-G  C  E♭
+G  B♭ D      Gm
+F♯ A  D      DM
+E♭ A  C      Adim
+E♭ G  B♭     E♭M
+D  F♯ B♭     B♭+
+C  F♯ A      F♯dim
+C  E♭ G      Cm
+B♭ D  G      Gm
+A  D  F♯     DM
+A  C  E♭     Adim
+G  B♭ E♭     E♭M
+F♯ B♭ D      B♭+
+F♯ A  C      F♯dim
+E♭ G  C      Cm
+D  G  B♭     Gm
+D  F♯ A      DM
+C  E♭ A      Adim
+B♭ E♭ G      E♭M
+B♭ D  F♯     B♭+
+A  C  F♯     F♯dim
+G  C  E♭     Cm
 -------------------------
 Spread: (1 5 3) --> (3 1 5)
-G  D  B♭
-F♯ D  A 
-E♭ C  A 
-E♭ B♭ G 
-D  B♭ F♯
-C  A  F♯
-C  G  E♭
-B♭ G  D 
-A  F♯ D 
-A  E♭ C 
-G  E♭ B♭
-F♯ D  B♭
-F♯ C  A 
-E♭ C  G 
-D  B♭ G 
-D  A  F♯
-C  A  E♭
-B♭ G  E♭
-B♭ F♯ D 
-A  F♯ C 
-G  E♭ C 
+G  D  B♭     Gm
+F♯ D  A      DM
+E♭ C  A      Adim
+E♭ B♭ G      E♭M
+D  B♭ F♯     B♭+
+C  A  F♯     F♯dim
+C  G  E♭     Cm
+B♭ G  D      Gm
+A  F♯ D      DM
+A  E♭ C      Adim
+G  E♭ B♭     E♭M
+F♯ D  B♭     B♭+
+F♯ C  A      F♯dim
+E♭ C  G      Cm
+D  B♭ G      Gm
+D  A  F♯     DM
+C  A  E♭     Adim
+B♭ G  E♭     E♭M
+B♭ F♯ D      B♭+
+A  F♯ C      F♯dim
+G  E♭ C      Cm
 -------------------------

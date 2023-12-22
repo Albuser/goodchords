@@ -1,48 +1,48 @@
 G Melodic Minor, Cycle 3
 -------------------------
 Close: (1 3 5) --> (5 1 3)
-G  B♭ D 
-F♯ B♭ D 
-F♯ A  D 
-F♯ A  C 
-E  A  C 
-E  G  C 
-E  G  B♭
-D  G  B♭
-D  F♯ B♭
-D  F♯ A 
-C  F♯ A 
-C  E  A 
-C  E  G 
-B♭ E  G 
-B♭ D  G 
-B♭ D  F♯
-A  D  F♯
-A  C  F♯
-A  C  E 
-G  C  E 
-G  B♭ E 
+G  B♭ D      Gm
+F♯ B♭ D      B♭+
+F♯ A  D      DM
+F♯ A  C      F♯dim
+E  A  C      Am
+E  G  C      CM
+E  G  B♭     Edim
+D  G  B♭     Gm
+D  F♯ B♭     B♭+
+D  F♯ A      DM
+C  F♯ A      F♯dim
+C  E  A      Am
+C  E  G      CM
+B♭ E  G      Edim
+B♭ D  G      Gm
+B♭ D  F♯     B♭+
+A  D  F♯     DM
+A  C  F♯     F♯dim
+A  C  E      Am
+G  C  E      CM
+G  B♭ E      Edim
 -------------------------
 Spread: (1 5 3) --> (5 3 1)
-G  D  B♭
-F♯ D  B♭
-F♯ D  A 
-F♯ C  A 
-E  C  A 
-E  C  G 
-E  B♭ G 
-D  B♭ G 
-D  B♭ F♯
-D  A  F♯
-C  A  F♯
-C  A  E 
-C  G  E 
-B♭ G  E 
-B♭ G  D 
-B♭ F♯ D 
-A  F♯ D 
-A  F♯ C 
-A  E  C 
-G  E  C 
-G  E  B♭
+G  D  B♭     Gm
+F♯ D  B♭     B♭+
+F♯ D  A      DM
+F♯ C  A      F♯dim
+E  C  A      Am
+E  C  G      CM
+E  B♭ G      Edim
+D  B♭ G      Gm
+D  B♭ F♯     B♭+
+D  A  F♯     DM
+C  A  F♯     F♯dim
+C  A  E      Am
+C  G  E      CM
+B♭ G  E      Edim
+B♭ G  D      Gm
+B♭ F♯ D      B♭+
+A  F♯ D      DM
+A  F♯ C      F♯dim
+A  E  C      Am
+G  E  C      CM
+G  E  B♭     Edim
 -------------------------

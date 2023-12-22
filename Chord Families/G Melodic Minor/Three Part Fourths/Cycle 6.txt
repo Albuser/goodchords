@@ -1,48 +1,48 @@
 G Melodic Minor, Cycle 6
 -------------------------
 Close: (2 5 1) --> (5 1 2)
-A  D  G 
-B♭ E  F♯
-C  D  G 
-B♭ E  A 
-C  F♯ G 
-D  E  A 
-C  F♯ B♭
-D  G  A 
-E  F♯ B♭
-D  G  C 
-E  A  B♭
-F♯ G  C 
-E  A  D 
-F♯ B♭ C 
-G  A  D 
-F♯ B♭ E 
-G  C  D 
-A  B♭ E 
-G  C  F♯
-A  D  E 
-B♭ C  F♯
+A  D  G      Gsus2
+B♭ E  F♯     E
+C  D  G      Csus2
+B♭ E  A      Asus(m2)
+C  F♯ G      F♯dim(sus(m2))
+D  E  A      Dsus2
+C  F♯ B♭     B♭
+D  G  A      Gsus2
+E  F♯ B♭     E
+D  G  C      Csus2
+E  A  B♭     Asus(m2)
+F♯ G  C      F♯dim(sus(m2))
+E  A  D      Dsus2
+F♯ B♭ C      B♭
+G  A  D      Gsus2
+F♯ B♭ E      E
+G  C  D      Csus2
+A  B♭ E      Asus(m2)
+G  C  F♯     F♯dim(sus(m2))
+A  D  E      Dsus2
+B♭ C  F♯     B♭
 -------------------------
 Spread: (1 5 2) --> (2 1 5)
-G  D  A 
-F♯ E  B♭
-G  D  C 
-A  E  B♭
-G  F♯ C 
-A  E  D 
-B♭ F♯ C 
-A  G  D 
-B♭ F♯ E 
-C  G  D 
-B♭ A  E 
-C  G  F♯
-D  A  E 
-C  B♭ F♯
-D  A  G 
-E  B♭ F♯
-D  C  G 
-E  B♭ A 
-F♯ C  G 
-E  D  A 
-F♯ C  B♭
+G  D  A      Gsus2
+F♯ E  B♭     E
+G  D  C      Csus2
+A  E  B♭     Asus(m2)
+G  F♯ C      F♯dim(sus(m2))
+A  E  D      Dsus2
+B♭ F♯ C      B♭
+A  G  D      Gsus2
+B♭ F♯ E      E
+C  G  D      Csus2
+B♭ A  E      Asus(m2)
+C  G  F♯     F♯dim(sus(m2))
+D  A  E      Dsus2
+C  B♭ F♯     B♭
+D  A  G      Gsus2
+E  B♭ F♯     E
+D  C  G      Csus2
+E  B♭ A      Asus(m2)
+F♯ C  G      F♯dim(sus(m2))
+E  D  A      Dsus2
+F♯ C  B♭     B♭
 -------------------------

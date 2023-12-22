@@ -11,7 +11,7 @@ if __name__ == "__main__":
         #     ", ".join(scale.noteNames),
         # )
     for root, scale, voicing in itertools.product(
-        range(1), allScales, allChordFamilies
+        range(12), allScales, allChordFamilies
     ):
         print(root, scale["name"], voicing["name"])
         write_files(root, scale, voicing)

@@ -1,64 +1,64 @@
 D♯ Harmonic Minor, Cycle 7
 -------------------------
 Close: (2 5 1) --> (1 5 2)
-E♯ A♯ D♯
-C𝄪 G♯ D♯
-C𝄪 F♯ B 
-A♯ E♯ B 
-A♯ D♯ G♯
-F♯ C𝄪 G♯
-F♯ B  E♯
-D♯ A♯ E♯
-D♯ G♯ C𝄪
-B  F♯ C𝄪
-B  E♯ A♯
-G♯ D♯ A♯
-G♯ C𝄪 F♯
-E♯ B  F♯
+E♯ A♯ D♯     D♯sus2
+C𝄪 G♯ D♯     C𝄪dim(sus(m2))
+C𝄪 F♯ B      Bm
+A♯ E♯ B      A♯sus(m2)
+A♯ D♯ G♯     G♯sus2
+F♯ C𝄪 G♯     F♯
+F♯ B  E♯     E♯dim(sus(m2))
+D♯ A♯ E♯     D♯sus2
+D♯ G♯ C𝄪     C𝄪dim(sus(m2))
+B  F♯ C𝄪     Bm
+B  E♯ A♯     A♯sus(m2)
+G♯ D♯ A♯     G♯sus2
+G♯ C𝄪 F♯     F♯
+E♯ B  F♯     E♯dim(sus(m2))
 Alternate Voicing:
-A♯ D♯ E♯
-D♯ C𝄪 G♯
-F♯ B  C𝄪
-B  A♯ E♯
-D♯ G♯ A♯
-G♯ F♯ C𝄪
-B  E♯ F♯
-E♯ D♯ A♯
-G♯ C𝄪 D♯
-C𝄪 B  F♯
-E♯ A♯ B 
-A♯ G♯ D♯
-C𝄪 F♯ G♯
-F♯ E♯ B 
+A♯ D♯ E♯     D♯sus2
+D♯ C𝄪 G♯     C𝄪dim(sus(m2))
+F♯ B  C𝄪     Bm
+B  A♯ E♯     A♯sus(m2)
+D♯ G♯ A♯     G♯sus2
+G♯ F♯ C𝄪     F♯
+B  E♯ F♯     E♯dim(sus(m2))
+E♯ D♯ A♯     D♯sus2
+G♯ C𝄪 D♯     C𝄪dim(sus(m2))
+C𝄪 B  F♯     Bm
+E♯ A♯ B      A♯sus(m2)
+A♯ G♯ D♯     G♯sus2
+C𝄪 F♯ G♯     F♯
+F♯ E♯ B      E♯dim(sus(m2))
 -------------------------
 Spread: (1 5 2) --> (2 5 1)
-D♯ A♯ E♯
-D♯ G♯ C𝄪
-B  F♯ C𝄪
-B  E♯ A♯
-G♯ D♯ A♯
-G♯ C𝄪 F♯
-E♯ B  F♯
-E♯ A♯ D♯
-C𝄪 G♯ D♯
-C𝄪 F♯ B 
-A♯ E♯ B 
-A♯ D♯ G♯
-F♯ C𝄪 G♯
-F♯ B  E♯
+D♯ A♯ E♯     D♯sus2
+D♯ G♯ C𝄪     C𝄪dim(sus(m2))
+B  F♯ C𝄪     Bm
+B  E♯ A♯     A♯sus(m2)
+G♯ D♯ A♯     G♯sus2
+G♯ C𝄪 F♯     F♯
+E♯ B  F♯     E♯dim(sus(m2))
+E♯ A♯ D♯     D♯sus2
+C𝄪 G♯ D♯     C𝄪dim(sus(m2))
+C𝄪 F♯ B      Bm
+A♯ E♯ B      A♯sus(m2)
+A♯ D♯ G♯     G♯sus2
+F♯ C𝄪 G♯     F♯
+F♯ B  E♯     E♯dim(sus(m2))
 Alternate Voicing:
-A♯ E♯ D♯
-C𝄪 D♯ G♯
-F♯ C𝄪 B 
-A♯ B  E♯
-D♯ A♯ G♯
-F♯ G♯ C𝄪
-B  F♯ E♯
-D♯ E♯ A♯
-G♯ D♯ C𝄪
-B  C𝄪 F♯
-E♯ B  A♯
-G♯ A♯ D♯
-C𝄪 G♯ F♯
-E♯ F♯ B 
+A♯ E♯ D♯     D♯sus2
+C𝄪 D♯ G♯     C𝄪dim(sus(m2))
+F♯ C𝄪 B      Bm
+A♯ B  E♯     A♯sus(m2)
+D♯ A♯ G♯     G♯sus2
+F♯ G♯ C𝄪     F♯
+B  F♯ E♯     E♯dim(sus(m2))
+D♯ E♯ A♯     D♯sus2
+G♯ D♯ C𝄪     C𝄪dim(sus(m2))
+B  C𝄪 F♯     Bm
+E♯ B  A♯     A♯sus(m2)
+G♯ A♯ D♯     G♯sus2
+C𝄪 G♯ F♯     F♯
+E♯ F♯ B      E♯dim(sus(m2))
 -------------------------

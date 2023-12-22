@@ -1,182 +1,182 @@
 G Major, Cycle 6
 -------------------------
 4-way close: (1 3 5 7) --> (3 5 7 1)
-G  B  D  F♯
-G  B  D  E 
-G  B  C  E 
-G  A  C  E 
-F♯ A  C  E 
-F♯ A  C  D 
-F♯ A  B  D 
-F♯ G  B  D 
-E  G  B  D 
-E  G  B  C 
-E  G  A  C 
-E  F♯ A  C 
-D  F♯ A  C 
-D  F♯ A  B 
-D  F♯ G  B 
-D  E  G  B 
-C  E  G  B 
-C  E  G  A 
-C  E  F♯ A 
-C  D  F♯ A 
-B  D  F♯ A 
-B  D  F♯ G 
-B  D  E  G 
-B  C  E  G 
-A  C  E  G 
-A  C  E  F♯
-A  C  D  F♯
-A  B  D  F♯
+G  B  D  F♯     GM7
+G  B  D  E      Em7
+G  B  C  E      CM7
+G  A  C  E      Am7
+F♯ A  C  E      F♯ø
+F♯ A  C  D      D7
+F♯ A  B  D      Bm7
+F♯ G  B  D      GM7
+E  G  B  D      Em7
+E  G  B  C      CM7
+E  G  A  C      Am7
+E  F♯ A  C      F♯ø
+D  F♯ A  C      D7
+D  F♯ A  B      Bm7
+D  F♯ G  B      GM7
+D  E  G  B      Em7
+C  E  G  B      CM7
+C  E  G  A      Am7
+C  E  F♯ A      F♯ø
+C  D  F♯ A      D7
+B  D  F♯ A      Bm7
+B  D  F♯ G      GM7
+B  D  E  G      Em7
+B  C  E  G      CM7
+A  C  E  G      Am7
+A  C  E  F♯     F♯ø
+A  C  D  F♯     D7
+A  B  D  F♯     Bm7
 -------------------------
 Drop 2: (1 5 7 3) --> (3 7 1 5)
-G  D  F♯ B 
-G  D  E  B 
-G  C  E  B 
-G  C  E  A 
-F♯ C  E  A 
-F♯ C  D  A 
-F♯ B  D  A 
-F♯ B  D  G 
-E  B  D  G 
-E  B  C  G 
-E  A  C  G 
-E  A  C  F♯
-D  A  C  F♯
-D  A  B  F♯
-D  G  B  F♯
-D  G  B  E 
-C  G  B  E 
-C  G  A  E 
-C  F♯ A  E 
-C  F♯ A  D 
-B  F♯ A  D 
-B  F♯ G  D 
-B  E  G  D 
-B  E  G  C 
-A  E  G  C 
-A  E  F♯ C 
-A  D  F♯ C 
-A  D  F♯ B 
+G  D  F♯ B      GM7
+G  D  E  B      Em7
+G  C  E  B      CM7
+G  C  E  A      Am7
+F♯ C  E  A      F♯ø
+F♯ C  D  A      D7
+F♯ B  D  A      Bm7
+F♯ B  D  G      GM7
+E  B  D  G      Em7
+E  B  C  G      CM7
+E  A  C  G      Am7
+E  A  C  F♯     F♯ø
+D  A  C  F♯     D7
+D  A  B  F♯     Bm7
+D  G  B  F♯     GM7
+D  G  B  E      Em7
+C  G  B  E      CM7
+C  G  A  E      Am7
+C  F♯ A  E      F♯ø
+C  F♯ A  D      D7
+B  F♯ A  D      Bm7
+B  F♯ G  D      GM7
+B  E  G  D      Em7
+B  E  G  C      CM7
+A  E  G  C      Am7
+A  E  F♯ C      F♯ø
+A  D  F♯ C      D7
+A  D  F♯ B      Bm7
 -------------------------
 Drop 3: (1 7 3 5) --> (3 1 5 7)
-G  F♯ B  D 
-G  E  B  D 
-G  E  B  C 
-G  E  A  C 
-F♯ E  A  C 
-F♯ D  A  C 
-F♯ D  A  B 
-F♯ D  G  B 
-E  D  G  B 
-E  C  G  B 
-E  C  G  A 
-E  C  F♯ A 
-D  C  F♯ A 
-D  B  F♯ A 
-D  B  F♯ G 
-D  B  E  G 
-C  B  E  G 
-C  A  E  G 
-C  A  E  F♯
-C  A  D  F♯
-B  A  D  F♯
-B  G  D  F♯
-B  G  D  E 
-B  G  C  E 
-A  G  C  E 
-A  F♯ C  E 
-A  F♯ C  D 
-A  F♯ B  D 
+G  F♯ B  D      GM7
+G  E  B  D      Em7
+G  E  B  C      CM7
+G  E  A  C      Am7
+F♯ E  A  C      F♯ø
+F♯ D  A  C      D7
+F♯ D  A  B      Bm7
+F♯ D  G  B      GM7
+E  D  G  B      Em7
+E  C  G  B      CM7
+E  C  G  A      Am7
+E  C  F♯ A      F♯ø
+D  C  F♯ A      D7
+D  B  F♯ A      Bm7
+D  B  F♯ G      GM7
+D  B  E  G      Em7
+C  B  E  G      CM7
+C  A  E  G      Am7
+C  A  E  F♯     F♯ø
+C  A  D  F♯     D7
+B  A  D  F♯     Bm7
+B  G  D  F♯     GM7
+B  G  D  E      Em7
+B  G  C  E      CM7
+A  G  C  E      Am7
+A  F♯ C  E      F♯ø
+A  F♯ C  D      D7
+A  F♯ B  D      Bm7
 -------------------------
 Drop 2 and 3: (1 3 7 5) --> (3 5 1 7)
-G  B  F♯ D 
-G  B  E  D 
-G  B  E  C 
-G  A  E  C 
-F♯ A  E  C 
-F♯ A  D  C 
-F♯ A  D  B 
-F♯ G  D  B 
-E  G  D  B 
-E  G  C  B 
-E  G  C  A 
-E  F♯ C  A 
-D  F♯ C  A 
-D  F♯ B  A 
-D  F♯ B  G 
-D  E  B  G 
-C  E  B  G 
-C  E  A  G 
-C  E  A  F♯
-C  D  A  F♯
-B  D  A  F♯
-B  D  G  F♯
-B  D  G  E 
-B  C  G  E 
-A  C  G  E 
-A  C  F♯ E 
-A  C  F♯ D 
-A  B  F♯ D 
+G  B  F♯ D      GM7
+G  B  E  D      Em7
+G  B  E  C      CM7
+G  A  E  C      Am7
+F♯ A  E  C      F♯ø
+F♯ A  D  C      D7
+F♯ A  D  B      Bm7
+F♯ G  D  B      GM7
+E  G  D  B      Em7
+E  G  C  B      CM7
+E  G  C  A      Am7
+E  F♯ C  A      F♯ø
+D  F♯ C  A      D7
+D  F♯ B  A      Bm7
+D  F♯ B  G      GM7
+D  E  B  G      Em7
+C  E  B  G      CM7
+C  E  A  G      Am7
+C  E  A  F♯     F♯ø
+C  D  A  F♯     D7
+B  D  A  F♯     Bm7
+B  D  G  F♯     GM7
+B  D  G  E      Em7
+B  C  G  E      CM7
+A  C  G  E      Am7
+A  C  F♯ E      F♯ø
+A  C  F♯ D      D7
+A  B  F♯ D      Bm7
 -------------------------
 Drop 2 and 4: (1 5 3 7) --> (3 7 5 1)
-G  D  B  F♯
-G  D  B  E 
-G  C  B  E 
-G  C  A  E 
-F♯ C  A  E 
-F♯ C  A  D 
-F♯ B  A  D 
-F♯ B  G  D 
-E  B  G  D 
-E  B  G  C 
-E  A  G  C 
-E  A  F♯ C 
-D  A  F♯ C 
-D  A  F♯ B 
-D  G  F♯ B 
-D  G  E  B 
-C  G  E  B 
-C  G  E  A 
-C  F♯ E  A 
-C  F♯ D  A 
-B  F♯ D  A 
-B  F♯ D  G 
-B  E  D  G 
-B  E  C  G 
-A  E  C  G 
-A  E  C  F♯
-A  D  C  F♯
-A  D  B  F♯
+G  D  B  F♯     GM7
+G  D  B  E      Em7
+G  C  B  E      CM7
+G  C  A  E      Am7
+F♯ C  A  E      F♯ø
+F♯ C  A  D      D7
+F♯ B  A  D      Bm7
+F♯ B  G  D      GM7
+E  B  G  D      Em7
+E  B  G  C      CM7
+E  A  G  C      Am7
+E  A  F♯ C      F♯ø
+D  A  F♯ C      D7
+D  A  F♯ B      Bm7
+D  G  F♯ B      GM7
+D  G  E  B      Em7
+C  G  E  B      CM7
+C  G  E  A      Am7
+C  F♯ E  A      F♯ø
+C  F♯ D  A      D7
+B  F♯ D  A      Bm7
+B  F♯ D  G      GM7
+B  E  D  G      Em7
+B  E  C  G      CM7
+A  E  C  G      Am7
+A  E  C  F♯     F♯ø
+A  D  C  F♯     D7
+A  D  B  F♯     Bm7
 -------------------------
 Double drop 2 drop 3: (1 7 5 3) --> (3 1 7 5)
-G  F♯ D  B 
-G  E  D  B 
-G  E  C  B 
-G  E  C  A 
-F♯ E  C  A 
-F♯ D  C  A 
-F♯ D  B  A 
-F♯ D  B  G 
-E  D  B  G 
-E  C  B  G 
-E  C  A  G 
-E  C  A  F♯
-D  C  A  F♯
-D  B  A  F♯
-D  B  G  F♯
-D  B  G  E 
-C  B  G  E 
-C  A  G  E 
-C  A  F♯ E 
-C  A  F♯ D 
-B  A  F♯ D 
-B  G  F♯ D 
-B  G  E  D 
-B  G  E  C 
-A  G  E  C 
-A  F♯ E  C 
-A  F♯ D  C 
-A  F♯ D  B 
+G  F♯ D  B      GM7
+G  E  D  B      Em7
+G  E  C  B      CM7
+G  E  C  A      Am7
+F♯ E  C  A      F♯ø
+F♯ D  C  A      D7
+F♯ D  B  A      Bm7
+F♯ D  B  G      GM7
+E  D  B  G      Em7
+E  C  B  G      CM7
+E  C  A  G      Am7
+E  C  A  F♯     F♯ø
+D  C  A  F♯     D7
+D  B  A  F♯     Bm7
+D  B  G  F♯     GM7
+D  B  G  E      Em7
+C  B  G  E      CM7
+C  A  G  E      Am7
+C  A  F♯ E      F♯ø
+C  A  F♯ D      D7
+B  A  F♯ D      Bm7
+B  G  F♯ D      GM7
+B  G  E  D      Em7
+B  G  E  C      CM7
+A  G  E  C      Am7
+A  F♯ E  C      F♯ø
+A  F♯ D  C      D7
+A  F♯ D  B      Bm7
 -------------------------

@@ -1,64 +1,64 @@
 B Major, Cycle 2
 -------------------------
 Close: (2 5 1) --> (1 5 2)
-C♯ F♯ B 
-C♯ G♯ D♯
-E  A♯ D♯
-E  B  F♯
-G♯ C♯ F♯
-G♯ D♯ A♯
-B  E  A♯
-B  F♯ C♯
-D♯ G♯ C♯
-D♯ A♯ E 
-F♯ B  E 
-F♯ C♯ G♯
-A♯ D♯ G♯
-A♯ E  B 
+C♯ F♯ B      Bsus2
+C♯ G♯ D♯     C♯sus2
+E  A♯ D♯     D♯sus(m2)
+E  B  F♯     Esus2
+G♯ C♯ F♯     F♯sus2
+G♯ D♯ A♯     G♯sus2
+B  E  A♯     A♯dim(sus(m2))
+B  F♯ C♯     Bsus2
+D♯ G♯ C♯     C♯sus2
+D♯ A♯ E      D♯sus(m2)
+F♯ B  E      Esus2
+F♯ C♯ G♯     F♯sus2
+A♯ D♯ G♯     G♯sus2
+A♯ E  B      A♯dim(sus(m2))
 Alternate Voicing:
-F♯ B  C♯
-D♯ C♯ G♯
-A♯ D♯ E 
-F♯ E  B 
-C♯ F♯ G♯
-A♯ G♯ D♯
-E  A♯ B 
-C♯ B  F♯
-G♯ C♯ D♯
-E  D♯ A♯
-B  E  F♯
-G♯ F♯ C♯
-D♯ G♯ A♯
-B  A♯ E 
+F♯ B  C♯     Bsus2
+D♯ C♯ G♯     C♯sus2
+A♯ D♯ E      D♯sus(m2)
+F♯ E  B      Esus2
+C♯ F♯ G♯     F♯sus2
+A♯ G♯ D♯     G♯sus2
+E  A♯ B      A♯dim(sus(m2))
+C♯ B  F♯     Bsus2
+G♯ C♯ D♯     C♯sus2
+E  D♯ A♯     D♯sus(m2)
+B  E  F♯     Esus2
+G♯ F♯ C♯     F♯sus2
+D♯ G♯ A♯     G♯sus2
+B  A♯ E      A♯dim(sus(m2))
 -------------------------
 Spread: (1 5 2) --> (2 5 1)
-B  F♯ C♯
-D♯ G♯ C♯
-D♯ A♯ E 
-F♯ B  E 
-F♯ C♯ G♯
-A♯ D♯ G♯
-A♯ E  B 
-C♯ F♯ B 
-C♯ G♯ D♯
-E  A♯ D♯
-E  B  F♯
-G♯ C♯ F♯
-G♯ D♯ A♯
-B  E  A♯
+B  F♯ C♯     Bsus2
+D♯ G♯ C♯     C♯sus2
+D♯ A♯ E      D♯sus(m2)
+F♯ B  E      Esus2
+F♯ C♯ G♯     F♯sus2
+A♯ D♯ G♯     G♯sus2
+A♯ E  B      A♯dim(sus(m2))
+C♯ F♯ B      Bsus2
+C♯ G♯ D♯     C♯sus2
+E  A♯ D♯     D♯sus(m2)
+E  B  F♯     Esus2
+G♯ C♯ F♯     F♯sus2
+G♯ D♯ A♯     G♯sus2
+B  E  A♯     A♯dim(sus(m2))
 Alternate Voicing:
-F♯ C♯ B 
-C♯ D♯ G♯
-A♯ E  D♯
-E  F♯ B 
-C♯ G♯ F♯
-G♯ A♯ D♯
-E  B  A♯
-B  C♯ F♯
-G♯ D♯ C♯
-D♯ E  A♯
-B  F♯ E 
-F♯ G♯ C♯
-D♯ A♯ G♯
-A♯ B  E 
+F♯ C♯ B      Bsus2
+C♯ D♯ G♯     C♯sus2
+A♯ E  D♯     D♯sus(m2)
+E  F♯ B      Esus2
+C♯ G♯ F♯     F♯sus2
+G♯ A♯ D♯     G♯sus2
+E  B  A♯     A♯dim(sus(m2))
+B  C♯ F♯     Bsus2
+G♯ D♯ C♯     C♯sus2
+D♯ E  A♯     D♯sus(m2)
+B  F♯ E      Esus2
+F♯ G♯ C♯     F♯sus2
+D♯ A♯ G♯     G♯sus2
+A♯ B  E      A♯dim(sus(m2))
 -------------------------

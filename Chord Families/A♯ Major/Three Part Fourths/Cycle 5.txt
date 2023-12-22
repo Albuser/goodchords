@@ -1,48 +1,48 @@
 A♯ Major, Cycle 5
 -------------------------
 Close: (2 5 1) --> (5 1 2)
-B♯ E♯ A♯
-B♯ E♯ F𝄪
-B♯ C𝄪 F𝄪
-G𝄪 C𝄪 F𝄪
-G𝄪 C𝄪 D♯
-G𝄪 A♯ D♯
-E♯ A♯ D♯
-E♯ A♯ B♯
-E♯ F𝄪 B♯
-C𝄪 F𝄪 B♯
-C𝄪 F𝄪 G𝄪
-C𝄪 D♯ G𝄪
-A♯ D♯ G𝄪
-A♯ D♯ E♯
-A♯ B♯ E♯
-F𝄪 B♯ E♯
-F𝄪 B♯ C𝄪
-F𝄪 G𝄪 C𝄪
-D♯ G𝄪 C𝄪
-D♯ G𝄪 A♯
-D♯ E♯ A♯
+B♯ E♯ A♯     A♯sus2
+B♯ E♯ F𝄪     E♯sus2
+B♯ C𝄪 F𝄪     B♯sus2
+G𝄪 C𝄪 F𝄪     F𝄪sus2
+G𝄪 C𝄪 D♯     C𝄪sus(m2)
+G𝄪 A♯ D♯     G𝄪dim(sus(m2))
+E♯ A♯ D♯     D♯sus2
+E♯ A♯ B♯     A♯sus2
+E♯ F𝄪 B♯     E♯sus2
+C𝄪 F𝄪 B♯     B♯sus2
+C𝄪 F𝄪 G𝄪     F𝄪sus2
+C𝄪 D♯ G𝄪     C𝄪sus(m2)
+A♯ D♯ G𝄪     G𝄪dim(sus(m2))
+A♯ D♯ E♯     D♯sus2
+A♯ B♯ E♯     A♯sus2
+F𝄪 B♯ E♯     E♯sus2
+F𝄪 B♯ C𝄪     B♯sus2
+F𝄪 G𝄪 C𝄪     F𝄪sus2
+D♯ G𝄪 C𝄪     C𝄪sus(m2)
+D♯ G𝄪 A♯     G𝄪dim(sus(m2))
+D♯ E♯ A♯     D♯sus2
 -------------------------
 Spread: (1 5 2) --> (2 1 5)
-A♯ E♯ B♯
-F𝄪 E♯ B♯
-F𝄪 C𝄪 B♯
-F𝄪 C𝄪 G𝄪
-D♯ C𝄪 G𝄪
-D♯ A♯ G𝄪
-D♯ A♯ E♯
-B♯ A♯ E♯
-B♯ F𝄪 E♯
-B♯ F𝄪 C𝄪
-G𝄪 F𝄪 C𝄪
-G𝄪 D♯ C𝄪
-G𝄪 D♯ A♯
-E♯ D♯ A♯
-E♯ B♯ A♯
-E♯ B♯ F𝄪
-C𝄪 B♯ F𝄪
-C𝄪 G𝄪 F𝄪
-C𝄪 G𝄪 D♯
-A♯ G𝄪 D♯
-A♯ E♯ D♯
+A♯ E♯ B♯     A♯sus2
+F𝄪 E♯ B♯     E♯sus2
+F𝄪 C𝄪 B♯     B♯sus2
+F𝄪 C𝄪 G𝄪     F𝄪sus2
+D♯ C𝄪 G𝄪     C𝄪sus(m2)
+D♯ A♯ G𝄪     G𝄪dim(sus(m2))
+D♯ A♯ E♯     D♯sus2
+B♯ A♯ E♯     A♯sus2
+B♯ F𝄪 E♯     E♯sus2
+B♯ F𝄪 C𝄪     B♯sus2
+G𝄪 F𝄪 C𝄪     F𝄪sus2
+G𝄪 D♯ C𝄪     C𝄪sus(m2)
+G𝄪 D♯ A♯     G𝄪dim(sus(m2))
+E♯ D♯ A♯     D♯sus2
+E♯ B♯ A♯     A♯sus2
+E♯ B♯ F𝄪     E♯sus2
+C𝄪 B♯ F𝄪     B♯sus2
+C𝄪 G𝄪 F𝄪     F𝄪sus2
+C𝄪 G𝄪 D♯     C𝄪sus(m2)
+A♯ G𝄪 D♯     G𝄪dim(sus(m2))
+A♯ E♯ D♯     D♯sus2
 -------------------------

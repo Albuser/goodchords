@@ -1,182 +1,182 @@
 D Harmonic Minor, Cycle 4
 -------------------------
 4-way close: (1 3 4 7) --> (3 7 1 4)
-D  F  G  C♯
-B♭ F  G  C♯
-B♭ F  E  C♯
-B♭ F  E  A 
-B♭ D  E  A 
-G  D  E  A 
-G  D  C♯ A 
-G  D  C♯ F 
-G  B♭ C♯ F 
-E  B♭ C♯ F 
-E  B♭ A  F 
-E  B♭ A  D 
-E  G  A  D 
-C♯ G  A  D 
-C♯ G  F  D 
-C♯ G  F  B♭
-C♯ E  F  B♭
-A  E  F  B♭
-A  E  D  B♭
-A  E  D  G 
-A  C♯ D  G 
-F  C♯ D  G 
-F  C♯ B♭ G 
-F  C♯ B♭ E 
-F  A  B♭ E 
-D  A  B♭ E 
-D  A  G  E 
-D  A  G  C♯
+D  F  G  C♯     D
+B♭ F  G  C♯     Gø
+B♭ F  E  C♯     C♯
+B♭ F  E  A      F
+B♭ D  E  A      B♭
+G  D  E  A      E
+G  D  C♯ A      A
+G  D  C♯ F      D
+G  B♭ C♯ F      Gø
+E  B♭ C♯ F      C♯
+E  B♭ A  F      F
+E  B♭ A  D      B♭
+E  G  A  D      E
+C♯ G  A  D      A
+C♯ G  F  D      D
+C♯ G  F  B♭     Gø
+C♯ E  F  B♭     C♯
+A  E  F  B♭     F
+A  E  D  B♭     B♭
+A  E  D  G      E
+A  C♯ D  G      A
+F  C♯ D  G      D
+F  C♯ B♭ G      Gø
+F  C♯ B♭ E      C♯
+F  A  B♭ E      F
+D  A  B♭ E      B♭
+D  A  G  E      E
+D  A  G  C♯     A
 -------------------------
 Drop 2: (1 4 7 3) --> (3 1 4 7)
-D  G  C♯ F 
-B♭ G  C♯ F 
-B♭ E  C♯ F 
-B♭ E  A  F 
-B♭ E  A  D 
-G  E  A  D 
-G  C♯ A  D 
-G  C♯ F  D 
-G  C♯ F  B♭
-E  C♯ F  B♭
-E  A  F  B♭
-E  A  D  B♭
-E  A  D  G 
-C♯ A  D  G 
-C♯ F  D  G 
-C♯ F  B♭ G 
-C♯ F  B♭ E 
-A  F  B♭ E 
-A  D  B♭ E 
-A  D  G  E 
-A  D  G  C♯
-F  D  G  C♯
-F  B♭ G  C♯
-F  B♭ E  C♯
-F  B♭ E  A 
-D  B♭ E  A 
-D  G  E  A 
-D  G  C♯ A 
+D  G  C♯ F      D
+B♭ G  C♯ F      Gø
+B♭ E  C♯ F      C♯
+B♭ E  A  F      F
+B♭ E  A  D      B♭
+G  E  A  D      E
+G  C♯ A  D      A
+G  C♯ F  D      D
+G  C♯ F  B♭     Gø
+E  C♯ F  B♭     C♯
+E  A  F  B♭     F
+E  A  D  B♭     B♭
+E  A  D  G      E
+C♯ A  D  G      A
+C♯ F  D  G      D
+C♯ F  B♭ G      Gø
+C♯ F  B♭ E      C♯
+A  F  B♭ E      F
+A  D  B♭ E      B♭
+A  D  G  E      E
+A  D  G  C♯     A
+F  D  G  C♯     D
+F  B♭ G  C♯     Gø
+F  B♭ E  C♯     C♯
+F  B♭ E  A      F
+D  B♭ E  A      B♭
+D  G  E  A      E
+D  G  C♯ A      A
 -------------------------
 Drop 3: (1 7 3 4) --> (3 4 7 1)
-D  C♯ F  G 
-B♭ C♯ F  G 
-B♭ C♯ F  E 
-B♭ A  F  E 
-B♭ A  D  E 
-G  A  D  E 
-G  A  D  C♯
-G  F  D  C♯
-G  F  B♭ C♯
-E  F  B♭ C♯
-E  F  B♭ A 
-E  D  B♭ A 
-E  D  G  A 
-C♯ D  G  A 
-C♯ D  G  F 
-C♯ B♭ G  F 
-C♯ B♭ E  F 
-A  B♭ E  F 
-A  B♭ E  D 
-A  G  E  D 
-A  G  C♯ D 
-F  G  C♯ D 
-F  G  C♯ B♭
-F  E  C♯ B♭
-F  E  A  B♭
-D  E  A  B♭
-D  E  A  G 
-D  C♯ A  G 
+D  C♯ F  G      D
+B♭ C♯ F  G      Gø
+B♭ C♯ F  E      C♯
+B♭ A  F  E      F
+B♭ A  D  E      B♭
+G  A  D  E      E
+G  A  D  C♯     A
+G  F  D  C♯     D
+G  F  B♭ C♯     Gø
+E  F  B♭ C♯     C♯
+E  F  B♭ A      F
+E  D  B♭ A      B♭
+E  D  G  A      E
+C♯ D  G  A      A
+C♯ D  G  F      D
+C♯ B♭ G  F      Gø
+C♯ B♭ E  F      C♯
+A  B♭ E  F      F
+A  B♭ E  D      B♭
+A  G  E  D      E
+A  G  C♯ D      A
+F  G  C♯ D      D
+F  G  C♯ B♭     Gø
+F  E  C♯ B♭     C♯
+F  E  A  B♭     F
+D  E  A  B♭     B♭
+D  E  A  G      E
+D  C♯ A  G      A
 -------------------------
 Drop 2 and 3: (1 3 7 4) --> (3 7 4 1)
-D  F  C♯ G 
-B♭ F  C♯ G 
-B♭ F  C♯ E 
-B♭ F  A  E 
-B♭ D  A  E 
-G  D  A  E 
-G  D  A  C♯
-G  D  F  C♯
-G  B♭ F  C♯
-E  B♭ F  C♯
-E  B♭ F  A 
-E  B♭ D  A 
-E  G  D  A 
-C♯ G  D  A 
-C♯ G  D  F 
-C♯ G  B♭ F 
-C♯ E  B♭ F 
-A  E  B♭ F 
-A  E  B♭ D 
-A  E  G  D 
-A  C♯ G  D 
-F  C♯ G  D 
-F  C♯ G  B♭
-F  C♯ E  B♭
-F  A  E  B♭
-D  A  E  B♭
-D  A  E  G 
-D  A  C♯ G 
+D  F  C♯ G      D
+B♭ F  C♯ G      Gø
+B♭ F  C♯ E      C♯
+B♭ F  A  E      F
+B♭ D  A  E      B♭
+G  D  A  E      E
+G  D  A  C♯     A
+G  D  F  C♯     D
+G  B♭ F  C♯     Gø
+E  B♭ F  C♯     C♯
+E  B♭ F  A      F
+E  B♭ D  A      B♭
+E  G  D  A      E
+C♯ G  D  A      A
+C♯ G  D  F      D
+C♯ G  B♭ F      Gø
+C♯ E  B♭ F      C♯
+A  E  B♭ F      F
+A  E  B♭ D      B♭
+A  E  G  D      E
+A  C♯ G  D      A
+F  C♯ G  D      D
+F  C♯ G  B♭     Gø
+F  C♯ E  B♭     C♯
+F  A  E  B♭     F
+D  A  E  B♭     B♭
+D  A  E  G      E
+D  A  C♯ G      A
 -------------------------
 Drop 2 and 4: (1 4 3 7) --> (3 1 7 4)
-D  G  F  C♯
-B♭ G  F  C♯
-B♭ E  F  C♯
-B♭ E  F  A 
-B♭ E  D  A 
-G  E  D  A 
-G  C♯ D  A 
-G  C♯ D  F 
-G  C♯ B♭ F 
-E  C♯ B♭ F 
-E  A  B♭ F 
-E  A  B♭ D 
-E  A  G  D 
-C♯ A  G  D 
-C♯ F  G  D 
-C♯ F  G  B♭
-C♯ F  E  B♭
-A  F  E  B♭
-A  D  E  B♭
-A  D  E  G 
-A  D  C♯ G 
-F  D  C♯ G 
-F  B♭ C♯ G 
-F  B♭ C♯ E 
-F  B♭ A  E 
-D  B♭ A  E 
-D  G  A  E 
-D  G  A  C♯
+D  G  F  C♯     D
+B♭ G  F  C♯     Gø
+B♭ E  F  C♯     C♯
+B♭ E  F  A      F
+B♭ E  D  A      B♭
+G  E  D  A      E
+G  C♯ D  A      A
+G  C♯ D  F      D
+G  C♯ B♭ F      Gø
+E  C♯ B♭ F      C♯
+E  A  B♭ F      F
+E  A  B♭ D      B♭
+E  A  G  D      E
+C♯ A  G  D      A
+C♯ F  G  D      D
+C♯ F  G  B♭     Gø
+C♯ F  E  B♭     C♯
+A  F  E  B♭     F
+A  D  E  B♭     B♭
+A  D  E  G      E
+A  D  C♯ G      A
+F  D  C♯ G      D
+F  B♭ C♯ G      Gø
+F  B♭ C♯ E      C♯
+F  B♭ A  E      F
+D  B♭ A  E      B♭
+D  G  A  E      E
+D  G  A  C♯     A
 -------------------------
 Double drop 2 drop 3: (1 7 4 3) --> (3 4 1 7)
-D  C♯ G  F 
-B♭ C♯ G  F 
-B♭ C♯ E  F 
-B♭ A  E  F 
-B♭ A  E  D 
-G  A  E  D 
-G  A  C♯ D 
-G  F  C♯ D 
-G  F  C♯ B♭
-E  F  C♯ B♭
-E  F  A  B♭
-E  D  A  B♭
-E  D  A  G 
-C♯ D  A  G 
-C♯ D  F  G 
-C♯ B♭ F  G 
-C♯ B♭ F  E 
-A  B♭ F  E 
-A  B♭ D  E 
-A  G  D  E 
-A  G  D  C♯
-F  G  D  C♯
-F  G  B♭ C♯
-F  E  B♭ C♯
-F  E  B♭ A 
-D  E  B♭ A 
-D  E  G  A 
-D  C♯ G  A 
+D  C♯ G  F      D
+B♭ C♯ G  F      Gø
+B♭ C♯ E  F      C♯
+B♭ A  E  F      F
+B♭ A  E  D      B♭
+G  A  E  D      E
+G  A  C♯ D      A
+G  F  C♯ D      D
+G  F  C♯ B♭     Gø
+E  F  C♯ B♭     C♯
+E  F  A  B♭     F
+E  D  A  B♭     B♭
+E  D  A  G      E
+C♯ D  A  G      A
+C♯ D  F  G      D
+C♯ B♭ F  G      Gø
+C♯ B♭ F  E      C♯
+A  B♭ F  E      F
+A  B♭ D  E      B♭
+A  G  D  E      E
+A  G  D  C♯     A
+F  G  D  C♯     D
+F  G  B♭ C♯     Gø
+F  E  B♭ C♯     C♯
+F  E  B♭ A      F
+D  E  B♭ A      B♭
+D  E  G  A      E
+D  C♯ G  A      A
 -------------------------

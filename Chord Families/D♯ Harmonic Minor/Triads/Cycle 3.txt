@@ -1,48 +1,48 @@
 D♯ Harmonic Minor, Cycle 3
 -------------------------
 Close: (1 3 5) --> (5 1 3)
-D♯ F♯ A♯
-C𝄪 F♯ A♯
-C𝄪 E♯ A♯
-C𝄪 E♯ G♯
-B  E♯ G♯
-B  D♯ G♯
-B  D♯ F♯
-A♯ D♯ F♯
-A♯ C𝄪 F♯
-A♯ C𝄪 E♯
-G♯ C𝄪 E♯
-G♯ B  E♯
-G♯ B  D♯
-F♯ B  D♯
-F♯ A♯ D♯
-F♯ A♯ C𝄪
-E♯ A♯ C𝄪
-E♯ G♯ C𝄪
-E♯ G♯ B 
-D♯ G♯ B 
-D♯ F♯ B 
+D♯ F♯ A♯     D♯m
+C𝄪 F♯ A♯     F♯+
+C𝄪 E♯ A♯     A♯M
+C𝄪 E♯ G♯     C𝄪dim
+B  E♯ G♯     E♯dim
+B  D♯ G♯     G♯m
+B  D♯ F♯     BM
+A♯ D♯ F♯     D♯m
+A♯ C𝄪 F♯     F♯+
+A♯ C𝄪 E♯     A♯M
+G♯ C𝄪 E♯     C𝄪dim
+G♯ B  E♯     E♯dim
+G♯ B  D♯     G♯m
+F♯ B  D♯     BM
+F♯ A♯ D♯     D♯m
+F♯ A♯ C𝄪     F♯+
+E♯ A♯ C𝄪     A♯M
+E♯ G♯ C𝄪     C𝄪dim
+E♯ G♯ B      E♯dim
+D♯ G♯ B      G♯m
+D♯ F♯ B      BM
 -------------------------
 Spread: (1 5 3) --> (5 3 1)
-D♯ A♯ F♯
-C𝄪 A♯ F♯
-C𝄪 A♯ E♯
-C𝄪 G♯ E♯
-B  G♯ E♯
-B  G♯ D♯
-B  F♯ D♯
-A♯ F♯ D♯
-A♯ F♯ C𝄪
-A♯ E♯ C𝄪
-G♯ E♯ C𝄪
-G♯ E♯ B 
-G♯ D♯ B 
-F♯ D♯ B 
-F♯ D♯ A♯
-F♯ C𝄪 A♯
-E♯ C𝄪 A♯
-E♯ C𝄪 G♯
-E♯ B  G♯
-D♯ B  G♯
-D♯ B  F♯
+D♯ A♯ F♯     D♯m
+C𝄪 A♯ F♯     F♯+
+C𝄪 A♯ E♯     A♯M
+C𝄪 G♯ E♯     C𝄪dim
+B  G♯ E♯     E♯dim
+B  G♯ D♯     G♯m
+B  F♯ D♯     BM
+A♯ F♯ D♯     D♯m
+A♯ F♯ C𝄪     F♯+
+A♯ E♯ C𝄪     A♯M
+G♯ E♯ C𝄪     C𝄪dim
+G♯ E♯ B      E♯dim
+G♯ D♯ B      G♯m
+F♯ D♯ B      BM
+F♯ D♯ A♯     D♯m
+F♯ C𝄪 A♯     F♯+
+E♯ C𝄪 A♯     A♯M
+E♯ C𝄪 G♯     C𝄪dim
+E♯ B  G♯     E♯dim
+D♯ B  G♯     G♯m
+D♯ B  F♯     BM
 -------------------------

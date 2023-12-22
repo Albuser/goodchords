@@ -1,48 +1,48 @@
 C♯ Melodic Minor, Cycle 6
 -------------------------
 Close: (1 3 5) --> (3 5 1)
-C♯ E  G♯
-C♯ E  A♯
-C♯ F♯ A♯
-D♯ F♯ A♯
-D♯ F♯ B♯
-D♯ G♯ B♯
-E  G♯ B♯
-E  G♯ C♯
-E  A♯ C♯
-F♯ A♯ C♯
-F♯ A♯ D♯
-F♯ B♯ D♯
-G♯ B♯ D♯
-G♯ B♯ E 
-G♯ C♯ E 
-A♯ C♯ E 
-A♯ C♯ F♯
-A♯ D♯ F♯
-B♯ D♯ F♯
-B♯ D♯ G♯
-B♯ E  G♯
+C♯ E  G♯     C♯m
+C♯ E  A♯     A♯dim
+C♯ F♯ A♯     F♯M
+D♯ F♯ A♯     D♯m
+D♯ F♯ B♯     B♯dim
+D♯ G♯ B♯     G♯M
+E  G♯ B♯     E+
+E  G♯ C♯     C♯m
+E  A♯ C♯     A♯dim
+F♯ A♯ C♯     F♯M
+F♯ A♯ D♯     D♯m
+F♯ B♯ D♯     B♯dim
+G♯ B♯ D♯     G♯M
+G♯ B♯ E      E+
+G♯ C♯ E      C♯m
+A♯ C♯ E      A♯dim
+A♯ C♯ F♯     F♯M
+A♯ D♯ F♯     D♯m
+B♯ D♯ F♯     B♯dim
+B♯ D♯ G♯     G♯M
+B♯ E  G♯     E+
 -------------------------
 Spread: (1 5 3) --> (3 1 5)
-C♯ G♯ E 
-C♯ A♯ E 
-C♯ A♯ F♯
-D♯ A♯ F♯
-D♯ B♯ F♯
-D♯ B♯ G♯
-E  B♯ G♯
-E  C♯ G♯
-E  C♯ A♯
-F♯ C♯ A♯
-F♯ D♯ A♯
-F♯ D♯ B♯
-G♯ D♯ B♯
-G♯ E  B♯
-G♯ E  C♯
-A♯ E  C♯
-A♯ F♯ C♯
-A♯ F♯ D♯
-B♯ F♯ D♯
-B♯ G♯ D♯
-B♯ G♯ E 
+C♯ G♯ E      C♯m
+C♯ A♯ E      A♯dim
+C♯ A♯ F♯     F♯M
+D♯ A♯ F♯     D♯m
+D♯ B♯ F♯     B♯dim
+D♯ B♯ G♯     G♯M
+E  B♯ G♯     E+
+E  C♯ G♯     C♯m
+E  C♯ A♯     A♯dim
+F♯ C♯ A♯     F♯M
+F♯ D♯ A♯     D♯m
+F♯ D♯ B♯     B♯dim
+G♯ D♯ B♯     G♯M
+G♯ E  B♯     E+
+G♯ E  C♯     C♯m
+A♯ E  C♯     A♯dim
+A♯ F♯ C♯     F♯M
+A♯ F♯ D♯     D♯m
+B♯ F♯ D♯     B♯dim
+B♯ G♯ D♯     G♯M
+B♯ G♯ E      E+
 -------------------------

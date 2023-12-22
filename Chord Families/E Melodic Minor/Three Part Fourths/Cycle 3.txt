@@ -1,48 +1,48 @@
 E Melodic Minor, Cycle 3
 -------------------------
 Close: (2 5 1) --> (1 2 5)
-F♯ B  E 
-G  A  D♯
-F♯ B  C♯
-E  A  D♯
-F♯ G  C♯
-E  A  B 
-D♯ G  C♯
-E  F♯ B 
-D♯ G  A 
-C♯ F♯ B 
-D♯ E  A 
-C♯ F♯ G 
-B  E  A 
-C♯ D♯ G 
-B  E  F♯
-A  D♯ G 
-B  C♯ F♯
-A  D♯ E 
-G  C♯ F♯
-A  B  E 
-G  C♯ D♯
+F♯ B  E      Esus2
+G  A  D♯     G
+F♯ B  C♯     Bsus2
+E  A  D♯     D♯dim(sus(m2))
+F♯ G  C♯     F♯sus(m2)
+E  A  B      Asus2
+D♯ G  C♯     C♯
+E  F♯ B      Esus2
+D♯ G  A      G
+C♯ F♯ B      Bsus2
+D♯ E  A      D♯dim(sus(m2))
+C♯ F♯ G      F♯sus(m2)
+B  E  A      Asus2
+C♯ D♯ G      C♯
+B  E  F♯     Esus2
+A  D♯ G      G
+B  C♯ F♯     Bsus2
+A  D♯ E      D♯dim(sus(m2))
+G  C♯ F♯     F♯sus(m2)
+A  B  E      Asus2
+G  C♯ D♯     C♯
 -------------------------
 Spread: (1 5 2) --> (5 2 1)
-E  B  F♯
-D♯ A  G 
-C♯ B  F♯
-D♯ A  E 
-C♯ G  F♯
-B  A  E 
-C♯ G  D♯
-B  F♯ E 
-A  G  D♯
-B  F♯ C♯
-A  E  D♯
-G  F♯ C♯
-A  E  B 
-G  D♯ C♯
-F♯ E  B 
-G  D♯ A 
-F♯ C♯ B 
-E  D♯ A 
-F♯ C♯ G 
-E  B  A 
-D♯ C♯ G 
+E  B  F♯     Esus2
+D♯ A  G      G
+C♯ B  F♯     Bsus2
+D♯ A  E      D♯dim(sus(m2))
+C♯ G  F♯     F♯sus(m2)
+B  A  E      Asus2
+C♯ G  D♯     C♯
+B  F♯ E      Esus2
+A  G  D♯     G
+B  F♯ C♯     Bsus2
+A  E  D♯     D♯dim(sus(m2))
+G  F♯ C♯     F♯sus(m2)
+A  E  B      Asus2
+G  D♯ C♯     C♯
+F♯ E  B      Esus2
+G  D♯ A      G
+F♯ C♯ B      Bsus2
+E  D♯ A      D♯dim(sus(m2))
+F♯ C♯ G      F♯sus(m2)
+E  B  A      Asus2
+D♯ C♯ G      C♯
 -------------------------

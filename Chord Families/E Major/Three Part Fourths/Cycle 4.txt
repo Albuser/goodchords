@@ -1,48 +1,48 @@
 E Major, Cycle 4
 -------------------------
 Close: (2 5 1) --> (1 2 5)
-F♯ B  E 
-A  B  E 
-A  D♯ E 
-A  D♯ G♯
-C♯ D♯ G♯
-C♯ F♯ G♯
-C♯ F♯ B 
-E  F♯ B 
-E  A  B 
-E  A  D♯
-G♯ A  D♯
-G♯ C♯ D♯
-G♯ C♯ F♯
-B  C♯ F♯
-B  E  F♯
-B  E  A 
-D♯ E  A 
-D♯ G♯ A 
-D♯ G♯ C♯
-F♯ G♯ C♯
-F♯ B  C♯
+F♯ B  E      Esus2
+A  B  E      Asus2
+A  D♯ E      D♯dim(sus(m2))
+A  D♯ G♯     G♯sus(m2)
+C♯ D♯ G♯     C♯sus2
+C♯ F♯ G♯     F♯sus2
+C♯ F♯ B      Bsus2
+E  F♯ B      Esus2
+E  A  B      Asus2
+E  A  D♯     D♯dim(sus(m2))
+G♯ A  D♯     G♯sus(m2)
+G♯ C♯ D♯     C♯sus2
+G♯ C♯ F♯     F♯sus2
+B  C♯ F♯     Bsus2
+B  E  F♯     Esus2
+B  E  A      Asus2
+D♯ E  A      D♯dim(sus(m2))
+D♯ G♯ A      G♯sus(m2)
+D♯ G♯ C♯     C♯sus2
+F♯ G♯ C♯     F♯sus2
+F♯ B  C♯     Bsus2
 -------------------------
 Spread: (1 5 2) --> (5 2 1)
-E  B  F♯
-E  B  A 
-E  D♯ A 
-G♯ D♯ A 
-G♯ D♯ C♯
-G♯ F♯ C♯
-B  F♯ C♯
-B  F♯ E 
-B  A  E 
-D♯ A  E 
-D♯ A  G♯
-D♯ C♯ G♯
-F♯ C♯ G♯
-F♯ C♯ B 
-F♯ E  B 
-A  E  B 
-A  E  D♯
-A  G♯ D♯
-C♯ G♯ D♯
-C♯ G♯ F♯
-C♯ B  F♯
+E  B  F♯     Esus2
+E  B  A      Asus2
+E  D♯ A      D♯dim(sus(m2))
+G♯ D♯ A      G♯sus(m2)
+G♯ D♯ C♯     C♯sus2
+G♯ F♯ C♯     F♯sus2
+B  F♯ C♯     Bsus2
+B  F♯ E      Esus2
+B  A  E      Asus2
+D♯ A  E      D♯dim(sus(m2))
+D♯ A  G♯     G♯sus(m2)
+D♯ C♯ G♯     C♯sus2
+F♯ C♯ G♯     F♯sus2
+F♯ C♯ B      Bsus2
+F♯ E  B      Esus2
+A  E  B      Asus2
+A  E  D♯     D♯dim(sus(m2))
+A  G♯ D♯     G♯sus(m2)
+C♯ G♯ D♯     C♯sus2
+C♯ G♯ F♯     F♯sus2
+C♯ B  F♯     Bsus2
 -------------------------

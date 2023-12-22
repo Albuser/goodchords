@@ -1,188 +1,188 @@
 A Harmonic Minor, Cycle 4
 -------------------------
 4-way close: (1 3 5 7) --> (5 7 1 3)
-A  C  E  G♯
-A  C  D  F 
-G♯ B  D  F 
-G♯ B  C  E 
-F  A  C  E 
-F  A  B  D 
-E  G♯ B  D 
-E  G♯ A  C 
-D  F  A  C 
-D  F  G♯ B 
-C  E  G♯ B 
-C  E  F  A 
-B  D  F  A 
-B  D  E  G♯
+A  C  E  G♯     Am(maj7)
+A  C  D  F      Dm7
+G♯ B  D  F      G♯°
+G♯ B  C  E      Caug(maj7)
+F  A  C  E      FM7
+F  A  B  D      Bø
+E  G♯ B  D      E7
+E  G♯ A  C      Am(maj7)
+D  F  A  C      Dm7
+D  F  G♯ B      G♯°
+C  E  G♯ B      Caug(maj7)
+C  E  F  A      FM7
+B  D  F  A      Bø
+B  D  E  G♯     E7
 Alternate Voicing:
-C  E  G♯ A 
-C  D  F  A 
-B  D  F  G♯
-B  C  E  G♯
-A  C  E  F 
-A  B  D  F 
-G♯ B  D  E 
-G♯ A  C  E 
-F  A  C  D 
-F  G♯ B  D 
-E  G♯ B  C 
-E  F  A  C 
-D  F  A  B 
-D  E  G♯ B 
+C  E  G♯ A      Am(maj7)
+C  D  F  A      Dm7
+B  D  F  G♯     G♯°
+B  C  E  G♯     Caug(maj7)
+A  C  E  F      FM7
+A  B  D  F      Bø
+G♯ B  D  E      E7
+G♯ A  C  E      Am(maj7)
+F  A  C  D      Dm7
+F  G♯ B  D      G♯°
+E  G♯ B  C      Caug(maj7)
+E  F  A  C      FM7
+D  F  A  B      Bø
+D  E  G♯ B      E7
 -------------------------
 Drop 2: (1 5 7 3) --> (5 1 3 7)
-A  E  G♯ C 
-A  D  F  C 
-G♯ D  F  B 
-G♯ C  E  B 
-F  C  E  A 
-F  B  D  A 
-E  B  D  G♯
-E  A  C  G♯
-D  A  C  F 
-D  G♯ B  F 
-C  G♯ B  E 
-C  F  A  E 
-B  F  A  D 
-B  E  G♯ D 
+A  E  G♯ C      Am(maj7)
+A  D  F  C      Dm7
+G♯ D  F  B      G♯°
+G♯ C  E  B      Caug(maj7)
+F  C  E  A      FM7
+F  B  D  A      Bø
+E  B  D  G♯     E7
+E  A  C  G♯     Am(maj7)
+D  A  C  F      Dm7
+D  G♯ B  F      G♯°
+C  G♯ B  E      Caug(maj7)
+C  F  A  E      FM7
+B  F  A  D      Bø
+B  E  G♯ D      E7
 Alternate Voicing:
-E  G♯ C  A 
-C  A  D  F 
-D  F  B  G♯
-B  G♯ C  E 
-C  E  A  F 
-A  F  B  D 
-B  D  G♯ E 
-G♯ E  A  C 
-A  C  F  D 
-F  D  G♯ B 
-G♯ B  E  C 
-E  C  F  A 
-F  A  D  B 
-D  B  E  G♯
+E  G♯ C  A      Am(maj7)
+C  A  D  F      Dm7
+D  F  B  G♯     G♯°
+B  G♯ C  E      Caug(maj7)
+C  E  A  F      FM7
+A  F  B  D      Bø
+B  D  G♯ E      E7
+G♯ E  A  C      Am(maj7)
+A  C  F  D      Dm7
+F  D  G♯ B      G♯°
+G♯ B  E  C      Caug(maj7)
+E  C  F  A      FM7
+F  A  D  B      Bø
+D  B  E  G♯     E7
 -------------------------
 Drop 3: (1 7 3 5) --> (5 3 7 1)
-A  G♯ C  E 
-A  F  C  D 
-G♯ F  B  D 
-G♯ E  B  C 
-F  E  A  C 
-F  D  A  B 
-E  D  G♯ B 
-E  C  G♯ A 
-D  C  F  A 
-D  B  F  G♯
-C  B  E  G♯
-C  A  E  F 
-B  A  D  F 
-B  G♯ D  E 
+A  G♯ C  E      Am(maj7)
+A  F  C  D      Dm7
+G♯ F  B  D      G♯°
+G♯ E  B  C      Caug(maj7)
+F  E  A  C      FM7
+F  D  A  B      Bø
+E  D  G♯ B      E7
+E  C  G♯ A      Am(maj7)
+D  C  F  A      Dm7
+D  B  F  G♯     G♯°
+C  B  E  G♯     Caug(maj7)
+C  A  E  F      FM7
+B  A  D  F      Bø
+B  G♯ D  E      E7
 Alternate Voicing:
-G♯ C  E  A 
-D  A  F  C 
-F  B  D  G♯
-C  G♯ E  B 
-E  A  C  F 
-B  F  D  A 
-D  G♯ B  E 
-A  E  C  G♯
-C  F  A  D 
-G♯ D  B  F 
-B  E  G♯ C 
-F  C  A  E 
-A  D  F  B 
-E  B  G♯ D 
+G♯ C  E  A      Am(maj7)
+D  A  F  C      Dm7
+F  B  D  G♯     G♯°
+C  G♯ E  B      Caug(maj7)
+E  A  C  F      FM7
+B  F  D  A      Bø
+D  G♯ B  E      E7
+A  E  C  G♯     Am(maj7)
+C  F  A  D      Dm7
+G♯ D  B  F      G♯°
+B  E  G♯ C      Caug(maj7)
+F  C  A  E      FM7
+A  D  F  B      Bø
+E  B  G♯ D      E7
 -------------------------
 Drop 2 and 3: (1 3 7 5) --> (5 7 3 1)
-A  C  G♯ E 
-A  C  F  D 
-G♯ B  F  D 
-G♯ B  E  C 
-F  A  E  C 
-F  A  D  B 
-E  G♯ D  B 
-E  G♯ C  A 
-D  F  C  A 
-D  F  B  G♯
-C  E  B  G♯
-C  E  A  F 
-B  D  A  F 
-B  D  G♯ E 
+A  C  G♯ E      Am(maj7)
+A  C  F  D      Dm7
+G♯ B  F  D      G♯°
+G♯ B  E  C      Caug(maj7)
+F  A  E  C      FM7
+F  A  D  B      Bø
+E  G♯ D  B      E7
+E  G♯ C  A      Am(maj7)
+D  F  C  A      Dm7
+D  F  B  G♯     G♯°
+C  E  B  G♯     Caug(maj7)
+C  E  A  F      FM7
+B  D  A  F      Bø
+B  D  G♯ E      E7
 Alternate Voicing:
-C  G♯ E  A 
-D  A  C  F 
-B  F  D  G♯
-C  G♯ B  E 
-A  E  C  F 
-B  F  A  D 
-G♯ D  B  E 
-A  E  G♯ C 
-F  C  A  D 
-G♯ D  F  B 
-E  B  G♯ C 
-F  C  E  A 
-D  A  F  B 
-E  B  D  G♯
+C  G♯ E  A      Am(maj7)
+D  A  C  F      Dm7
+B  F  D  G♯     G♯°
+C  G♯ B  E      Caug(maj7)
+A  E  C  F      FM7
+B  F  A  D      Bø
+G♯ D  B  E      E7
+A  E  G♯ C      Am(maj7)
+F  C  A  D      Dm7
+G♯ D  F  B      G♯°
+E  B  G♯ C      Caug(maj7)
+F  C  E  A      FM7
+D  A  F  B      Bø
+E  B  D  G♯     E7
 -------------------------
 Drop 2 and 4: (1 5 3 7) --> (5 1 7 3)
-A  E  C  G♯
-A  D  C  F 
-G♯ D  B  F 
-G♯ C  B  E 
-F  C  A  E 
-F  B  A  D 
-E  B  G♯ D 
-E  A  G♯ C 
-D  A  F  C 
-D  G♯ F  B 
-C  G♯ E  B 
-C  F  E  A 
-B  F  D  A 
-B  E  D  G♯
+A  E  C  G♯     Am(maj7)
+A  D  C  F      Dm7
+G♯ D  B  F      G♯°
+G♯ C  B  E      Caug(maj7)
+F  C  A  E      FM7
+F  B  A  D      Bø
+E  B  G♯ D      E7
+E  A  G♯ C      Am(maj7)
+D  A  F  C      Dm7
+D  G♯ F  B      G♯°
+C  G♯ E  B      Caug(maj7)
+C  F  E  A      FM7
+B  F  D  A      Bø
+B  E  D  G♯     E7
 Alternate Voicing:
-E  C  G♯ A 
-F  A  D  C 
-D  B  F  G♯
-E  G♯ C  B 
-C  A  E  F 
-D  F  B  A 
-B  G♯ D  E 
-C  E  A  G♯
-A  F  C  D 
-B  D  G♯ F 
-G♯ E  B  C 
-A  C  F  E 
-F  D  A  B 
-G♯ B  E  D 
+E  C  G♯ A      Am(maj7)
+F  A  D  C      Dm7
+D  B  F  G♯     G♯°
+E  G♯ C  B      Caug(maj7)
+C  A  E  F      FM7
+D  F  B  A      Bø
+B  G♯ D  E      E7
+C  E  A  G♯     Am(maj7)
+A  F  C  D      Dm7
+B  D  G♯ F      G♯°
+G♯ E  B  C      Caug(maj7)
+A  C  F  E      FM7
+F  D  A  B      Bø
+G♯ B  E  D      E7
 -------------------------
 Double drop 2 drop 3: (1 7 5 3) --> (5 3 1 7)
-A  G♯ E  C 
-A  F  D  C 
-G♯ F  D  B 
-G♯ E  C  B 
-F  E  C  A 
-F  D  B  A 
-E  D  B  G♯
-E  C  A  G♯
-D  C  A  F 
-D  B  G♯ F 
-C  B  G♯ E 
-C  A  F  E 
-B  A  F  D 
-B  G♯ E  D 
+A  G♯ E  C      Am(maj7)
+A  F  D  C      Dm7
+G♯ F  D  B      G♯°
+G♯ E  C  B      Caug(maj7)
+F  E  C  A      FM7
+F  D  B  A      Bø
+E  D  B  G♯     E7
+E  C  A  G♯     Am(maj7)
+D  C  A  F      Dm7
+D  B  G♯ F      G♯°
+C  B  G♯ E      Caug(maj7)
+C  A  F  E      FM7
+B  A  F  D      Bø
+B  G♯ E  D      E7
 Alternate Voicing:
-G♯ E  C  A 
-F  D  C  A 
-F  D  B  G♯
-E  C  B  G♯
-E  C  A  F 
-D  B  A  F 
-D  B  G♯ E 
-C  A  G♯ E 
-C  A  F  D 
-B  G♯ F  D 
-B  G♯ E  C 
-A  F  E  C 
-A  F  D  B 
-G♯ E  D  B 
+G♯ E  C  A      Am(maj7)
+F  D  C  A      Dm7
+F  D  B  G♯     G♯°
+E  C  B  G♯     Caug(maj7)
+E  C  A  F      FM7
+D  B  A  F      Bø
+D  B  G♯ E      E7
+C  A  G♯ E      Am(maj7)
+C  A  F  D      Dm7
+B  G♯ F  D      G♯°
+B  G♯ E  C      Caug(maj7)
+A  F  E  C      FM7
+A  F  D  B      Bø
+G♯ E  D  B      E7
 -------------------------

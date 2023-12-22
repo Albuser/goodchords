@@ -1,48 +1,48 @@
 D Melodic Minor, Cycle 4
 -------------------------
 Close: (1 3 5) --> (5 1 3)
-D  F  A 
-D  G  B 
-E  G  C♯
-F  A  C♯
-F  B  D 
-G  B  E 
-A  C♯ E 
-A  D  F 
-B  D  G 
-C♯ E  G 
-C♯ F  A 
-D  F  B 
-E  G  B 
-E  A  C♯
-F  A  D 
-G  B  D 
-G  C♯ E 
-A  C♯ F 
-B  D  F 
-B  E  G 
-C♯ E  A 
+D  F  A      Dm
+D  G  B      GM
+E  G  C♯     C♯dim
+F  A  C♯     F+
+F  B  D      Bdim
+G  B  E      Em
+A  C♯ E      AM
+A  D  F      Dm
+B  D  G      GM
+C♯ E  G      C♯dim
+C♯ F  A      F+
+D  F  B      Bdim
+E  G  B      Em
+E  A  C♯     AM
+F  A  D      Dm
+G  B  D      GM
+G  C♯ E      C♯dim
+A  C♯ F      F+
+B  D  F      Bdim
+B  E  G      Em
+C♯ E  A      AM
 -------------------------
 Spread: (1 5 3) --> (5 3 1)
-D  A  F 
-D  B  G 
-E  C♯ G 
-F  C♯ A 
-F  D  B 
-G  E  B 
-A  E  C♯
-A  F  D 
-B  G  D 
-C♯ G  E 
-C♯ A  F 
-D  B  F 
-E  B  G 
-E  C♯ A 
-F  D  A 
-G  D  B 
-G  E  C♯
-A  F  C♯
-B  F  D 
-B  G  E 
-C♯ A  E 
+D  A  F      Dm
+D  B  G      GM
+E  C♯ G      C♯dim
+F  C♯ A      F+
+F  D  B      Bdim
+G  E  B      Em
+A  E  C♯     AM
+A  F  D      Dm
+B  G  D      GM
+C♯ G  E      C♯dim
+C♯ A  F      F+
+D  B  F      Bdim
+E  B  G      Em
+E  C♯ A      AM
+F  D  A      Dm
+G  D  B      GM
+G  E  C♯     C♯dim
+A  F  C♯     F+
+B  F  D      Bdim
+B  G  E      Em
+C♯ A  E      AM
 -------------------------

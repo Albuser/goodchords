@@ -1,48 +1,48 @@
 C♯ Harmonic Minor, Cycle 2
 -------------------------
 Close: (1 3 5) --> (5 1 3)
-C♯ E  G♯
-A  D♯ F♯
-G♯ B♯ E 
-F♯ A  C♯
-D♯ G♯ B♯
-C♯ E  A 
-B♯ D♯ F♯
-G♯ C♯ E 
-F♯ A  D♯
-E  G♯ B♯
-C♯ F♯ A 
-B♯ D♯ G♯
-A  C♯ E 
-F♯ B♯ D♯
-E  G♯ C♯
-D♯ F♯ A 
-B♯ E  G♯
-A  C♯ F♯
-G♯ B♯ D♯
-E  A  C♯
-D♯ F♯ B♯
+C♯ E  G♯     C♯m
+A  D♯ F♯     D♯dim
+G♯ B♯ E      E+
+F♯ A  C♯     F♯m
+D♯ G♯ B♯     G♯M
+C♯ E  A      AM
+B♯ D♯ F♯     B♯dim
+G♯ C♯ E      C♯m
+F♯ A  D♯     D♯dim
+E  G♯ B♯     E+
+C♯ F♯ A      F♯m
+B♯ D♯ G♯     G♯M
+A  C♯ E      AM
+F♯ B♯ D♯     B♯dim
+E  G♯ C♯     C♯m
+D♯ F♯ A      D♯dim
+B♯ E  G♯     E+
+A  C♯ F♯     F♯m
+G♯ B♯ D♯     G♯M
+E  A  C♯     AM
+D♯ F♯ B♯     B♯dim
 -------------------------
 Spread: (1 5 3) --> (5 3 1)
-C♯ G♯ E 
-A  F♯ D♯
-G♯ E  B♯
-F♯ C♯ A 
-D♯ B♯ G♯
-C♯ A  E 
-B♯ F♯ D♯
-G♯ E  C♯
-F♯ D♯ A 
-E  B♯ G♯
-C♯ A  F♯
-B♯ G♯ D♯
-A  E  C♯
-F♯ D♯ B♯
-E  C♯ G♯
-D♯ A  F♯
-B♯ G♯ E 
-A  F♯ C♯
-G♯ D♯ B♯
-E  C♯ A 
-D♯ B♯ F♯
+C♯ G♯ E      C♯m
+A  F♯ D♯     D♯dim
+G♯ E  B♯     E+
+F♯ C♯ A      F♯m
+D♯ B♯ G♯     G♯M
+C♯ A  E      AM
+B♯ F♯ D♯     B♯dim
+G♯ E  C♯     C♯m
+F♯ D♯ A      D♯dim
+E  B♯ G♯     E+
+C♯ A  F♯     F♯m
+B♯ G♯ D♯     G♯M
+A  E  C♯     AM
+F♯ D♯ B♯     B♯dim
+E  C♯ G♯     C♯m
+D♯ A  F♯     D♯dim
+B♯ G♯ E      E+
+A  F♯ C♯     F♯m
+G♯ D♯ B♯     G♯M
+E  C♯ A      AM
+D♯ B♯ F♯     B♯dim
 -------------------------

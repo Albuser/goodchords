@@ -1,64 +1,64 @@
 G Harmonic Minor, Cycle 2
 -------------------------
 Close: (2 5 1) --> (1 5 2)
-A  D  G 
-A  E♭ B♭
-C  F♯ B♭
-C  G  D 
-E♭ A  D 
-E♭ B♭ F♯
-G  C  F♯
-G  D  A 
-B♭ E♭ A 
-B♭ F♯ C 
-D  G  C 
-D  A  E♭
-F♯ B♭ E♭
-F♯ C  G 
+A  D  G      Gsus2
+A  E♭ B♭     Adim(sus(m2))
+C  F♯ B♭     B♭
+C  G  D      Csus2
+E♭ A  D      Dsus(m2)
+E♭ B♭ F♯     E♭m
+G  C  F♯     F♯dim(sus(m2))
+G  D  A      Gsus2
+B♭ E♭ A      Adim(sus(m2))
+B♭ F♯ C      B♭
+D  G  C      Csus2
+D  A  E♭     Dsus(m2)
+F♯ B♭ E♭     E♭m
+F♯ C  G      F♯dim(sus(m2))
 Alternate Voicing:
-D  G  A 
-B♭ A  E♭
-F♯ B♭ C 
-D  C  G 
-A  D  E♭
-F♯ E♭ B♭
-C  F♯ G 
-A  G  D 
-E♭ A  B♭
-C  B♭ F♯
-G  C  D 
-E♭ D  A 
-B♭ E♭ F♯
-G  F♯ C 
+D  G  A      Gsus2
+B♭ A  E♭     Adim(sus(m2))
+F♯ B♭ C      B♭
+D  C  G      Csus2
+A  D  E♭     Dsus(m2)
+F♯ E♭ B♭     E♭m
+C  F♯ G      F♯dim(sus(m2))
+A  G  D      Gsus2
+E♭ A  B♭     Adim(sus(m2))
+C  B♭ F♯     B♭
+G  C  D      Csus2
+E♭ D  A      Dsus(m2)
+B♭ E♭ F♯     E♭m
+G  F♯ C      F♯dim(sus(m2))
 -------------------------
 Spread: (1 5 2) --> (2 5 1)
-G  D  A 
-B♭ E♭ A 
-B♭ F♯ C 
-D  G  C 
-D  A  E♭
-F♯ B♭ E♭
-F♯ C  G 
-A  D  G 
-A  E♭ B♭
-C  F♯ B♭
-C  G  D 
-E♭ A  D 
-E♭ B♭ F♯
-G  C  F♯
+G  D  A      Gsus2
+B♭ E♭ A      Adim(sus(m2))
+B♭ F♯ C      B♭
+D  G  C      Csus2
+D  A  E♭     Dsus(m2)
+F♯ B♭ E♭     E♭m
+F♯ C  G      F♯dim(sus(m2))
+A  D  G      Gsus2
+A  E♭ B♭     Adim(sus(m2))
+C  F♯ B♭     B♭
+C  G  D      Csus2
+E♭ A  D      Dsus(m2)
+E♭ B♭ F♯     E♭m
+G  C  F♯     F♯dim(sus(m2))
 Alternate Voicing:
-D  A  G 
-A  B♭ E♭
-F♯ C  B♭
-C  D  G 
-A  E♭ D 
-E♭ F♯ B♭
-C  G  F♯
-G  A  D 
-E♭ B♭ A 
-B♭ C  F♯
-G  D  C 
-D  E♭ A 
-B♭ F♯ E♭
-F♯ G  C 
+D  A  G      Gsus2
+A  B♭ E♭     Adim(sus(m2))
+F♯ C  B♭     B♭
+C  D  G      Csus2
+A  E♭ D      Dsus(m2)
+E♭ F♯ B♭     E♭m
+C  G  F♯     F♯dim(sus(m2))
+G  A  D      Gsus2
+E♭ B♭ A      Adim(sus(m2))
+B♭ C  F♯     B♭
+G  D  C      Csus2
+D  E♭ A      Dsus(m2)
+B♭ F♯ E♭     E♭m
+F♯ G  C      F♯dim(sus(m2))
 -------------------------

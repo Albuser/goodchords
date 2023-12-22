@@ -1,48 +1,48 @@
 B Major, Cycle 2
 -------------------------
 Close: (1 3 5) --> (5 1 3)
-B  D♯ F♯
-G♯ C♯ E 
-F♯ A♯ D♯
-E  G♯ B 
-C♯ F♯ A♯
-B  D♯ G♯
-A♯ C♯ E 
-F♯ B  D♯
-E  G♯ C♯
-D♯ F♯ A♯
-B  E  G♯
-A♯ C♯ F♯
-G♯ B  D♯
-E  A♯ C♯
-D♯ F♯ B 
-C♯ E  G♯
-A♯ D♯ F♯
-G♯ B  E 
-F♯ A♯ C♯
-D♯ G♯ B 
-C♯ E  A♯
+B  D♯ F♯     BM
+G♯ C♯ E      C♯m
+F♯ A♯ D♯     D♯m
+E  G♯ B      EM
+C♯ F♯ A♯     F♯M
+B  D♯ G♯     G♯m
+A♯ C♯ E      A♯dim
+F♯ B  D♯     BM
+E  G♯ C♯     C♯m
+D♯ F♯ A♯     D♯m
+B  E  G♯     EM
+A♯ C♯ F♯     F♯M
+G♯ B  D♯     G♯m
+E  A♯ C♯     A♯dim
+D♯ F♯ B      BM
+C♯ E  G♯     C♯m
+A♯ D♯ F♯     D♯m
+G♯ B  E      EM
+F♯ A♯ C♯     F♯M
+D♯ G♯ B      G♯m
+C♯ E  A♯     A♯dim
 -------------------------
 Spread: (1 5 3) --> (5 3 1)
-B  F♯ D♯
-G♯ E  C♯
-F♯ D♯ A♯
-E  B  G♯
-C♯ A♯ F♯
-B  G♯ D♯
-A♯ E  C♯
-F♯ D♯ B 
-E  C♯ G♯
-D♯ A♯ F♯
-B  G♯ E 
-A♯ F♯ C♯
-G♯ D♯ B 
-E  C♯ A♯
-D♯ B  F♯
-C♯ G♯ E 
-A♯ F♯ D♯
-G♯ E  B 
-F♯ C♯ A♯
-D♯ B  G♯
-C♯ A♯ E 
+B  F♯ D♯     BM
+G♯ E  C♯     C♯m
+F♯ D♯ A♯     D♯m
+E  B  G♯     EM
+C♯ A♯ F♯     F♯M
+B  G♯ D♯     G♯m
+A♯ E  C♯     A♯dim
+F♯ D♯ B      BM
+E  C♯ G♯     C♯m
+D♯ A♯ F♯     D♯m
+B  G♯ E      EM
+A♯ F♯ C♯     F♯M
+G♯ D♯ B      G♯m
+E  C♯ A♯     A♯dim
+D♯ B  F♯     BM
+C♯ G♯ E      C♯m
+A♯ F♯ D♯     D♯m
+G♯ E  B      EM
+F♯ C♯ A♯     F♯M
+D♯ B  G♯     G♯m
+C♯ A♯ E      A♯dim
 -------------------------

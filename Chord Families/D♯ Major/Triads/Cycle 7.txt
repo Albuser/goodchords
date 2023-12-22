@@ -1,48 +1,48 @@
 D♯ Major, Cycle 7
 -------------------------
 Close: (1 3 5) --> (3 5 1)
-D♯ F𝄪 A♯
-E♯ G♯ C𝄪
-F𝄪 B♯ D♯
-A♯ C𝄪 E♯
-B♯ D♯ G♯
-C𝄪 F𝄪 A♯
-E♯ G♯ B♯
-F𝄪 A♯ D♯
-G♯ C𝄪 E♯
-B♯ D♯ F𝄪
-C𝄪 E♯ A♯
-D♯ G♯ B♯
-F𝄪 A♯ C𝄪
-G♯ B♯ E♯
-A♯ D♯ F𝄪
-C𝄪 E♯ G♯
-D♯ F𝄪 B♯
-E♯ A♯ C𝄪
-G♯ B♯ D♯
-A♯ C𝄪 F𝄪
-B♯ E♯ G♯
+D♯ F𝄪 A♯     D♯M
+E♯ G♯ C𝄪     C𝄪dim
+F𝄪 B♯ D♯     B♯m
+A♯ C𝄪 E♯     A♯M
+B♯ D♯ G♯     G♯M
+C𝄪 F𝄪 A♯     F𝄪m
+E♯ G♯ B♯     E♯m
+F𝄪 A♯ D♯     D♯M
+G♯ C𝄪 E♯     C𝄪dim
+B♯ D♯ F𝄪     B♯m
+C𝄪 E♯ A♯     A♯M
+D♯ G♯ B♯     G♯M
+F𝄪 A♯ C𝄪     F𝄪m
+G♯ B♯ E♯     E♯m
+A♯ D♯ F𝄪     D♯M
+C𝄪 E♯ G♯     C𝄪dim
+D♯ F𝄪 B♯     B♯m
+E♯ A♯ C𝄪     A♯M
+G♯ B♯ D♯     G♯M
+A♯ C𝄪 F𝄪     F𝄪m
+B♯ E♯ G♯     E♯m
 -------------------------
 Spread: (1 5 3) --> (3 1 5)
-D♯ A♯ F𝄪
-E♯ C𝄪 G♯
-F𝄪 D♯ B♯
-A♯ E♯ C𝄪
-B♯ G♯ D♯
-C𝄪 A♯ F𝄪
-E♯ B♯ G♯
-F𝄪 D♯ A♯
-G♯ E♯ C𝄪
-B♯ F𝄪 D♯
-C𝄪 A♯ E♯
-D♯ B♯ G♯
-F𝄪 C𝄪 A♯
-G♯ E♯ B♯
-A♯ F𝄪 D♯
-C𝄪 G♯ E♯
-D♯ B♯ F𝄪
-E♯ C𝄪 A♯
-G♯ D♯ B♯
-A♯ F𝄪 C𝄪
-B♯ G♯ E♯
+D♯ A♯ F𝄪     D♯M
+E♯ C𝄪 G♯     C𝄪dim
+F𝄪 D♯ B♯     B♯m
+A♯ E♯ C𝄪     A♯M
+B♯ G♯ D♯     G♯M
+C𝄪 A♯ F𝄪     F𝄪m
+E♯ B♯ G♯     E♯m
+F𝄪 D♯ A♯     D♯M
+G♯ E♯ C𝄪     C𝄪dim
+B♯ F𝄪 D♯     B♯m
+C𝄪 A♯ E♯     A♯M
+D♯ B♯ G♯     G♯M
+F𝄪 C𝄪 A♯     F𝄪m
+G♯ E♯ B♯     E♯m
+A♯ F𝄪 D♯     D♯M
+C𝄪 G♯ E♯     C𝄪dim
+D♯ B♯ F𝄪     B♯m
+E♯ C𝄪 A♯     A♯M
+G♯ D♯ B♯     G♯M
+A♯ F𝄪 C𝄪     F𝄪m
+B♯ G♯ E♯     E♯m
 -------------------------

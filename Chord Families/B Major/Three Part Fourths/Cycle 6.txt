@@ -1,48 +1,48 @@
 B Major, Cycle 6
 -------------------------
 Close: (2 5 1) --> (5 1 2)
-C♯ F♯ B 
-D♯ G♯ A♯
-E  F♯ B 
-D♯ G♯ C♯
-E  A♯ B 
-F♯ G♯ C♯
-E  A♯ D♯
-F♯ B  C♯
-G♯ A♯ D♯
-F♯ B  E 
-G♯ C♯ D♯
-A♯ B  E 
-G♯ C♯ F♯
-A♯ D♯ E 
-B  C♯ F♯
-A♯ D♯ G♯
-B  E  F♯
-C♯ D♯ G♯
-B  E  A♯
-C♯ F♯ G♯
-D♯ E  A♯
+C♯ F♯ B      Bsus2
+D♯ G♯ A♯     G♯sus2
+E  F♯ B      Esus2
+D♯ G♯ C♯     C♯sus2
+E  A♯ B      A♯dim(sus(m2))
+F♯ G♯ C♯     F♯sus2
+E  A♯ D♯     D♯sus(m2)
+F♯ B  C♯     Bsus2
+G♯ A♯ D♯     G♯sus2
+F♯ B  E      Esus2
+G♯ C♯ D♯     C♯sus2
+A♯ B  E      A♯dim(sus(m2))
+G♯ C♯ F♯     F♯sus2
+A♯ D♯ E      D♯sus(m2)
+B  C♯ F♯     Bsus2
+A♯ D♯ G♯     G♯sus2
+B  E  F♯     Esus2
+C♯ D♯ G♯     C♯sus2
+B  E  A♯     A♯dim(sus(m2))
+C♯ F♯ G♯     F♯sus2
+D♯ E  A♯     D♯sus(m2)
 -------------------------
 Spread: (1 5 2) --> (2 1 5)
-B  F♯ C♯
-A♯ G♯ D♯
-B  F♯ E 
-C♯ G♯ D♯
-B  A♯ E 
-C♯ G♯ F♯
-D♯ A♯ E 
-C♯ B  F♯
-D♯ A♯ G♯
-E  B  F♯
-D♯ C♯ G♯
-E  B  A♯
-F♯ C♯ G♯
-E  D♯ A♯
-F♯ C♯ B 
-G♯ D♯ A♯
-F♯ E  B 
-G♯ D♯ C♯
-A♯ E  B 
-G♯ F♯ C♯
-A♯ E  D♯
+B  F♯ C♯     Bsus2
+A♯ G♯ D♯     G♯sus2
+B  F♯ E      Esus2
+C♯ G♯ D♯     C♯sus2
+B  A♯ E      A♯dim(sus(m2))
+C♯ G♯ F♯     F♯sus2
+D♯ A♯ E      D♯sus(m2)
+C♯ B  F♯     Bsus2
+D♯ A♯ G♯     G♯sus2
+E  B  F♯     Esus2
+D♯ C♯ G♯     C♯sus2
+E  B  A♯     A♯dim(sus(m2))
+F♯ C♯ G♯     F♯sus2
+E  D♯ A♯     D♯sus(m2)
+F♯ C♯ B      Bsus2
+G♯ D♯ A♯     G♯sus2
+F♯ E  B      Esus2
+G♯ D♯ C♯     C♯sus2
+A♯ E  B      A♯dim(sus(m2))
+G♯ F♯ C♯     F♯sus2
+A♯ E  D♯     D♯sus(m2)
 -------------------------

@@ -1,182 +1,182 @@
 D Major, Cycle 2
 -------------------------
 4-way close: (1 3 5 7) --> (7 1 3 5)
-D  F♯ A  C♯
-D  E  G  B 
-C♯ E  F♯ A 
-B  D  F♯ G 
-A  C♯ E  G 
-A  B  D  F♯
-G  B  C♯ E 
-F♯ A  C♯ D 
-E  G  B  D 
-E  F♯ A  C♯
-D  F♯ G  B 
-C♯ E  G  A 
-B  D  F♯ A 
-B  C♯ E  G 
-A  C♯ D  F♯
-G  B  D  E 
-F♯ A  C♯ E 
-F♯ G  B  D 
-E  G  A  C♯
-D  F♯ A  B 
-C♯ E  G  B 
-C♯ D  F♯ A 
-B  D  E  G 
-A  C♯ E  F♯
-G  B  D  F♯
-G  A  C♯ E 
-F♯ A  B  D 
-E  G  B  C♯
+D  F♯ A  C♯     DM7
+D  E  G  B      Em7
+C♯ E  F♯ A      F♯m7
+B  D  F♯ G      GM7
+A  C♯ E  G      A7
+A  B  D  F♯     Bm7
+G  B  C♯ E      C♯ø
+F♯ A  C♯ D      DM7
+E  G  B  D      Em7
+E  F♯ A  C♯     F♯m7
+D  F♯ G  B      GM7
+C♯ E  G  A      A7
+B  D  F♯ A      Bm7
+B  C♯ E  G      C♯ø
+A  C♯ D  F♯     DM7
+G  B  D  E      Em7
+F♯ A  C♯ E      F♯m7
+F♯ G  B  D      GM7
+E  G  A  C♯     A7
+D  F♯ A  B      Bm7
+C♯ E  G  B      C♯ø
+C♯ D  F♯ A      DM7
+B  D  E  G      Em7
+A  C♯ E  F♯     F♯m7
+G  B  D  F♯     GM7
+G  A  C♯ E      A7
+F♯ A  B  D      Bm7
+E  G  B  C♯     C♯ø
 -------------------------
 Drop 2: (1 5 7 3) --> (7 3 5 1)
-D  A  C♯ F♯
-D  G  B  E 
-C♯ F♯ A  E 
-B  F♯ G  D 
-A  E  G  C♯
-A  D  F♯ B 
-G  C♯ E  B 
-F♯ C♯ D  A 
-E  B  D  G 
-E  A  C♯ F♯
-D  G  B  F♯
-C♯ G  A  E 
-B  F♯ A  D 
-B  E  G  C♯
-A  D  F♯ C♯
-G  D  E  B 
-F♯ C♯ E  A 
-F♯ B  D  G 
-E  A  C♯ G 
-D  A  B  F♯
-C♯ G  B  E 
-C♯ F♯ A  D 
-B  E  G  D 
-A  E  F♯ C♯
-G  D  F♯ B 
-G  C♯ E  A 
-F♯ B  D  A 
-E  B  C♯ G 
+D  A  C♯ F♯     DM7
+D  G  B  E      Em7
+C♯ F♯ A  E      F♯m7
+B  F♯ G  D      GM7
+A  E  G  C♯     A7
+A  D  F♯ B      Bm7
+G  C♯ E  B      C♯ø
+F♯ C♯ D  A      DM7
+E  B  D  G      Em7
+E  A  C♯ F♯     F♯m7
+D  G  B  F♯     GM7
+C♯ G  A  E      A7
+B  F♯ A  D      Bm7
+B  E  G  C♯     C♯ø
+A  D  F♯ C♯     DM7
+G  D  E  B      Em7
+F♯ C♯ E  A      F♯m7
+F♯ B  D  G      GM7
+E  A  C♯ G      A7
+D  A  B  F♯     Bm7
+C♯ G  B  E      C♯ø
+C♯ F♯ A  D      DM7
+B  E  G  D      Em7
+A  E  F♯ C♯     F♯m7
+G  D  F♯ B      GM7
+G  C♯ E  A      A7
+F♯ B  D  A      Bm7
+E  B  C♯ G      C♯ø
 -------------------------
 Drop 3: (1 7 3 5) --> (7 5 1 3)
-D  C♯ F♯ A 
-D  B  E  G 
-C♯ A  E  F♯
-B  G  D  F♯
-A  G  C♯ E 
-A  F♯ B  D 
-G  E  B  C♯
-F♯ D  A  C♯
-E  D  G  B 
-E  C♯ F♯ A 
-D  B  F♯ G 
-C♯ A  E  G 
-B  A  D  F♯
-B  G  C♯ E 
-A  F♯ C♯ D 
-G  E  B  D 
-F♯ E  A  C♯
-F♯ D  G  B 
-E  C♯ G  A 
-D  B  F♯ A 
-C♯ B  E  G 
-C♯ A  D  F♯
-B  G  D  E 
-A  F♯ C♯ E 
-G  F♯ B  D 
-G  E  A  C♯
-F♯ D  A  B 
-E  C♯ G  B 
+D  C♯ F♯ A      DM7
+D  B  E  G      Em7
+C♯ A  E  F♯     F♯m7
+B  G  D  F♯     GM7
+A  G  C♯ E      A7
+A  F♯ B  D      Bm7
+G  E  B  C♯     C♯ø
+F♯ D  A  C♯     DM7
+E  D  G  B      Em7
+E  C♯ F♯ A      F♯m7
+D  B  F♯ G      GM7
+C♯ A  E  G      A7
+B  A  D  F♯     Bm7
+B  G  C♯ E      C♯ø
+A  F♯ C♯ D      DM7
+G  E  B  D      Em7
+F♯ E  A  C♯     F♯m7
+F♯ D  G  B      GM7
+E  C♯ G  A      A7
+D  B  F♯ A      Bm7
+C♯ B  E  G      C♯ø
+C♯ A  D  F♯     DM7
+B  G  D  E      Em7
+A  F♯ C♯ E      F♯m7
+G  F♯ B  D      GM7
+G  E  A  C♯     A7
+F♯ D  A  B      Bm7
+E  C♯ G  B      C♯ø
 -------------------------
 Drop 2 and 3: (1 3 7 5) --> (7 1 5 3)
-D  F♯ C♯ A 
-D  E  B  G 
-C♯ E  A  F♯
-B  D  G  F♯
-A  C♯ G  E 
-A  B  F♯ D 
-G  B  E  C♯
-F♯ A  D  C♯
-E  G  D  B 
-E  F♯ C♯ A 
-D  F♯ B  G 
-C♯ E  A  G 
-B  D  A  F♯
-B  C♯ G  E 
-A  C♯ F♯ D 
-G  B  E  D 
-F♯ A  E  C♯
-F♯ G  D  B 
-E  G  C♯ A 
-D  F♯ B  A 
-C♯ E  B  G 
-C♯ D  A  F♯
-B  D  G  E 
-A  C♯ F♯ E 
-G  B  F♯ D 
-G  A  E  C♯
-F♯ A  D  B 
-E  G  C♯ B 
+D  F♯ C♯ A      DM7
+D  E  B  G      Em7
+C♯ E  A  F♯     F♯m7
+B  D  G  F♯     GM7
+A  C♯ G  E      A7
+A  B  F♯ D      Bm7
+G  B  E  C♯     C♯ø
+F♯ A  D  C♯     DM7
+E  G  D  B      Em7
+E  F♯ C♯ A      F♯m7
+D  F♯ B  G      GM7
+C♯ E  A  G      A7
+B  D  A  F♯     Bm7
+B  C♯ G  E      C♯ø
+A  C♯ F♯ D      DM7
+G  B  E  D      Em7
+F♯ A  E  C♯     F♯m7
+F♯ G  D  B      GM7
+E  G  C♯ A      A7
+D  F♯ B  A      Bm7
+C♯ E  B  G      C♯ø
+C♯ D  A  F♯     DM7
+B  D  G  E      Em7
+A  C♯ F♯ E      F♯m7
+G  B  F♯ D      GM7
+G  A  E  C♯     A7
+F♯ A  D  B      Bm7
+E  G  C♯ B      C♯ø
 -------------------------
 Drop 2 and 4: (1 5 3 7) --> (7 3 1 5)
-D  A  F♯ C♯
-D  G  E  B 
-C♯ F♯ E  A 
-B  F♯ D  G 
-A  E  C♯ G 
-A  D  B  F♯
-G  C♯ B  E 
-F♯ C♯ A  D 
-E  B  G  D 
-E  A  F♯ C♯
-D  G  F♯ B 
-C♯ G  E  A 
-B  F♯ D  A 
-B  E  C♯ G 
-A  D  C♯ F♯
-G  D  B  E 
-F♯ C♯ A  E 
-F♯ B  G  D 
-E  A  G  C♯
-D  A  F♯ B 
-C♯ G  E  B 
-C♯ F♯ D  A 
-B  E  D  G 
-A  E  C♯ F♯
-G  D  B  F♯
-G  C♯ A  E 
-F♯ B  A  D 
-E  B  G  C♯
+D  A  F♯ C♯     DM7
+D  G  E  B      Em7
+C♯ F♯ E  A      F♯m7
+B  F♯ D  G      GM7
+A  E  C♯ G      A7
+A  D  B  F♯     Bm7
+G  C♯ B  E      C♯ø
+F♯ C♯ A  D      DM7
+E  B  G  D      Em7
+E  A  F♯ C♯     F♯m7
+D  G  F♯ B      GM7
+C♯ G  E  A      A7
+B  F♯ D  A      Bm7
+B  E  C♯ G      C♯ø
+A  D  C♯ F♯     DM7
+G  D  B  E      Em7
+F♯ C♯ A  E      F♯m7
+F♯ B  G  D      GM7
+E  A  G  C♯     A7
+D  A  F♯ B      Bm7
+C♯ G  E  B      C♯ø
+C♯ F♯ D  A      DM7
+B  E  D  G      Em7
+A  E  C♯ F♯     F♯m7
+G  D  B  F♯     GM7
+G  C♯ A  E      A7
+F♯ B  A  D      Bm7
+E  B  G  C♯     C♯ø
 -------------------------
 Double drop 2 drop 3: (1 7 5 3) --> (7 5 3 1)
-D  C♯ A  F♯
-D  B  G  E 
-C♯ A  F♯ E 
-B  G  F♯ D 
-A  G  E  C♯
-A  F♯ D  B 
-G  E  C♯ B 
-F♯ D  C♯ A 
-E  D  B  G 
-E  C♯ A  F♯
-D  B  G  F♯
-C♯ A  G  E 
-B  A  F♯ D 
-B  G  E  C♯
-A  F♯ D  C♯
-G  E  D  B 
-F♯ E  C♯ A 
-F♯ D  B  G 
-E  C♯ A  G 
-D  B  A  F♯
-C♯ B  G  E 
-C♯ A  F♯ D 
-B  G  E  D 
-A  F♯ E  C♯
-G  F♯ D  B 
-G  E  C♯ A 
-F♯ D  B  A 
-E  C♯ B  G 
+D  C♯ A  F♯     DM7
+D  B  G  E      Em7
+C♯ A  F♯ E      F♯m7
+B  G  F♯ D      GM7
+A  G  E  C♯     A7
+A  F♯ D  B      Bm7
+G  E  C♯ B      C♯ø
+F♯ D  C♯ A      DM7
+E  D  B  G      Em7
+E  C♯ A  F♯     F♯m7
+D  B  G  F♯     GM7
+C♯ A  G  E      A7
+B  A  F♯ D      Bm7
+B  G  E  C♯     C♯ø
+A  F♯ D  C♯     DM7
+G  E  D  B      Em7
+F♯ E  C♯ A      F♯m7
+F♯ D  B  G      GM7
+E  C♯ A  G      A7
+D  B  A  F♯     Bm7
+C♯ B  G  E      C♯ø
+C♯ A  F♯ D      DM7
+B  G  E  D      Em7
+A  F♯ E  C♯     F♯m7
+G  F♯ D  B      GM7
+G  E  C♯ A      A7
+F♯ D  B  A      Bm7
+E  C♯ B  G      C♯ø
 -------------------------

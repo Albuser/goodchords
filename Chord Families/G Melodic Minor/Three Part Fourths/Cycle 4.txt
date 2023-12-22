@@ -1,48 +1,48 @@
 G Melodic Minor, Cycle 4
 -------------------------
 Close: (2 5 1) --> (1 2 5)
-A  D  G 
-C  D  G 
-C  F♯ G 
-C  F♯ B♭
-E  F♯ B♭
-E  A  B♭
-E  A  D 
-G  A  D 
-G  C  D 
-G  C  F♯
-B♭ C  F♯
-B♭ E  F♯
-B♭ E  A 
-D  E  A 
-D  G  A 
-D  G  C 
-F♯ G  C 
-F♯ B♭ C 
-F♯ B♭ E 
-A  B♭ E 
-A  D  E 
+A  D  G      Gsus2
+C  D  G      Csus2
+C  F♯ G      F♯dim(sus(m2))
+C  F♯ B♭     B♭
+E  F♯ B♭     E
+E  A  B♭     Asus(m2)
+E  A  D      Dsus2
+G  A  D      Gsus2
+G  C  D      Csus2
+G  C  F♯     F♯dim(sus(m2))
+B♭ C  F♯     B♭
+B♭ E  F♯     E
+B♭ E  A      Asus(m2)
+D  E  A      Dsus2
+D  G  A      Gsus2
+D  G  C      Csus2
+F♯ G  C      F♯dim(sus(m2))
+F♯ B♭ C      B♭
+F♯ B♭ E      E
+A  B♭ E      Asus(m2)
+A  D  E      Dsus2
 -------------------------
 Spread: (1 5 2) --> (5 2 1)
-G  D  A 
-G  D  C 
-G  F♯ C 
-B♭ F♯ C 
-B♭ F♯ E 
-B♭ A  E 
-D  A  E 
-D  A  G 
-D  C  G 
-F♯ C  G 
-F♯ C  B♭
-F♯ E  B♭
-A  E  B♭
-A  E  D 
-A  G  D 
-C  G  D 
-C  G  F♯
-C  B♭ F♯
-E  B♭ F♯
-E  B♭ A 
-E  D  A 
+G  D  A      Gsus2
+G  D  C      Csus2
+G  F♯ C      F♯dim(sus(m2))
+B♭ F♯ C      B♭
+B♭ F♯ E      E
+B♭ A  E      Asus(m2)
+D  A  E      Dsus2
+D  A  G      Gsus2
+D  C  G      Csus2
+F♯ C  G      F♯dim(sus(m2))
+F♯ C  B♭     B♭
+F♯ E  B♭     E
+A  E  B♭     Asus(m2)
+A  E  D      Dsus2
+A  G  D      Gsus2
+C  G  D      Csus2
+C  G  F♯     F♯dim(sus(m2))
+C  B♭ F♯     B♭
+E  B♭ F♯     E
+E  B♭ A      Asus(m2)
+E  D  A      Dsus2
 -------------------------

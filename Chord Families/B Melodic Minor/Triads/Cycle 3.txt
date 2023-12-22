@@ -1,48 +1,48 @@
 B Melodic Minor, Cycle 3
 -------------------------
 Close: (1 3 5) --> (5 1 3)
-B  D  F♯
-A♯ D  F♯
-A♯ C♯ F♯
-A♯ C♯ E 
-G♯ C♯ E 
-G♯ B  E 
-G♯ B  D 
-F♯ B  D 
-F♯ A♯ D 
-F♯ A♯ C♯
-E  A♯ C♯
-E  G♯ C♯
-E  G♯ B 
-D  G♯ B 
-D  F♯ B 
-D  F♯ A♯
-C♯ F♯ A♯
-C♯ E  A♯
-C♯ E  G♯
-B  E  G♯
-B  D  G♯
+B  D  F♯     Bm
+A♯ D  F♯     D+
+A♯ C♯ F♯     F♯M
+A♯ C♯ E      A♯dim
+G♯ C♯ E      C♯m
+G♯ B  E      EM
+G♯ B  D      G♯dim
+F♯ B  D      Bm
+F♯ A♯ D      D+
+F♯ A♯ C♯     F♯M
+E  A♯ C♯     A♯dim
+E  G♯ C♯     C♯m
+E  G♯ B      EM
+D  G♯ B      G♯dim
+D  F♯ B      Bm
+D  F♯ A♯     D+
+C♯ F♯ A♯     F♯M
+C♯ E  A♯     A♯dim
+C♯ E  G♯     C♯m
+B  E  G♯     EM
+B  D  G♯     G♯dim
 -------------------------
 Spread: (1 5 3) --> (5 3 1)
-B  F♯ D 
-A♯ F♯ D 
-A♯ F♯ C♯
-A♯ E  C♯
-G♯ E  C♯
-G♯ E  B 
-G♯ D  B 
-F♯ D  B 
-F♯ D  A♯
-F♯ C♯ A♯
-E  C♯ A♯
-E  C♯ G♯
-E  B  G♯
-D  B  G♯
-D  B  F♯
-D  A♯ F♯
-C♯ A♯ F♯
-C♯ A♯ E 
-C♯ G♯ E 
-B  G♯ E 
-B  G♯ D 
+B  F♯ D      Bm
+A♯ F♯ D      D+
+A♯ F♯ C♯     F♯M
+A♯ E  C♯     A♯dim
+G♯ E  C♯     C♯m
+G♯ E  B      EM
+G♯ D  B      G♯dim
+F♯ D  B      Bm
+F♯ D  A♯     D+
+F♯ C♯ A♯     F♯M
+E  C♯ A♯     A♯dim
+E  C♯ G♯     C♯m
+E  B  G♯     EM
+D  B  G♯     G♯dim
+D  B  F♯     Bm
+D  A♯ F♯     D+
+C♯ A♯ F♯     F♯M
+C♯ A♯ E      A♯dim
+C♯ G♯ E      C♯m
+B  G♯ E      EM
+B  G♯ D      G♯dim
 -------------------------

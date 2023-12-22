@@ -1,64 +1,64 @@
 B Melodic Minor, Cycle 7
 -------------------------
 Close: (2 5 1) --> (1 5 2)
-C♯ F♯ B 
-A♯ E  B 
-A♯ D  G♯
-F♯ C♯ G♯
-F♯ B  E 
-D  A♯ E 
-D  G♯ C♯
-B  F♯ C♯
-B  E  A♯
-G♯ D  A♯
-G♯ C♯ F♯
-E  B  F♯
-E  A♯ D 
-C♯ G♯ D 
+C♯ F♯ B      Bsus2
+A♯ E  B      A♯dim(sus(m2))
+A♯ D  G♯     G♯
+F♯ C♯ G♯     F♯sus2
+F♯ B  E      Esus2
+D  A♯ E      D
+D  G♯ C♯     C♯sus(m2)
+B  F♯ C♯     Bsus2
+B  E  A♯     A♯dim(sus(m2))
+G♯ D  A♯     G♯
+G♯ C♯ F♯     F♯sus2
+E  B  F♯     Esus2
+E  A♯ D      D
+C♯ G♯ D      C♯sus(m2)
 Alternate Voicing:
-F♯ B  C♯
-B  A♯ E 
-D  G♯ A♯
-G♯ F♯ C♯
-B  E  F♯
-E  D  A♯
-G♯ C♯ D 
-C♯ B  F♯
-E  A♯ B 
-A♯ G♯ D 
-C♯ F♯ G♯
-F♯ E  B 
-A♯ D  E 
-D  C♯ G♯
+F♯ B  C♯     Bsus2
+B  A♯ E      A♯dim(sus(m2))
+D  G♯ A♯     G♯
+G♯ F♯ C♯     F♯sus2
+B  E  F♯     Esus2
+E  D  A♯     D
+G♯ C♯ D      C♯sus(m2)
+C♯ B  F♯     Bsus2
+E  A♯ B      A♯dim(sus(m2))
+A♯ G♯ D      G♯
+C♯ F♯ G♯     F♯sus2
+F♯ E  B      Esus2
+A♯ D  E      D
+D  C♯ G♯     C♯sus(m2)
 -------------------------
 Spread: (1 5 2) --> (2 5 1)
-B  F♯ C♯
-B  E  A♯
-G♯ D  A♯
-G♯ C♯ F♯
-E  B  F♯
-E  A♯ D 
-C♯ G♯ D 
-C♯ F♯ B 
-A♯ E  B 
-A♯ D  G♯
-F♯ C♯ G♯
-F♯ B  E 
-D  A♯ E 
-D  G♯ C♯
+B  F♯ C♯     Bsus2
+B  E  A♯     A♯dim(sus(m2))
+G♯ D  A♯     G♯
+G♯ C♯ F♯     F♯sus2
+E  B  F♯     Esus2
+E  A♯ D      D
+C♯ G♯ D      C♯sus(m2)
+C♯ F♯ B      Bsus2
+A♯ E  B      A♯dim(sus(m2))
+A♯ D  G♯     G♯
+F♯ C♯ G♯     F♯sus2
+F♯ B  E      Esus2
+D  A♯ E      D
+D  G♯ C♯     C♯sus(m2)
 Alternate Voicing:
-F♯ C♯ B 
-A♯ B  E 
-D  A♯ G♯
-F♯ G♯ C♯
-B  F♯ E 
-D  E  A♯
-G♯ D  C♯
-B  C♯ F♯
-E  B  A♯
-G♯ A♯ D 
-C♯ G♯ F♯
-E  F♯ B 
-A♯ E  D 
-C♯ D  G♯
+F♯ C♯ B      Bsus2
+A♯ B  E      A♯dim(sus(m2))
+D  A♯ G♯     G♯
+F♯ G♯ C♯     F♯sus2
+B  F♯ E      Esus2
+D  E  A♯     D
+G♯ D  C♯     C♯sus(m2)
+B  C♯ F♯     Bsus2
+E  B  A♯     A♯dim(sus(m2))
+G♯ A♯ D      G♯
+C♯ G♯ F♯     F♯sus2
+E  F♯ B      Esus2
+A♯ E  D      D
+C♯ D  G♯     C♯sus(m2)
 -------------------------

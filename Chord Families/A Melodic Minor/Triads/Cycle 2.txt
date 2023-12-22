@@ -1,48 +1,48 @@
 A Melodic Minor, Cycle 2
 -------------------------
 Close: (1 3 5) --> (5 1 3)
-A  C  E 
-F♯ B  D 
-E  G♯ C 
-D  F♯ A 
-B  E  G♯
-A  C  F♯
-G♯ B  D 
-E  A  C 
-D  F♯ B 
-C  E  G♯
-A  D  F♯
-G♯ B  E 
-F♯ A  C 
-D  G♯ B 
-C  E  A 
-B  D  F♯
-G♯ C  E 
-F♯ A  D 
-E  G♯ B 
-C  F♯ A 
-B  D  G♯
+A  C  E      Am
+F♯ B  D      Bm
+E  G♯ C      C+
+D  F♯ A      DM
+B  E  G♯     EM
+A  C  F♯     F♯dim
+G♯ B  D      G♯dim
+E  A  C      Am
+D  F♯ B      Bm
+C  E  G♯     C+
+A  D  F♯     DM
+G♯ B  E      EM
+F♯ A  C      F♯dim
+D  G♯ B      G♯dim
+C  E  A      Am
+B  D  F♯     Bm
+G♯ C  E      C+
+F♯ A  D      DM
+E  G♯ B      EM
+C  F♯ A      F♯dim
+B  D  G♯     G♯dim
 -------------------------
 Spread: (1 5 3) --> (5 3 1)
-A  E  C 
-F♯ D  B 
-E  C  G♯
-D  A  F♯
-B  G♯ E 
-A  F♯ C 
-G♯ D  B 
-E  C  A 
-D  B  F♯
-C  G♯ E 
-A  F♯ D 
-G♯ E  B 
-F♯ C  A 
-D  B  G♯
-C  A  E 
-B  F♯ D 
-G♯ E  C 
-F♯ D  A 
-E  B  G♯
-C  A  F♯
-B  G♯ D 
+A  E  C      Am
+F♯ D  B      Bm
+E  C  G♯     C+
+D  A  F♯     DM
+B  G♯ E      EM
+A  F♯ C      F♯dim
+G♯ D  B      G♯dim
+E  C  A      Am
+D  B  F♯     Bm
+C  G♯ E      C+
+A  F♯ D      DM
+G♯ E  B      EM
+F♯ C  A      F♯dim
+D  B  G♯     G♯dim
+C  A  E      Am
+B  F♯ D      Bm
+G♯ E  C      C+
+F♯ D  A      DM
+E  B  G♯     EM
+C  A  F♯     F♯dim
+B  G♯ D      G♯dim
 -------------------------
